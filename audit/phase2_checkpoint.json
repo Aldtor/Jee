@@ -1,0 +1,100 @@
+{
+  "phase": 2,
+  "title": "Deep Validation & Integrity Check",
+  "checks_passed": 10,
+  "checks_total": 10,
+  "errors": [],
+  "warnings": [
+    "CHECK 3 WARN: 276 questions need images but files are missing",
+    "CHECK 10 WARN: 18 question chapters not in chapters_import",
+    "CHECK 10 WARN: 17 question topics not in topics_import"
+  ],
+  "status_breakdown": {
+    "OFFICIAL_FINAL_KEY": 642,
+    "MULTI_SOURCE_VERIFIED": 1590,
+    "OFFICIAL_SOURCE": 732
+  },
+  "type_distribution": {
+    "SINGLE_CORRECT_MCQ": 1158,
+    "NUMERICAL": 645,
+    "MULTIPLE_CORRECT": 738,
+    "INTEGER": 423
+  },
+  "subject_distribution": {
+    "JEE_MAIN_Mathematics": 225,
+    "JEE_MAIN_Physics": 225,
+    "JEE_MAIN_Chemistry": 225,
+    "JEE_ADVANCED_Physics": 763,
+    "JEE_ADVANCED_Chemistry": 763,
+    "JEE_ADVANCED_Mathematics": 763
+  },
+  "coverage": {
+    "jee_main_years": [
+      2026
+    ],
+    "jee_advanced_years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "jee_advanced_papers": {
+      "2007_P1": 66,
+      "2007_P2": 66,
+      "2008_P1": 69,
+      "2008_P2": 66,
+      "2009_P1": 60,
+      "2009_P2": 57,
+      "2010_P1": 69,
+      "2010_P2": 57,
+      "2011_P1": 69,
+      "2011_P2": 60,
+      "2012_P1": 60,
+      "2012_P2": 60,
+      "2013_P1": 60,
+      "2013_P2": 60,
+      "2014_P1": 60,
+      "2014_P2": 60,
+      "2015_P1": 60,
+      "2015_P2": 60,
+      "2016_P1": 54,
+      "2016_P2": 54,
+      "2017_P1": 54,
+      "2017_P2": 54,
+      "2018_P1": 54,
+      "2018_P2": 54,
+      "2019_P1": 54,
+      "2019_P2": 54,
+      "2020_P1": 54,
+      "2020_P2": 54,
+      "2021_P1": 57,
+      "2021_P2": 57,
+      "2022_P1": 54,
+      "2022_P2": 54,
+      "2023_P1": 51,
+      "2023_P2": 51,
+      "2024_P1": 51,
+      "2024_P2": 51,
+      "2025_P1": 51,
+      "2025_P2": 51,
+      "2026_P1": 51,
+      "2026_P2": 51
+    }
+  }
+}
