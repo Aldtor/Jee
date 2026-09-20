@@ -23,8 +23,8 @@ Answer Verification Breakdown:
   - UNVERIFIED                          : 0 questions
 
 Historical Marking Schemes              : 130 unique section scoring rules preserved
-Canonical Syllabus Taxonomy             : 51 Chapters (18 Phy, 19 Chem, 14 Math)
-                                          192 Topics (70 Phy, 68 Chem, 54 Math)
+Canonical Syllabus Taxonomy             : 69 Chapters (23 Phy, 23 Chem, 23 Math)
+                                          209 Topics (75 Phy, 73 Chem, 61 Math)
 Diagrams Requiring Visual Assets        : 2,166 questions
 Unnecessary Image Artifacts (Text-only) : 798 questions
 
