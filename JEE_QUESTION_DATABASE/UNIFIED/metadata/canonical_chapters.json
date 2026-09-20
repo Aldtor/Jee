@@ -1,0 +1,302 @@
+{
+  "Physics": {
+    "Units and Measurements": [
+      "Dimensional Analysis",
+      "Errors and Measurement",
+      "Significant Figures",
+      "SI Units"
+    ],
+    "Kinematics": [
+      "Motion in a Straight Line",
+      "Projectile Motion",
+      "Relative Velocity",
+      "Uniform and Non-uniform Acceleration"
+    ],
+    "Laws of Motion": [
+      "Newton's Laws of Motion",
+      "Friction",
+      "Circular Dynamics",
+      "Free Body Diagrams and Equilibrium"
+    ],
+    "Work, Energy and Power": [
+      "Work-Energy Theorem",
+      "Conservation of Mechanical Energy",
+      "Collisions and Impulse",
+      "Power and Variable Forces"
+    ],
+    "Rotational Motion": [
+      "Moment of Inertia",
+      "Torque and Angular Momentum",
+      "Rolling Motion",
+      "Rigid Body Dynamics"
+    ],
+    "Gravitation": [
+      "Newton's Law of Gravitation",
+      "Gravitational Potential and Field",
+      "Orbital Velocity and Escape Velocity",
+      "Kepler's Laws"
+    ],
+    "Mechanical Properties of Solids": [
+      "Stress-Strain Curve",
+      "Hooke's Law and Moduli of Elasticity",
+      "Elastic Energy"
+    ],
+    "Mechanical Properties of Fluids": [
+      "Pascal's and Archimedes' Principle",
+      "Bernoulli's Principle",
+      "Viscosity and Poiseuille's Law",
+      "Surface Tension and Capillarity"
+    ],
+    "Thermal Physics and Thermodynamics": [
+      "Heat Transfer and Conduction",
+      "First Law of Thermodynamics",
+      "Carnot Engine and Second Law",
+      "Kinetic Theory of Gases"
+    ],
+    "Oscillations and Waves": [
+      "Simple Harmonic Motion",
+      "Damped and Forced Oscillations",
+      "Wave Equation and Speed",
+      "Doppler Effect and Standing Waves"
+    ],
+    "Electrostatics": [
+      "Coulomb's Law and Electric Field",
+      "Gauss's Law and Flux",
+      "Electric Potential and Potential Energy",
+      "Capacitance and Dielectrics"
+    ],
+    "Current Electricity": [
+      "Ohm's Law and Resistance",
+      "Kirchhoff's Laws",
+      "Potentiometer and Meter Bridge",
+      "RC Circuits and Electrical Power"
+    ],
+    "Magnetic Effects of Current and Magnetism": [
+      "Biot-Savart Law",
+      "Ampere's Circuital Law",
+      "Lorentz Force and Charged Particle Motion",
+      "Magnetic Dipole and Matter Properties"
+    ],
+    "Electromagnetic Induction and Alternating Current": [
+      "Faraday's and Lenz's Law",
+      "Motional EMF and Inductance",
+      "LCR Series Circuits",
+      "Resonance and AC Power"
+    ],
+    "Electromagnetic Waves": [
+      "Displacement Current",
+      "EM Wave Properties and Spectrum",
+      "Poynting Vector"
+    ],
+    "Optics": [
+      "Reflection and Refraction at Spherical Surfaces",
+      "Lenses and Optical Instruments",
+      "Interference and Young's Double Slit Experiment",
+      "Diffraction and Polarisation"
+    ],
+    "Modern Physics": [
+      "Photoelectric Effect",
+      "de Broglie Wavelength",
+      "Bohr Model and Hydrogen Spectrum",
+      "Nuclear Physics and Radioactivity"
+    ],
+    "Semiconductor Electronics": [
+      "p-n Junction Diode and Rectifiers",
+      "Zener Diode",
+      "Logic Gates",
+      "Transistors"
+    ]
+  },
+  "Chemistry": {
+    "Some Basic Concepts of Chemistry": [
+      "Mole Concept and Stoichiometry",
+      "Concentration Terms (Molarity, Molality)",
+      "Limiting Reagent"
+    ],
+    "Structure of Atom": [
+      "Bohr Model and Quantum Numbers",
+      "de Broglie and Heisenberg Principles",
+      "Electronic Configuration and Aufbau Principle"
+    ],
+    "Chemical Bonding and Molecular Structure": [
+      "VSEPR Theory and Geometry",
+      "Hybridisation",
+      "Molecular Orbital Theory",
+      "Dipole Moment and Hydrogen Bonding"
+    ],
+    "States of Matter and Thermodynamics": [
+      "Ideal Gas Equation and Real Gases",
+      "First Law and Enthalpy",
+      "Entropy and Gibbs Free Energy",
+      "Hess's Law"
+    ],
+    "Chemical and Ionic Equilibrium": [
+      "Equilibrium Constant (Kc, Kp)",
+      "Le Chatelier's Principle",
+      "pH, Buffer Solutions and Hydrolysis",
+      "Solubility Product (Ksp)"
+    ],
+    "Redox Reactions and Electrochemistry": [
+      "Oxidation Number and Balancing",
+      "Galvanic Cells and Nernst Equation",
+      "Conductance and Kohlrausch's Law",
+      "Electrolysis and Faraday's Laws"
+    ],
+    "Chemical Kinetics": [
+      "Rate Law and Order of Reaction",
+      "First Order Kinetics and Half-life",
+      "Arrhenius Equation and Activation Energy"
+    ],
+    "Solutions": [
+      "Raoult's Law and Ideal Solutions",
+      "Colligative Properties",
+      "van 't Hoff Factor"
+    ],
+    "Classification of Elements and Periodicity": [
+      "Ionisation Enthalpy and Electron Affinity",
+      "Electronegativity Trends",
+      "Periodic Variations"
+    ],
+    "p-Block Elements": [
+      "Boron and Carbon Family",
+      "Nitrogen and Phosphorus Compounds",
+      "Oxygen and Sulphur Oxides/Acids",
+      "Halogens and Noble Gases"
+    ],
+    "d and f Block Elements": [
+      "Electronic Configuration and Oxidation States",
+      "Coloured Ions and Magnetic Properties",
+      "Potassium Dichromate and Permanganate",
+      "Lanthanoids and Actinoids"
+    ],
+    "Coordination Compounds": [
+      "Werner's Theory and IUPAC Nomenclature",
+      "Isomerism in Complexes",
+      "Crystal Field Theory",
+      "Stability and Valence Bond Theory"
+    ],
+    "General Organic Chemistry": [
+      "Inductive, Mesomeric and Hyperconjugation Effects",
+      "Carbocations, Carbanions, Free Radicals",
+      "Aromaticity and Acidity/Basicity",
+      "Isomerism (Structural and Stereoisomerism)"
+    ],
+    "Hydrocarbons": [
+      "Electrophilic Addition to Alkenes",
+      "Ozonolysis and Oxidation",
+      "Alkynes Reactions",
+      "Aromatic Electrophilic Substitution"
+    ],
+    "Haloalkanes and Haloarenes": [
+      "SN1 and SN2 Mechanisms",
+      "Elimination Reactions (E1, E2)",
+      "Reactions of Chlorobenzene"
+    ],
+    "Alcohols, Phenols and Ethers": [
+      "Preparation and Dehydration of Alcohols",
+      "Reactions of Phenols (Reimer-Tiemann, Kolbe)",
+      "Williamson Ether Synthesis"
+    ],
+    "Aldehydes, Ketones and Carboxylic Acids": [
+      "Nucleophilic Addition Reactions",
+      "Aldol Condensation and Cannizzaro Reaction",
+      "Grignard Reactions",
+      "Acidity of Carboxylic Acids"
+    ],
+    "Amines and Nitrogen Compounds": [
+      "Basicity of Amines",
+      "Gabriel Phthalimide and Hoffmann Bromamide",
+      "Diazonium Salt Coupling and Reactions"
+    ],
+    "Biomolecules and Everyday Chemistry": [
+      "Carbohydrates and Amino Acids",
+      "Peptide Bonds and Proteins",
+      "Nucleic Acids",
+      "Polymers and Environmental Chemistry"
+    ]
+  },
+  "Mathematics": {
+    "Sets, Relations and Functions": [
+      "Types of Relations and Equivalence Relations",
+      "One-One, Onto and Invertible Functions",
+      "Composite Functions",
+      "Domain and Range"
+    ],
+    "Complex Numbers and Quadratic Equations": [
+      "Modulus and Argument of Complex Numbers",
+      "Cube Roots of Unity and Geometry",
+      "Roots of Quadratic Equation",
+      "Location of Roots"
+    ],
+    "Matrices and Determinants": [
+      "Properties of Determinants",
+      "Adjoint and Inverse of Matrix",
+      "System of Linear Equations (Cramer's Rule)",
+      "Matrix Transformations"
+    ],
+    "Permutations and Combinations": [
+      "Fundamental Principle of Counting",
+      "Permutations with Repetition/Restrictions",
+      "Combinations and Geometrical Problems",
+      "Division and Distribution"
+    ],
+    "Binomial Theorem": [
+      "General and Middle Terms",
+      "Binomial Coefficients and Properties",
+      "Approximations and Multinomial Expansion"
+    ],
+    "Sequences and Series": [
+      "Arithmetic and Geometric Progressions",
+      "Arithmetic-Geometric Progression (AGP)",
+      "Sum of Special Series",
+      "AM-GM Inequality"
+    ],
+    "Limit, Continuity and Differentiability": [
+      "Evaluation of Limits (L'Hopital, Standard Forms)",
+      "Continuity at a Point and in Interval",
+      "Differentiability and Tangents",
+      "Rolle's and Mean Value Theorems"
+    ],
+    "Application of Derivatives": [
+      "Monotonicity and Intervals of Increase/Decrease",
+      "Maxima and Minima",
+      "Rate of Change and Approximation",
+      "Tangents and Normals"
+    ],
+    "Indefinite and Definite Integration": [
+      "Standard Methods of Integration",
+      "Properties of Definite Integrals",
+      "Leibniz Rule for Differentiation of Integrals",
+      "Definite Integral as Limit of a Sum"
+    ],
+    "Differential Equations": [
+      "Order and Degree of Differential Equations",
+      "Separable Variable Method",
+      "Homogeneous Differential Equations",
+      "Linear First Order Differential Equations"
+    ],
+    "Coordinate Geometry (2D)": [
+      "Straight Lines and Distance/Angle",
+      "Pair of Straight Lines",
+      "Circle Equations and Tangents",
+      "Parabola Standard Equations and Properties",
+      "Ellipse and Hyperbola (Eccentricity, Asymptotes)"
+    ],
+    "Vector Algebra and 3D Geometry": [
+      "Dot and Cross Products of Vectors",
+      "Scalar and Vector Triple Products",
+      "Line in 3D Space",
+      "Plane and Shortest Distance Between Lines"
+    ],
+    "Trigonometry": [
+      "Trigonometric Identities and Formulas",
+      "Trigonometric Equations",
+      "Inverse Trigonometric Functions and Properties"
+    ],
+    "Statistics and Probability": [
+      "Mean, Variance and Standard Deviation",
+      "Conditional Probability and Bayes' Theorem",
+      "Binomial Distribution and Random Variables"
+    ]
+  }
+}
