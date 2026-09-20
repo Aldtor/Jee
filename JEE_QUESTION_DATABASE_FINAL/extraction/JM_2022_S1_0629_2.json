@@ -1,0 +1,4626 @@
+{
+  "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2022/Session-1/Question-Papers/JEE_Main_2022_Session-1_Paper1_2022-06-29_Shift-2_Hindi.pdf",
+  "source_sha256": "5aa309191efb6c47a5788b763953a0713a30c1c6d3221863a3dbc7d58d9a48c1",
+  "format_type": "JEE_MAIN_QP",
+  "metadata": {
+    "year": 2022,
+    "session": "Session-1",
+    "exam_date": "2022-06-29",
+    "shift": "2",
+    "language": "Hindi",
+    "paper_type": "B.E/B.Tech.(Paper I)",
+    "total_marks": null,
+    "duration_minutes": null,
+    "creation_date": null,
+    "set_name": null
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "nta_question_id": "50111",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 1,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 2,
+      "nta_question_id": "50112",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 1,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 3,
+      "nta_question_id": "50113",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 1,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 4,
+      "nta_question_id": "50114",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 1,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 5,
+      "nta_question_id": "50115",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 1,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 6,
+      "nta_question_id": "50116",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 2,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 7,
+      "nta_question_id": "50117",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 2,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 8,
+      "nta_question_id": "50118",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 2,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 9,
+      "nta_question_id": "50119",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 3,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 10,
+      "nta_question_id": "501110",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 3,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 11,
+      "nta_question_id": "501111",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 3,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 12,
+      "nta_question_id": "501112",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 3,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 13,
+      "nta_question_id": "501113",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 4,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 14,
+      "nta_question_id": "501114",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 4,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 15,
+      "nta_question_id": "501115",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 4,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 16,
+      "nta_question_id": "501116",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 4,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 17,
+      "nta_question_id": "501117",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 18,
+      "nta_question_id": "501118",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 19,
+      "nta_question_id": "501119",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 20,
+      "nta_question_id": "501120",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 21,
+      "nta_question_id": "501121",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 22,
+      "nta_question_id": "501122",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 23,
+      "nta_question_id": "501123",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 24,
+      "nta_question_id": "501124",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 25,
+      "nta_question_id": "501125",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 26,
+      "nta_question_id": "501126",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 27,
+      "nta_question_id": "501127",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 28,
+      "nta_question_id": "501128",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 29,
+      "nta_question_id": "501129",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 30,
+      "nta_question_id": "501130",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 7,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 31,
+      "nta_question_id": "501131",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 7,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 32,
+      "nta_question_id": "501132",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 7,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 33,
+      "nta_question_id": "501133",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 7,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 34,
+      "nta_question_id": "501134",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 7,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 35,
+      "nta_question_id": "501135",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 8,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 36,
+      "nta_question_id": "501136",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 8,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 37,
+      "nta_question_id": "501137",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 8,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 38,
+      "nta_question_id": "501138",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 9,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 39,
+      "nta_question_id": "501139",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 9,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 40,
+      "nta_question_id": "501140",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 9,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 41,
+      "nta_question_id": "501141",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 9,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 42,
+      "nta_question_id": "501142",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 9,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 43,
+      "nta_question_id": "501143",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 10,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 44,
+      "nta_question_id": "501144",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 10,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 45,
+      "nta_question_id": "501145",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 10,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 46,
+      "nta_question_id": "501146",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 11,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 47,
+      "nta_question_id": "501147",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 11,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 48,
+      "nta_question_id": "501148",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 11,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 49,
+      "nta_question_id": "501149",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 11,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 50,
+      "nta_question_id": "501150",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 51,
+      "nta_question_id": "501151",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 52,
+      "nta_question_id": "501152",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 53,
+      "nta_question_id": "501153",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 54,
+      "nta_question_id": "501154",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 55,
+      "nta_question_id": "501155",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 56,
+      "nta_question_id": "501156",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 57,
+      "nta_question_id": "501157",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 58,
+      "nta_question_id": "501158",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 59,
+      "nta_question_id": "501159",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 60,
+      "nta_question_id": "501160",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 61,
+      "nta_question_id": "501161",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 14,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 62,
+      "nta_question_id": "501162",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 14,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 63,
+      "nta_question_id": "501163",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 14,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 64,
+      "nta_question_id": "501164",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 15,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 65,
+      "nta_question_id": "501165",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 15,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 66,
+      "nta_question_id": "501166",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 15,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 67,
+      "nta_question_id": "501167",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 15,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 68,
+      "nta_question_id": "501168",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 16,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 69,
+      "nta_question_id": "501169",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 16,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 70,
+      "nta_question_id": "501170",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 16,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 71,
+      "nta_question_id": "501171",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 17,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 72,
+      "nta_question_id": "501172",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 17,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 73,
+      "nta_question_id": "501173",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 17,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 74,
+      "nta_question_id": "501174",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 17,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 75,
+      "nta_question_id": "501175",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 18,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 76,
+      "nta_question_id": "501176",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 18,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 77,
+      "nta_question_id": "501177",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 18,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 78,
+      "nta_question_id": "501178",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 79,
+      "nta_question_id": "501179",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 80,
+      "nta_question_id": "501180",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 81,
+      "nta_question_id": "501181",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 82,
+      "nta_question_id": "501182",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 83,
+      "nta_question_id": "501183",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 84,
+      "nta_question_id": "501184",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 85,
+      "nta_question_id": "501185",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 86,
+      "nta_question_id": "501186",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 87,
+      "nta_question_id": "501187",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 88,
+      "nta_question_id": "501188",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 89,
+      "nta_question_id": "501189",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    },
+    {
+      "question_number": 90,
+      "nta_question_id": "501190",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": null,
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 21,
+      "source_page_end": null,
+      "extraction_method": "JEE_MAIN_QP_METADATA",
+      "extraction_confidence": 0.3,
+      "needs_review": true,
+      "review_reason": "Image-based content in JEE_MAIN_QP format"
+    }
+  ],
+  "total_pages": 21,
+  "extraction_timestamp": "2026-09-21T04:18:05.344697",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_questions": 90,
+    "mcq": 60,
+    "numerical": 30,
+    "with_text": 0,
+    "with_images": 0,
+    "needs_review": 90,
+    "subjects": [
+      "Mathematics",
+      "Chemistry",
+      "Physics"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-1.pdf",
+  "source_sha256": "26d197b4eb7f90bb77be1c5da20b0ca7a289ebddf54c51ae6158985f95fead8c",
+  "format_type": "RECORDED_RESPONSE",
+  "metadata": {
+    "year": 2021,
+    "session": "Session-3",
+    "exam_date": "2021-07-27",
+    "shift": "1",
+    "language": "English",
+    "paper_type": "Paper-I (B.E./B.Tech.)",
+    "total_marks": 300,
+    "duration_minutes": 180,
+    "creation_date": "2021-07-24 17:19:13",
+    "set_name": null
+  },
+  "questions": [],
+  "total_pages": 59,
+  "extraction_timestamp": "2026-09-21T04:13:24.361687",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_questions": 0,
+    "mcq": 0,
+    "numerical": 0,
+    "with_text": 0,
+    "with_images": 0,
+    "needs_review": 0,
+    "subjects": []
+  },
+  "needs_reparse": true,
+  "reparse_reason": "0 questions extracted — likely bilingual format with different text encoding"
+}

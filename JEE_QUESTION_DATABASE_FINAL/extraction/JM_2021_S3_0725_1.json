@@ -1,0 +1,3636 @@
+{
+  "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-25_Shift-1.pdf",
+  "source_sha256": "28bce8a72a5b07af8aa9461fb16f150af94fd49b8dc0ab7565ccbd5e49054919",
+  "format_type": "RECORDED_RESPONSE",
+  "metadata": {
+    "year": 2021,
+    "session": "Session-3",
+    "exam_date": "2021-07-25",
+    "shift": "1",
+    "language": "English",
+    "paper_type": "Paper-I (B.E./B.Tech.)",
+    "total_marks": 300,
+    "duration_minutes": 180,
+    "creation_date": "2021-07-25 15:16:43",
+    "set_name": null
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "nta_question_id": "86435118190",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161151",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161152",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161153",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161154",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 2,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 2,
+      "nta_question_id": "86435118191",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161155",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161156",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161157",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161158",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 2,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 3,
+      "nta_question_id": "86435118192",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161159",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161160",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161161",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161162",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 3,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 4,
+      "nta_question_id": "86435118193",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161163",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161164",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161165",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161166",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 4,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 5,
+      "nta_question_id": "86435118194",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161167",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161168",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161169",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161170",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 4,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 6,
+      "nta_question_id": "86435118195",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161171",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161172",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161173",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161174",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 5,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 7,
+      "nta_question_id": "86435118196",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161175",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161176",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161177",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161178",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 8,
+      "nta_question_id": "86435118197",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161179",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161180",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161181",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161182",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 6,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 9,
+      "nta_question_id": "86435118198",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161183",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161184",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161185",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161186",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 7,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 10,
+      "nta_question_id": "86435118199",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161187",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161188",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161189",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161190",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 8,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 11,
+      "nta_question_id": "86435118200",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161191",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161192",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161193",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161194",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 8,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 12,
+      "nta_question_id": "86435118201",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161195",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161196",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161197",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161198",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 9,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 13,
+      "nta_question_id": "86435118202",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161199",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161200",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161201",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161202",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 10,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 14,
+      "nta_question_id": "86435118203",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161203",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161204",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161205",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161206",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 11,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 15,
+      "nta_question_id": "86435118204",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161207",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161208",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161209",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161210",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 16,
+      "nta_question_id": "86435118205",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161211",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161212",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161213",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161214",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 12,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 17,
+      "nta_question_id": "86435118206",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161215",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161216",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161217",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161218",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 13,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 18,
+      "nta_question_id": "86435118207",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161219",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161220",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161221",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161222",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 15,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 19,
+      "nta_question_id": "86435118208",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161223",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161224",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161225",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161226",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 15,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 20,
+      "nta_question_id": "86435118209",
+      "question_type": "MCQ",
+      "subject": "Physics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161227",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161228",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161229",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161230",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 16,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 21,
+      "nta_question_id": "86435118210",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 17,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 22,
+      "nta_question_id": "86435118211",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 18,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 23,
+      "nta_question_id": "86435118212",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 18,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 24,
+      "nta_question_id": "86435118213",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 25,
+      "nta_question_id": "86435118214",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 19,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 26,
+      "nta_question_id": "86435118215",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 27,
+      "nta_question_id": "86435118216",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 20,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 28,
+      "nta_question_id": "86435118217",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 21,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 29,
+      "nta_question_id": "86435118218",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 21,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 30,
+      "nta_question_id": "86435118219",
+      "question_type": "NUMERICAL",
+      "subject": "Physics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 22,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 31,
+      "nta_question_id": "86435118220",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161241",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161242",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161243",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161244",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 23,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 32,
+      "nta_question_id": "86435118221",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161245",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161246",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161247",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161248",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 25,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 33,
+      "nta_question_id": "86435118222",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161249",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161250",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161251",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161252",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 25,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 34,
+      "nta_question_id": "86435118223",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161253",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161254",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161255",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161256",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 26,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 35,
+      "nta_question_id": "86435118224",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161257",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161258",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161259",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161260",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 26,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 36,
+      "nta_question_id": "86435118225",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161261",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161262",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161263",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161264",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 27,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 37,
+      "nta_question_id": "86435118226",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161265",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161266",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161267",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161268",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 28,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 38,
+      "nta_question_id": "86435118227",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161269",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161270",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161271",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161272",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 28,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 39,
+      "nta_question_id": "86435118228",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161273",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161274",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161275",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161276",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 29,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 40,
+      "nta_question_id": "86435118229",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161277",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161278",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161279",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161280",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 29,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 41,
+      "nta_question_id": "86435118230",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161281",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161282",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161283",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161284",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 30,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 42,
+      "nta_question_id": "86435118231",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161285",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161286",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161287",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161288",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 31,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 43,
+      "nta_question_id": "86435118232",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161289",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161290",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161291",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161292",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 31,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 44,
+      "nta_question_id": "86435118233",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161293",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161294",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161295",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161296",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 32,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 45,
+      "nta_question_id": "86435118234",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161297",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161298",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161299",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161300",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 33,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 46,
+      "nta_question_id": "86435118235",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161301",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161302",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161303",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161304",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 34,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 47,
+      "nta_question_id": "86435118236",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161305",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161306",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161307",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161308",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 35,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 48,
+      "nta_question_id": "86435118237",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161309",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161310",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161311",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161312",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 36,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 49,
+      "nta_question_id": "86435118238",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161313",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161314",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161315",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161316",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 36,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 50,
+      "nta_question_id": "86435118239",
+      "question_type": "MCQ",
+      "subject": "Chemistry",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161317",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161318",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161319",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161320",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 37,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 51,
+      "nta_question_id": "86435118240",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 38,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 52,
+      "nta_question_id": "86435118241",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 38,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 53,
+      "nta_question_id": "86435118242",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 39,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 54,
+      "nta_question_id": "86435118243",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 39,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 55,
+      "nta_question_id": "86435118244",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 40,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 56,
+      "nta_question_id": "86435118245",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 40,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 57,
+      "nta_question_id": "86435118246",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 41,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 58,
+      "nta_question_id": "86435118247",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 41,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 59,
+      "nta_question_id": "86435118248",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 42,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 60,
+      "nta_question_id": "86435118249",
+      "question_type": "NUMERICAL",
+      "subject": "Chemistry",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 42,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 61,
+      "nta_question_id": "86435118250",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161331",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161332",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161333",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161334",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 43,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 62,
+      "nta_question_id": "86435118251",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161335",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161336",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161337",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161338",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 44,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 63,
+      "nta_question_id": "86435118252",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161339",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161340",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161341",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161342",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 44,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 64,
+      "nta_question_id": "86435118253",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161343",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161344",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161345",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161346",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 45,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 65,
+      "nta_question_id": "86435118254",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161347",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161348",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161349",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161350",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 45,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 66,
+      "nta_question_id": "86435118255",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161351",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161352",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161353",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161354",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 46,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 67,
+      "nta_question_id": "86435118256",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161355",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161356",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161357",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161358",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 47,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 68,
+      "nta_question_id": "86435118257",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161359",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161360",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161361",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161362",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 47,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 69,
+      "nta_question_id": "86435118258",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161363",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161364",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161365",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161366",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 48,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 70,
+      "nta_question_id": "86435118259",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161367",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161368",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161369",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161370",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 49,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 71,
+      "nta_question_id": "86435118260",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161371",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161372",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161373",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161374",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 50,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 72,
+      "nta_question_id": "86435118261",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161375",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161376",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161377",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161378",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 50,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 73,
+      "nta_question_id": "86435118262",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161379",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161380",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161381",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161382",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 51,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 74,
+      "nta_question_id": "86435118263",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161383",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161384",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161385",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161386",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 51,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 75,
+      "nta_question_id": "86435118264",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161387",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161388",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161389",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161390",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 52,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 76,
+      "nta_question_id": "86435118265",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161391",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161392",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161393",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161394",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 52,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 77,
+      "nta_question_id": "86435118266",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161395",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161396",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161397",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161398",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 53,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 78,
+      "nta_question_id": "86435118267",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161399",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161400",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161401",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161402",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 53,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 79,
+      "nta_question_id": "86435118268",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161403",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161404",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161405",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161406",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 54,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 80,
+      "nta_question_id": "86435118269",
+      "question_type": "MCQ",
+      "subject": "Mathematics",
+      "section": "Section A",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [
+        {
+          "option_index": 1,
+          "label": "A",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161407",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 2,
+          "label": "B",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161408",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 3,
+          "label": "C",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161409",
+          "extraction_confidence": 0.0
+        },
+        {
+          "option_index": 4,
+          "label": "D",
+          "text": null,
+          "image_path": null,
+          "option_nta_id": "86435161410",
+          "extraction_confidence": 0.0
+        }
+      ],
+      "correct_marks": 4.0,
+      "wrong_marks": 1.0,
+      "source_page": 55,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 81,
+      "nta_question_id": "86435118270",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 56,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 82,
+      "nta_question_id": "86435118271",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 56,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 83,
+      "nta_question_id": "86435118272",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 57,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 84,
+      "nta_question_id": "86435118273",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 57,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 85,
+      "nta_question_id": "86435118274",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 58,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 86,
+      "nta_question_id": "86435118275",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 58,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 87,
+      "nta_question_id": "86435118276",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 59,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 88,
+      "nta_question_id": "86435118277",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 59,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 89,
+      "nta_question_id": "86435118278",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 60,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    },
+    {
+      "question_number": 90,
+      "nta_question_id": "86435118279",
+      "question_type": "NUMERICAL",
+      "subject": "Mathematics",
+      "section": "Section B",
+      "question_text": null,
+      "question_image_path": null,
+      "options": [],
+      "correct_marks": 4.0,
+      "wrong_marks": 0.0,
+      "source_page": 60,
+      "source_page_end": null,
+      "extraction_method": "RECORDED_RESPONSE_METADATA",
+      "extraction_confidence": 0.5,
+      "needs_review": true,
+      "review_reason": "Question text embedded as image — requires OCR or image asset"
+    }
+  ],
+  "total_pages": 60,
+  "extraction_timestamp": "2026-09-21T04:13:16.790534",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_questions": 90,
+    "mcq": 60,
+    "numerical": 30,
+    "with_text": 0,
+    "with_images": 0,
+    "needs_review": 90,
+    "subjects": [
+      "Mathematics",
+      "Chemistry",
+      "Physics"
+    ]
+  }
+}

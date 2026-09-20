@@ -1,0 +1,33 @@
+{
+  "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2020/Session-1/Question-Papers/JEE_Main_2020_Session-1_Paper1_2020-01-08_Shift-1.pdf",
+  "source_sha256": "c16c2102cc6de6a6e79a766ed67e7255ed6cd85755330dcca12bd28be5f7134f",
+  "format_type": "RECORDED_RESPONSE",
+  "metadata": {
+    "year": 2020,
+    "session": "Session-1",
+    "exam_date": "2020-01-08",
+    "shift": "1",
+    "language": "English",
+    "paper_type": "Paper-I (B.E./B.Tech.)",
+    "total_marks": 300,
+    "duration_minutes": 180,
+    "creation_date": "2020-01-08 15:09:15",
+    "set_name": null
+  },
+  "questions": [],
+  "total_pages": 130,
+  "extraction_timestamp": "2026-09-21T04:03:13.286257",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_questions": 0,
+    "mcq": 0,
+    "numerical": 0,
+    "with_text": 0,
+    "with_images": 0,
+    "needs_review": 0,
+    "subjects": []
+  },
+  "needs_reparse": true,
+  "reparse_reason": "0 questions extracted — likely bilingual format with different text encoding"
+}

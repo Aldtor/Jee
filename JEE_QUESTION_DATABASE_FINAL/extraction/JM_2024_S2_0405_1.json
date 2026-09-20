@@ -1,0 +1,33 @@
+{
+  "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2024/Session-2/Question-Papers/JEE_Main_2024_Session-2_Paper1_2024-04-05_Shift-1.pdf",
+  "source_sha256": "cb964f69662c0814b5921a815110a6bdb0d2a7c8448e1e7112763bb92fa785c9",
+  "format_type": "RECORDED_RESPONSE",
+  "metadata": {
+    "year": 2024,
+    "session": "Session-2",
+    "exam_date": "2024-04-05",
+    "shift": "1",
+    "language": "English",
+    "paper_type": "Paper-I (B.E./B.Tech.)",
+    "total_marks": null,
+    "duration_minutes": null,
+    "creation_date": null,
+    "set_name": null
+  },
+  "questions": [],
+  "total_pages": 121,
+  "extraction_timestamp": "2026-09-21T04:27:41.979677",
+  "errors": [],
+  "warnings": [],
+  "summary": {
+    "total_questions": 0,
+    "mcq": 0,
+    "numerical": 0,
+    "with_text": 0,
+    "with_images": 0,
+    "needs_review": 0,
+    "subjects": []
+  },
+  "needs_reparse": true,
+  "reparse_reason": "0 questions extracted — likely bilingual format with different text encoding"
+}

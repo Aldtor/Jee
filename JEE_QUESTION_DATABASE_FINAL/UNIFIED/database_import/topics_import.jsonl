@@ -1,0 +1,209 @@
+{"topic_id": "TOP_PHY_0001", "chapter_id": "CHP_PHY_001", "subject": "Physics", "chapter_name": "Units and Measurements", "topic_name": "Dimensional Analysis"}
+{"topic_id": "TOP_PHY_0002", "chapter_id": "CHP_PHY_001", "subject": "Physics", "chapter_name": "Units and Measurements", "topic_name": "Errors and Measurement"}
+{"topic_id": "TOP_PHY_0003", "chapter_id": "CHP_PHY_001", "subject": "Physics", "chapter_name": "Units and Measurements", "topic_name": "Significant Figures"}
+{"topic_id": "TOP_PHY_0004", "chapter_id": "CHP_PHY_001", "subject": "Physics", "chapter_name": "Units and Measurements", "topic_name": "SI Units"}
+{"topic_id": "TOP_PHY_0005", "chapter_id": "CHP_PHY_002", "subject": "Physics", "chapter_name": "Kinematics", "topic_name": "Motion in a Straight Line"}
+{"topic_id": "TOP_PHY_0006", "chapter_id": "CHP_PHY_002", "subject": "Physics", "chapter_name": "Kinematics", "topic_name": "Projectile Motion"}
+{"topic_id": "TOP_PHY_0007", "chapter_id": "CHP_PHY_002", "subject": "Physics", "chapter_name": "Kinematics", "topic_name": "Relative Velocity"}
+{"topic_id": "TOP_PHY_0008", "chapter_id": "CHP_PHY_002", "subject": "Physics", "chapter_name": "Kinematics", "topic_name": "Uniform and Non-uniform Acceleration"}
+{"topic_id": "TOP_PHY_0009", "chapter_id": "CHP_PHY_003", "subject": "Physics", "chapter_name": "Laws of Motion", "topic_name": "Newton's Laws of Motion"}
+{"topic_id": "TOP_PHY_0010", "chapter_id": "CHP_PHY_003", "subject": "Physics", "chapter_name": "Laws of Motion", "topic_name": "Friction"}
+{"topic_id": "TOP_PHY_0011", "chapter_id": "CHP_PHY_003", "subject": "Physics", "chapter_name": "Laws of Motion", "topic_name": "Circular Dynamics"}
+{"topic_id": "TOP_PHY_0012", "chapter_id": "CHP_PHY_003", "subject": "Physics", "chapter_name": "Laws of Motion", "topic_name": "Free Body Diagrams and Equilibrium"}
+{"topic_id": "TOP_PHY_0013", "chapter_id": "CHP_PHY_004", "subject": "Physics", "chapter_name": "Work, Energy and Power", "topic_name": "Work-Energy Theorem"}
+{"topic_id": "TOP_PHY_0014", "chapter_id": "CHP_PHY_004", "subject": "Physics", "chapter_name": "Work, Energy and Power", "topic_name": "Conservation of Mechanical Energy"}
+{"topic_id": "TOP_PHY_0015", "chapter_id": "CHP_PHY_004", "subject": "Physics", "chapter_name": "Work, Energy and Power", "topic_name": "Collisions and Impulse"}
+{"topic_id": "TOP_PHY_0016", "chapter_id": "CHP_PHY_004", "subject": "Physics", "chapter_name": "Work, Energy and Power", "topic_name": "Power and Variable Forces"}
+{"topic_id": "TOP_PHY_0017", "chapter_id": "CHP_PHY_005", "subject": "Physics", "chapter_name": "Rotational Motion", "topic_name": "Moment of Inertia"}
+{"topic_id": "TOP_PHY_0018", "chapter_id": "CHP_PHY_005", "subject": "Physics", "chapter_name": "Rotational Motion", "topic_name": "Torque and Angular Momentum"}
+{"topic_id": "TOP_PHY_0019", "chapter_id": "CHP_PHY_005", "subject": "Physics", "chapter_name": "Rotational Motion", "topic_name": "Rolling Motion"}
+{"topic_id": "TOP_PHY_0020", "chapter_id": "CHP_PHY_005", "subject": "Physics", "chapter_name": "Rotational Motion", "topic_name": "Rigid Body Dynamics"}
+{"topic_id": "TOP_PHY_0021", "chapter_id": "CHP_PHY_006", "subject": "Physics", "chapter_name": "Gravitation", "topic_name": "Newton's Law of Gravitation"}
+{"topic_id": "TOP_PHY_0022", "chapter_id": "CHP_PHY_006", "subject": "Physics", "chapter_name": "Gravitation", "topic_name": "Gravitational Potential and Field"}
+{"topic_id": "TOP_PHY_0023", "chapter_id": "CHP_PHY_006", "subject": "Physics", "chapter_name": "Gravitation", "topic_name": "Orbital Velocity and Escape Velocity"}
+{"topic_id": "TOP_PHY_0024", "chapter_id": "CHP_PHY_006", "subject": "Physics", "chapter_name": "Gravitation", "topic_name": "Kepler's Laws"}
+{"topic_id": "TOP_PHY_0025", "chapter_id": "CHP_PHY_007", "subject": "Physics", "chapter_name": "Mechanical Properties of Solids", "topic_name": "Stress-Strain Curve"}
+{"topic_id": "TOP_PHY_0026", "chapter_id": "CHP_PHY_007", "subject": "Physics", "chapter_name": "Mechanical Properties of Solids", "topic_name": "Hooke's Law and Moduli of Elasticity"}
+{"topic_id": "TOP_PHY_0027", "chapter_id": "CHP_PHY_007", "subject": "Physics", "chapter_name": "Mechanical Properties of Solids", "topic_name": "Elastic Energy"}
+{"topic_id": "TOP_PHY_0028", "chapter_id": "CHP_PHY_008", "subject": "Physics", "chapter_name": "Mechanical Properties of Fluids", "topic_name": "Pascal's and Archimedes' Principle"}
+{"topic_id": "TOP_PHY_0029", "chapter_id": "CHP_PHY_008", "subject": "Physics", "chapter_name": "Mechanical Properties of Fluids", "topic_name": "Bernoulli's Principle"}
+{"topic_id": "TOP_PHY_0030", "chapter_id": "CHP_PHY_008", "subject": "Physics", "chapter_name": "Mechanical Properties of Fluids", "topic_name": "Viscosity and Poiseuille's Law"}
+{"topic_id": "TOP_PHY_0031", "chapter_id": "CHP_PHY_008", "subject": "Physics", "chapter_name": "Mechanical Properties of Fluids", "topic_name": "Surface Tension and Capillarity"}
+{"topic_id": "TOP_PHY_0032", "chapter_id": "CHP_PHY_009", "subject": "Physics", "chapter_name": "Thermal Physics and Thermodynamics", "topic_name": "Heat Transfer and Conduction"}
+{"topic_id": "TOP_PHY_0033", "chapter_id": "CHP_PHY_009", "subject": "Physics", "chapter_name": "Thermal Physics and Thermodynamics", "topic_name": "First Law of Thermodynamics"}
+{"topic_id": "TOP_PHY_0034", "chapter_id": "CHP_PHY_009", "subject": "Physics", "chapter_name": "Thermal Physics and Thermodynamics", "topic_name": "Carnot Engine and Second Law"}
+{"topic_id": "TOP_PHY_0035", "chapter_id": "CHP_PHY_009", "subject": "Physics", "chapter_name": "Thermal Physics and Thermodynamics", "topic_name": "Kinetic Theory of Gases"}
+{"topic_id": "TOP_PHY_0036", "chapter_id": "CHP_PHY_010", "subject": "Physics", "chapter_name": "Oscillations and Waves", "topic_name": "Simple Harmonic Motion"}
+{"topic_id": "TOP_PHY_0037", "chapter_id": "CHP_PHY_010", "subject": "Physics", "chapter_name": "Oscillations and Waves", "topic_name": "Damped and Forced Oscillations"}
+{"topic_id": "TOP_PHY_0038", "chapter_id": "CHP_PHY_010", "subject": "Physics", "chapter_name": "Oscillations and Waves", "topic_name": "Wave Equation and Speed"}
+{"topic_id": "TOP_PHY_0039", "chapter_id": "CHP_PHY_010", "subject": "Physics", "chapter_name": "Oscillations and Waves", "topic_name": "Doppler Effect and Standing Waves"}
+{"topic_id": "TOP_PHY_0040", "chapter_id": "CHP_PHY_011", "subject": "Physics", "chapter_name": "Electrostatics", "topic_name": "Coulomb's Law and Electric Field"}
+{"topic_id": "TOP_PHY_0041", "chapter_id": "CHP_PHY_011", "subject": "Physics", "chapter_name": "Electrostatics", "topic_name": "Gauss's Law and Flux"}
+{"topic_id": "TOP_PHY_0042", "chapter_id": "CHP_PHY_011", "subject": "Physics", "chapter_name": "Electrostatics", "topic_name": "Electric Potential and Potential Energy"}
+{"topic_id": "TOP_PHY_0043", "chapter_id": "CHP_PHY_011", "subject": "Physics", "chapter_name": "Electrostatics", "topic_name": "Capacitance and Dielectrics"}
+{"topic_id": "TOP_PHY_0044", "chapter_id": "CHP_PHY_012", "subject": "Physics", "chapter_name": "Current Electricity", "topic_name": "Ohm's Law and Resistance"}
+{"topic_id": "TOP_PHY_0045", "chapter_id": "CHP_PHY_012", "subject": "Physics", "chapter_name": "Current Electricity", "topic_name": "Kirchhoff's Laws"}
+{"topic_id": "TOP_PHY_0046", "chapter_id": "CHP_PHY_012", "subject": "Physics", "chapter_name": "Current Electricity", "topic_name": "Potentiometer and Meter Bridge"}
+{"topic_id": "TOP_PHY_0047", "chapter_id": "CHP_PHY_012", "subject": "Physics", "chapter_name": "Current Electricity", "topic_name": "RC Circuits and Electrical Power"}
+{"topic_id": "TOP_PHY_0048", "chapter_id": "CHP_PHY_013", "subject": "Physics", "chapter_name": "Magnetic Effects of Current and Magnetism", "topic_name": "Biot-Savart Law"}
+{"topic_id": "TOP_PHY_0049", "chapter_id": "CHP_PHY_013", "subject": "Physics", "chapter_name": "Magnetic Effects of Current and Magnetism", "topic_name": "Ampere's Circuital Law"}
+{"topic_id": "TOP_PHY_0050", "chapter_id": "CHP_PHY_013", "subject": "Physics", "chapter_name": "Magnetic Effects of Current and Magnetism", "topic_name": "Lorentz Force and Charged Particle Motion"}
+{"topic_id": "TOP_PHY_0051", "chapter_id": "CHP_PHY_013", "subject": "Physics", "chapter_name": "Magnetic Effects of Current and Magnetism", "topic_name": "Magnetic Dipole and Matter Properties"}
+{"topic_id": "TOP_PHY_0052", "chapter_id": "CHP_PHY_014", "subject": "Physics", "chapter_name": "Electromagnetic Induction and Alternating Current", "topic_name": "Faraday's and Lenz's Law"}
+{"topic_id": "TOP_PHY_0053", "chapter_id": "CHP_PHY_014", "subject": "Physics", "chapter_name": "Electromagnetic Induction and Alternating Current", "topic_name": "Motional EMF and Inductance"}
+{"topic_id": "TOP_PHY_0054", "chapter_id": "CHP_PHY_014", "subject": "Physics", "chapter_name": "Electromagnetic Induction and Alternating Current", "topic_name": "LCR Series Circuits"}
+{"topic_id": "TOP_PHY_0055", "chapter_id": "CHP_PHY_014", "subject": "Physics", "chapter_name": "Electromagnetic Induction and Alternating Current", "topic_name": "Resonance and AC Power"}
+{"topic_id": "TOP_PHY_0056", "chapter_id": "CHP_PHY_015", "subject": "Physics", "chapter_name": "Electromagnetic Waves", "topic_name": "Displacement Current"}
+{"topic_id": "TOP_PHY_0057", "chapter_id": "CHP_PHY_015", "subject": "Physics", "chapter_name": "Electromagnetic Waves", "topic_name": "EM Wave Properties and Spectrum"}
+{"topic_id": "TOP_PHY_0058", "chapter_id": "CHP_PHY_015", "subject": "Physics", "chapter_name": "Electromagnetic Waves", "topic_name": "Poynting Vector"}
+{"topic_id": "TOP_PHY_0059", "chapter_id": "CHP_PHY_016", "subject": "Physics", "chapter_name": "Optics", "topic_name": "Reflection and Refraction at Spherical Surfaces"}
+{"topic_id": "TOP_PHY_0060", "chapter_id": "CHP_PHY_016", "subject": "Physics", "chapter_name": "Optics", "topic_name": "Lenses and Optical Instruments"}
+{"topic_id": "TOP_PHY_0061", "chapter_id": "CHP_PHY_016", "subject": "Physics", "chapter_name": "Optics", "topic_name": "Interference and Young's Double Slit Experiment"}
+{"topic_id": "TOP_PHY_0062", "chapter_id": "CHP_PHY_016", "subject": "Physics", "chapter_name": "Optics", "topic_name": "Diffraction and Polarisation"}
+{"topic_id": "TOP_PHY_0063", "chapter_id": "CHP_PHY_017", "subject": "Physics", "chapter_name": "Modern Physics", "topic_name": "Photoelectric Effect"}
+{"topic_id": "TOP_PHY_0064", "chapter_id": "CHP_PHY_017", "subject": "Physics", "chapter_name": "Modern Physics", "topic_name": "de Broglie Wavelength"}
+{"topic_id": "TOP_PHY_0065", "chapter_id": "CHP_PHY_017", "subject": "Physics", "chapter_name": "Modern Physics", "topic_name": "Bohr Model and Hydrogen Spectrum"}
+{"topic_id": "TOP_PHY_0066", "chapter_id": "CHP_PHY_017", "subject": "Physics", "chapter_name": "Modern Physics", "topic_name": "Nuclear Physics and Radioactivity"}
+{"topic_id": "TOP_PHY_0067", "chapter_id": "CHP_PHY_018", "subject": "Physics", "chapter_name": "Semiconductor Electronics", "topic_name": "p-n Junction Diode and Rectifiers"}
+{"topic_id": "TOP_PHY_0068", "chapter_id": "CHP_PHY_018", "subject": "Physics", "chapter_name": "Semiconductor Electronics", "topic_name": "Zener Diode"}
+{"topic_id": "TOP_PHY_0069", "chapter_id": "CHP_PHY_018", "subject": "Physics", "chapter_name": "Semiconductor Electronics", "topic_name": "Logic Gates"}
+{"topic_id": "TOP_PHY_0070", "chapter_id": "CHP_PHY_018", "subject": "Physics", "chapter_name": "Semiconductor Electronics", "topic_name": "Transistors"}
+{"topic_id": "TOP_CHE_0071", "chapter_id": "CHP_CHE_019", "subject": "Chemistry", "chapter_name": "Some Basic Concepts of Chemistry", "topic_name": "Mole Concept and Stoichiometry"}
+{"topic_id": "TOP_CHE_0072", "chapter_id": "CHP_CHE_019", "subject": "Chemistry", "chapter_name": "Some Basic Concepts of Chemistry", "topic_name": "Concentration Terms (Molarity, Molality)"}
+{"topic_id": "TOP_CHE_0073", "chapter_id": "CHP_CHE_019", "subject": "Chemistry", "chapter_name": "Some Basic Concepts of Chemistry", "topic_name": "Limiting Reagent"}
+{"topic_id": "TOP_CHE_0074", "chapter_id": "CHP_CHE_020", "subject": "Chemistry", "chapter_name": "Structure of Atom", "topic_name": "Bohr Model and Quantum Numbers"}
+{"topic_id": "TOP_CHE_0075", "chapter_id": "CHP_CHE_020", "subject": "Chemistry", "chapter_name": "Structure of Atom", "topic_name": "de Broglie and Heisenberg Principles"}
+{"topic_id": "TOP_CHE_0076", "chapter_id": "CHP_CHE_020", "subject": "Chemistry", "chapter_name": "Structure of Atom", "topic_name": "Electronic Configuration and Aufbau Principle"}
+{"topic_id": "TOP_CHE_0077", "chapter_id": "CHP_CHE_021", "subject": "Chemistry", "chapter_name": "Chemical Bonding and Molecular Structure", "topic_name": "VSEPR Theory and Geometry"}
+{"topic_id": "TOP_CHE_0078", "chapter_id": "CHP_CHE_021", "subject": "Chemistry", "chapter_name": "Chemical Bonding and Molecular Structure", "topic_name": "Hybridisation"}
+{"topic_id": "TOP_CHE_0079", "chapter_id": "CHP_CHE_021", "subject": "Chemistry", "chapter_name": "Chemical Bonding and Molecular Structure", "topic_name": "Molecular Orbital Theory"}
+{"topic_id": "TOP_CHE_0080", "chapter_id": "CHP_CHE_021", "subject": "Chemistry", "chapter_name": "Chemical Bonding and Molecular Structure", "topic_name": "Dipole Moment and Hydrogen Bonding"}
+{"topic_id": "TOP_CHE_0081", "chapter_id": "CHP_CHE_022", "subject": "Chemistry", "chapter_name": "States of Matter and Thermodynamics", "topic_name": "Ideal Gas Equation and Real Gases"}
+{"topic_id": "TOP_CHE_0082", "chapter_id": "CHP_CHE_022", "subject": "Chemistry", "chapter_name": "States of Matter and Thermodynamics", "topic_name": "First Law and Enthalpy"}
+{"topic_id": "TOP_CHE_0083", "chapter_id": "CHP_CHE_022", "subject": "Chemistry", "chapter_name": "States of Matter and Thermodynamics", "topic_name": "Entropy and Gibbs Free Energy"}
+{"topic_id": "TOP_CHE_0084", "chapter_id": "CHP_CHE_022", "subject": "Chemistry", "chapter_name": "States of Matter and Thermodynamics", "topic_name": "Hess's Law"}
+{"topic_id": "TOP_CHE_0085", "chapter_id": "CHP_CHE_023", "subject": "Chemistry", "chapter_name": "Chemical and Ionic Equilibrium", "topic_name": "Equilibrium Constant (Kc, Kp)"}
+{"topic_id": "TOP_CHE_0086", "chapter_id": "CHP_CHE_023", "subject": "Chemistry", "chapter_name": "Chemical and Ionic Equilibrium", "topic_name": "Le Chatelier's Principle"}
+{"topic_id": "TOP_CHE_0087", "chapter_id": "CHP_CHE_023", "subject": "Chemistry", "chapter_name": "Chemical and Ionic Equilibrium", "topic_name": "pH, Buffer Solutions and Hydrolysis"}
+{"topic_id": "TOP_CHE_0088", "chapter_id": "CHP_CHE_023", "subject": "Chemistry", "chapter_name": "Chemical and Ionic Equilibrium", "topic_name": "Solubility Product (Ksp)"}
+{"topic_id": "TOP_CHE_0089", "chapter_id": "CHP_CHE_024", "subject": "Chemistry", "chapter_name": "Redox Reactions and Electrochemistry", "topic_name": "Oxidation Number and Balancing"}
+{"topic_id": "TOP_CHE_0090", "chapter_id": "CHP_CHE_024", "subject": "Chemistry", "chapter_name": "Redox Reactions and Electrochemistry", "topic_name": "Galvanic Cells and Nernst Equation"}
+{"topic_id": "TOP_CHE_0091", "chapter_id": "CHP_CHE_024", "subject": "Chemistry", "chapter_name": "Redox Reactions and Electrochemistry", "topic_name": "Conductance and Kohlrausch's Law"}
+{"topic_id": "TOP_CHE_0092", "chapter_id": "CHP_CHE_024", "subject": "Chemistry", "chapter_name": "Redox Reactions and Electrochemistry", "topic_name": "Electrolysis and Faraday's Laws"}
+{"topic_id": "TOP_CHE_0093", "chapter_id": "CHP_CHE_025", "subject": "Chemistry", "chapter_name": "Chemical Kinetics", "topic_name": "Rate Law and Order of Reaction"}
+{"topic_id": "TOP_CHE_0094", "chapter_id": "CHP_CHE_025", "subject": "Chemistry", "chapter_name": "Chemical Kinetics", "topic_name": "First Order Kinetics and Half-life"}
+{"topic_id": "TOP_CHE_0095", "chapter_id": "CHP_CHE_025", "subject": "Chemistry", "chapter_name": "Chemical Kinetics", "topic_name": "Arrhenius Equation and Activation Energy"}
+{"topic_id": "TOP_CHE_0096", "chapter_id": "CHP_CHE_026", "subject": "Chemistry", "chapter_name": "Solutions", "topic_name": "Raoult's Law and Ideal Solutions"}
+{"topic_id": "TOP_CHE_0097", "chapter_id": "CHP_CHE_026", "subject": "Chemistry", "chapter_name": "Solutions", "topic_name": "Colligative Properties"}
+{"topic_id": "TOP_CHE_0098", "chapter_id": "CHP_CHE_026", "subject": "Chemistry", "chapter_name": "Solutions", "topic_name": "van 't Hoff Factor"}
+{"topic_id": "TOP_CHE_0099", "chapter_id": "CHP_CHE_027", "subject": "Chemistry", "chapter_name": "Classification of Elements and Periodicity", "topic_name": "Ionisation Enthalpy and Electron Affinity"}
+{"topic_id": "TOP_CHE_0100", "chapter_id": "CHP_CHE_027", "subject": "Chemistry", "chapter_name": "Classification of Elements and Periodicity", "topic_name": "Electronegativity Trends"}
+{"topic_id": "TOP_CHE_0101", "chapter_id": "CHP_CHE_027", "subject": "Chemistry", "chapter_name": "Classification of Elements and Periodicity", "topic_name": "Periodic Variations"}
+{"topic_id": "TOP_CHE_0102", "chapter_id": "CHP_CHE_028", "subject": "Chemistry", "chapter_name": "p-Block Elements", "topic_name": "Boron and Carbon Family"}
+{"topic_id": "TOP_CHE_0103", "chapter_id": "CHP_CHE_028", "subject": "Chemistry", "chapter_name": "p-Block Elements", "topic_name": "Nitrogen and Phosphorus Compounds"}
+{"topic_id": "TOP_CHE_0104", "chapter_id": "CHP_CHE_028", "subject": "Chemistry", "chapter_name": "p-Block Elements", "topic_name": "Oxygen and Sulphur Oxides/Acids"}
+{"topic_id": "TOP_CHE_0105", "chapter_id": "CHP_CHE_028", "subject": "Chemistry", "chapter_name": "p-Block Elements", "topic_name": "Halogens and Noble Gases"}
+{"topic_id": "TOP_CHE_0106", "chapter_id": "CHP_CHE_029", "subject": "Chemistry", "chapter_name": "d and f Block Elements", "topic_name": "Electronic Configuration and Oxidation States"}
+{"topic_id": "TOP_CHE_0107", "chapter_id": "CHP_CHE_029", "subject": "Chemistry", "chapter_name": "d and f Block Elements", "topic_name": "Coloured Ions and Magnetic Properties"}
+{"topic_id": "TOP_CHE_0108", "chapter_id": "CHP_CHE_029", "subject": "Chemistry", "chapter_name": "d and f Block Elements", "topic_name": "Potassium Dichromate and Permanganate"}
+{"topic_id": "TOP_CHE_0109", "chapter_id": "CHP_CHE_029", "subject": "Chemistry", "chapter_name": "d and f Block Elements", "topic_name": "Lanthanoids and Actinoids"}
+{"topic_id": "TOP_CHE_0110", "chapter_id": "CHP_CHE_030", "subject": "Chemistry", "chapter_name": "Coordination Compounds", "topic_name": "Werner's Theory and IUPAC Nomenclature"}
+{"topic_id": "TOP_CHE_0111", "chapter_id": "CHP_CHE_030", "subject": "Chemistry", "chapter_name": "Coordination Compounds", "topic_name": "Isomerism in Complexes"}
+{"topic_id": "TOP_CHE_0112", "chapter_id": "CHP_CHE_030", "subject": "Chemistry", "chapter_name": "Coordination Compounds", "topic_name": "Crystal Field Theory"}
+{"topic_id": "TOP_CHE_0113", "chapter_id": "CHP_CHE_030", "subject": "Chemistry", "chapter_name": "Coordination Compounds", "topic_name": "Stability and Valence Bond Theory"}
+{"topic_id": "TOP_CHE_0114", "chapter_id": "CHP_CHE_031", "subject": "Chemistry", "chapter_name": "General Organic Chemistry", "topic_name": "Inductive, Mesomeric and Hyperconjugation Effects"}
+{"topic_id": "TOP_CHE_0115", "chapter_id": "CHP_CHE_031", "subject": "Chemistry", "chapter_name": "General Organic Chemistry", "topic_name": "Carbocations, Carbanions, Free Radicals"}
+{"topic_id": "TOP_CHE_0116", "chapter_id": "CHP_CHE_031", "subject": "Chemistry", "chapter_name": "General Organic Chemistry", "topic_name": "Aromaticity and Acidity/Basicity"}
+{"topic_id": "TOP_CHE_0117", "chapter_id": "CHP_CHE_031", "subject": "Chemistry", "chapter_name": "General Organic Chemistry", "topic_name": "Isomerism (Structural and Stereoisomerism)"}
+{"topic_id": "TOP_CHE_0118", "chapter_id": "CHP_CHE_032", "subject": "Chemistry", "chapter_name": "Hydrocarbons", "topic_name": "Electrophilic Addition to Alkenes"}
+{"topic_id": "TOP_CHE_0119", "chapter_id": "CHP_CHE_032", "subject": "Chemistry", "chapter_name": "Hydrocarbons", "topic_name": "Ozonolysis and Oxidation"}
+{"topic_id": "TOP_CHE_0120", "chapter_id": "CHP_CHE_032", "subject": "Chemistry", "chapter_name": "Hydrocarbons", "topic_name": "Alkynes Reactions"}
+{"topic_id": "TOP_CHE_0121", "chapter_id": "CHP_CHE_032", "subject": "Chemistry", "chapter_name": "Hydrocarbons", "topic_name": "Aromatic Electrophilic Substitution"}
+{"topic_id": "TOP_CHE_0122", "chapter_id": "CHP_CHE_033", "subject": "Chemistry", "chapter_name": "Haloalkanes and Haloarenes", "topic_name": "SN1 and SN2 Mechanisms"}
+{"topic_id": "TOP_CHE_0123", "chapter_id": "CHP_CHE_033", "subject": "Chemistry", "chapter_name": "Haloalkanes and Haloarenes", "topic_name": "Elimination Reactions (E1, E2)"}
+{"topic_id": "TOP_CHE_0124", "chapter_id": "CHP_CHE_033", "subject": "Chemistry", "chapter_name": "Haloalkanes and Haloarenes", "topic_name": "Reactions of Chlorobenzene"}
+{"topic_id": "TOP_CHE_0125", "chapter_id": "CHP_CHE_034", "subject": "Chemistry", "chapter_name": "Alcohols, Phenols and Ethers", "topic_name": "Preparation and Dehydration of Alcohols"}
+{"topic_id": "TOP_CHE_0126", "chapter_id": "CHP_CHE_034", "subject": "Chemistry", "chapter_name": "Alcohols, Phenols and Ethers", "topic_name": "Reactions of Phenols (Reimer-Tiemann, Kolbe)"}
+{"topic_id": "TOP_CHE_0127", "chapter_id": "CHP_CHE_034", "subject": "Chemistry", "chapter_name": "Alcohols, Phenols and Ethers", "topic_name": "Williamson Ether Synthesis"}
+{"topic_id": "TOP_CHE_0128", "chapter_id": "CHP_CHE_035", "subject": "Chemistry", "chapter_name": "Aldehydes, Ketones and Carboxylic Acids", "topic_name": "Nucleophilic Addition Reactions"}
+{"topic_id": "TOP_CHE_0129", "chapter_id": "CHP_CHE_035", "subject": "Chemistry", "chapter_name": "Aldehydes, Ketones and Carboxylic Acids", "topic_name": "Aldol Condensation and Cannizzaro Reaction"}
+{"topic_id": "TOP_CHE_0130", "chapter_id": "CHP_CHE_035", "subject": "Chemistry", "chapter_name": "Aldehydes, Ketones and Carboxylic Acids", "topic_name": "Grignard Reactions"}
+{"topic_id": "TOP_CHE_0131", "chapter_id": "CHP_CHE_035", "subject": "Chemistry", "chapter_name": "Aldehydes, Ketones and Carboxylic Acids", "topic_name": "Acidity of Carboxylic Acids"}
+{"topic_id": "TOP_CHE_0132", "chapter_id": "CHP_CHE_036", "subject": "Chemistry", "chapter_name": "Amines and Nitrogen Compounds", "topic_name": "Basicity of Amines"}
+{"topic_id": "TOP_CHE_0133", "chapter_id": "CHP_CHE_036", "subject": "Chemistry", "chapter_name": "Amines and Nitrogen Compounds", "topic_name": "Gabriel Phthalimide and Hoffmann Bromamide"}
+{"topic_id": "TOP_CHE_0134", "chapter_id": "CHP_CHE_036", "subject": "Chemistry", "chapter_name": "Amines and Nitrogen Compounds", "topic_name": "Diazonium Salt Coupling and Reactions"}
+{"topic_id": "TOP_CHE_0135", "chapter_id": "CHP_CHE_037", "subject": "Chemistry", "chapter_name": "Biomolecules and Everyday Chemistry", "topic_name": "Carbohydrates and Amino Acids"}
+{"topic_id": "TOP_CHE_0136", "chapter_id": "CHP_CHE_037", "subject": "Chemistry", "chapter_name": "Biomolecules and Everyday Chemistry", "topic_name": "Peptide Bonds and Proteins"}
+{"topic_id": "TOP_CHE_0137", "chapter_id": "CHP_CHE_037", "subject": "Chemistry", "chapter_name": "Biomolecules and Everyday Chemistry", "topic_name": "Nucleic Acids"}
+{"topic_id": "TOP_CHE_0138", "chapter_id": "CHP_CHE_037", "subject": "Chemistry", "chapter_name": "Biomolecules and Everyday Chemistry", "topic_name": "Polymers and Environmental Chemistry"}
+{"topic_id": "TOP_MAT_0139", "chapter_id": "CHP_MAT_038", "subject": "Mathematics", "chapter_name": "Sets, Relations and Functions", "topic_name": "Types of Relations and Equivalence Relations"}
+{"topic_id": "TOP_MAT_0140", "chapter_id": "CHP_MAT_038", "subject": "Mathematics", "chapter_name": "Sets, Relations and Functions", "topic_name": "One-One, Onto and Invertible Functions"}
+{"topic_id": "TOP_MAT_0141", "chapter_id": "CHP_MAT_038", "subject": "Mathematics", "chapter_name": "Sets, Relations and Functions", "topic_name": "Composite Functions"}
+{"topic_id": "TOP_MAT_0142", "chapter_id": "CHP_MAT_038", "subject": "Mathematics", "chapter_name": "Sets, Relations and Functions", "topic_name": "Domain and Range"}
+{"topic_id": "TOP_MAT_0143", "chapter_id": "CHP_MAT_039", "subject": "Mathematics", "chapter_name": "Complex Numbers and Quadratic Equations", "topic_name": "Modulus and Argument of Complex Numbers"}
+{"topic_id": "TOP_MAT_0144", "chapter_id": "CHP_MAT_039", "subject": "Mathematics", "chapter_name": "Complex Numbers and Quadratic Equations", "topic_name": "Cube Roots of Unity and Geometry"}
+{"topic_id": "TOP_MAT_0145", "chapter_id": "CHP_MAT_039", "subject": "Mathematics", "chapter_name": "Complex Numbers and Quadratic Equations", "topic_name": "Roots of Quadratic Equation"}
+{"topic_id": "TOP_MAT_0146", "chapter_id": "CHP_MAT_039", "subject": "Mathematics", "chapter_name": "Complex Numbers and Quadratic Equations", "topic_name": "Location of Roots"}
+{"topic_id": "TOP_MAT_0147", "chapter_id": "CHP_MAT_040", "subject": "Mathematics", "chapter_name": "Matrices and Determinants", "topic_name": "Properties of Determinants"}
+{"topic_id": "TOP_MAT_0148", "chapter_id": "CHP_MAT_040", "subject": "Mathematics", "chapter_name": "Matrices and Determinants", "topic_name": "Adjoint and Inverse of Matrix"}
+{"topic_id": "TOP_MAT_0149", "chapter_id": "CHP_MAT_040", "subject": "Mathematics", "chapter_name": "Matrices and Determinants", "topic_name": "System of Linear Equations (Cramer's Rule)"}
+{"topic_id": "TOP_MAT_0150", "chapter_id": "CHP_MAT_040", "subject": "Mathematics", "chapter_name": "Matrices and Determinants", "topic_name": "Matrix Transformations"}
+{"topic_id": "TOP_MAT_0151", "chapter_id": "CHP_MAT_041", "subject": "Mathematics", "chapter_name": "Permutations and Combinations", "topic_name": "Fundamental Principle of Counting"}
+{"topic_id": "TOP_MAT_0152", "chapter_id": "CHP_MAT_041", "subject": "Mathematics", "chapter_name": "Permutations and Combinations", "topic_name": "Permutations with Repetition/Restrictions"}
+{"topic_id": "TOP_MAT_0153", "chapter_id": "CHP_MAT_041", "subject": "Mathematics", "chapter_name": "Permutations and Combinations", "topic_name": "Combinations and Geometrical Problems"}
+{"topic_id": "TOP_MAT_0154", "chapter_id": "CHP_MAT_041", "subject": "Mathematics", "chapter_name": "Permutations and Combinations", "topic_name": "Division and Distribution"}
+{"topic_id": "TOP_MAT_0155", "chapter_id": "CHP_MAT_042", "subject": "Mathematics", "chapter_name": "Binomial Theorem", "topic_name": "General and Middle Terms"}
+{"topic_id": "TOP_MAT_0156", "chapter_id": "CHP_MAT_042", "subject": "Mathematics", "chapter_name": "Binomial Theorem", "topic_name": "Binomial Coefficients and Properties"}
+{"topic_id": "TOP_MAT_0157", "chapter_id": "CHP_MAT_042", "subject": "Mathematics", "chapter_name": "Binomial Theorem", "topic_name": "Approximations and Multinomial Expansion"}
+{"topic_id": "TOP_MAT_0158", "chapter_id": "CHP_MAT_043", "subject": "Mathematics", "chapter_name": "Sequences and Series", "topic_name": "Arithmetic and Geometric Progressions"}
+{"topic_id": "TOP_MAT_0159", "chapter_id": "CHP_MAT_043", "subject": "Mathematics", "chapter_name": "Sequences and Series", "topic_name": "Arithmetic-Geometric Progression (AGP)"}
+{"topic_id": "TOP_MAT_0160", "chapter_id": "CHP_MAT_043", "subject": "Mathematics", "chapter_name": "Sequences and Series", "topic_name": "Sum of Special Series"}
+{"topic_id": "TOP_MAT_0161", "chapter_id": "CHP_MAT_043", "subject": "Mathematics", "chapter_name": "Sequences and Series", "topic_name": "AM-GM Inequality"}
+{"topic_id": "TOP_MAT_0162", "chapter_id": "CHP_MAT_044", "subject": "Mathematics", "chapter_name": "Limit, Continuity and Differentiability", "topic_name": "Evaluation of Limits (L'Hopital, Standard Forms)"}
+{"topic_id": "TOP_MAT_0163", "chapter_id": "CHP_MAT_044", "subject": "Mathematics", "chapter_name": "Limit, Continuity and Differentiability", "topic_name": "Continuity at a Point and in Interval"}
+{"topic_id": "TOP_MAT_0164", "chapter_id": "CHP_MAT_044", "subject": "Mathematics", "chapter_name": "Limit, Continuity and Differentiability", "topic_name": "Differentiability and Tangents"}
+{"topic_id": "TOP_MAT_0165", "chapter_id": "CHP_MAT_044", "subject": "Mathematics", "chapter_name": "Limit, Continuity and Differentiability", "topic_name": "Rolle's and Mean Value Theorems"}
+{"topic_id": "TOP_MAT_0166", "chapter_id": "CHP_MAT_045", "subject": "Mathematics", "chapter_name": "Application of Derivatives", "topic_name": "Monotonicity and Intervals of Increase/Decrease"}
+{"topic_id": "TOP_MAT_0167", "chapter_id": "CHP_MAT_045", "subject": "Mathematics", "chapter_name": "Application of Derivatives", "topic_name": "Maxima and Minima"}
+{"topic_id": "TOP_MAT_0168", "chapter_id": "CHP_MAT_045", "subject": "Mathematics", "chapter_name": "Application of Derivatives", "topic_name": "Rate of Change and Approximation"}
+{"topic_id": "TOP_MAT_0169", "chapter_id": "CHP_MAT_045", "subject": "Mathematics", "chapter_name": "Application of Derivatives", "topic_name": "Tangents and Normals"}
+{"topic_id": "TOP_MAT_0170", "chapter_id": "CHP_MAT_046", "subject": "Mathematics", "chapter_name": "Indefinite and Definite Integration", "topic_name": "Standard Methods of Integration"}
+{"topic_id": "TOP_MAT_0171", "chapter_id": "CHP_MAT_046", "subject": "Mathematics", "chapter_name": "Indefinite and Definite Integration", "topic_name": "Properties of Definite Integrals"}
+{"topic_id": "TOP_MAT_0172", "chapter_id": "CHP_MAT_046", "subject": "Mathematics", "chapter_name": "Indefinite and Definite Integration", "topic_name": "Leibniz Rule for Differentiation of Integrals"}
+{"topic_id": "TOP_MAT_0173", "chapter_id": "CHP_MAT_046", "subject": "Mathematics", "chapter_name": "Indefinite and Definite Integration", "topic_name": "Definite Integral as Limit of a Sum"}
+{"topic_id": "TOP_MAT_0174", "chapter_id": "CHP_MAT_047", "subject": "Mathematics", "chapter_name": "Differential Equations", "topic_name": "Order and Degree of Differential Equations"}
+{"topic_id": "TOP_MAT_0175", "chapter_id": "CHP_MAT_047", "subject": "Mathematics", "chapter_name": "Differential Equations", "topic_name": "Separable Variable Method"}
+{"topic_id": "TOP_MAT_0176", "chapter_id": "CHP_MAT_047", "subject": "Mathematics", "chapter_name": "Differential Equations", "topic_name": "Homogeneous Differential Equations"}
+{"topic_id": "TOP_MAT_0177", "chapter_id": "CHP_MAT_047", "subject": "Mathematics", "chapter_name": "Differential Equations", "topic_name": "Linear First Order Differential Equations"}
+{"topic_id": "TOP_MAT_0178", "chapter_id": "CHP_MAT_048", "subject": "Mathematics", "chapter_name": "Coordinate Geometry (2D)", "topic_name": "Straight Lines and Distance/Angle"}
+{"topic_id": "TOP_MAT_0179", "chapter_id": "CHP_MAT_048", "subject": "Mathematics", "chapter_name": "Coordinate Geometry (2D)", "topic_name": "Pair of Straight Lines"}
+{"topic_id": "TOP_MAT_0180", "chapter_id": "CHP_MAT_048", "subject": "Mathematics", "chapter_name": "Coordinate Geometry (2D)", "topic_name": "Circle Equations and Tangents"}
+{"topic_id": "TOP_MAT_0181", "chapter_id": "CHP_MAT_048", "subject": "Mathematics", "chapter_name": "Coordinate Geometry (2D)", "topic_name": "Parabola Standard Equations and Properties"}
+{"topic_id": "TOP_MAT_0182", "chapter_id": "CHP_MAT_048", "subject": "Mathematics", "chapter_name": "Coordinate Geometry (2D)", "topic_name": "Ellipse and Hyperbola (Eccentricity, Asymptotes)"}
+{"topic_id": "TOP_MAT_0183", "chapter_id": "CHP_MAT_049", "subject": "Mathematics", "chapter_name": "Vector Algebra and 3D Geometry", "topic_name": "Dot and Cross Products of Vectors"}
+{"topic_id": "TOP_MAT_0184", "chapter_id": "CHP_MAT_049", "subject": "Mathematics", "chapter_name": "Vector Algebra and 3D Geometry", "topic_name": "Scalar and Vector Triple Products"}
+{"topic_id": "TOP_MAT_0185", "chapter_id": "CHP_MAT_049", "subject": "Mathematics", "chapter_name": "Vector Algebra and 3D Geometry", "topic_name": "Line in 3D Space"}
+{"topic_id": "TOP_MAT_0186", "chapter_id": "CHP_MAT_049", "subject": "Mathematics", "chapter_name": "Vector Algebra and 3D Geometry", "topic_name": "Plane and Shortest Distance Between Lines"}
+{"topic_id": "TOP_MAT_0187", "chapter_id": "CHP_MAT_050", "subject": "Mathematics", "chapter_name": "Trigonometry", "topic_name": "Trigonometric Identities and Formulas"}
+{"topic_id": "TOP_MAT_0188", "chapter_id": "CHP_MAT_050", "subject": "Mathematics", "chapter_name": "Trigonometry", "topic_name": "Trigonometric Equations"}
+{"topic_id": "TOP_MAT_0189", "chapter_id": "CHP_MAT_050", "subject": "Mathematics", "chapter_name": "Trigonometry", "topic_name": "Inverse Trigonometric Functions and Properties"}
+{"topic_id": "TOP_MAT_0190", "chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability", "topic_name": "Mean, Variance and Standard Deviation"}
+{"topic_id": "TOP_MAT_0191", "chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability", "topic_name": "Conditional Probability and Bayes' Theorem"}
+{"topic_id": "TOP_MAT_0192", "chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability", "topic_name": "Binomial Distribution and Random Variables"}
+{"topic_id": 193, "topic_name": "Biomolecules and Polymers", "chapter": "Biomolecules and Polymers", "subject": "Chemistry"}
+{"topic_id": 194, "topic_name": "Coordinate Geometry - Circles", "chapter": "Coordinate Geometry - Circles", "subject": "Mathematics"}
+{"topic_id": 195, "topic_name": "Coordinate Geometry - Conic Sections", "chapter": "Coordinate Geometry - Conic Sections", "subject": "Mathematics"}
+{"topic_id": 196, "topic_name": "Coordinate Geometry - Straight Lines", "chapter": "Coordinate Geometry - Straight Lines", "subject": "Mathematics"}
+{"topic_id": 197, "topic_name": "Definite Integrals and Applications", "chapter": "Definite Integrals and Applications", "subject": "Mathematics"}
+{"topic_id": 198, "topic_name": "Differential Calculus", "chapter": "Differential Calculus", "subject": "Mathematics"}
+{"topic_id": 199, "topic_name": "Electrochemistry", "chapter": "Electrochemistry", "subject": "Chemistry"}
+{"topic_id": 200, "topic_name": "General Principles and Processes of Isolation of Metals", "chapter": "General Principles and Processes of Isolation of Metals", "subject": "Chemistry"}
+{"topic_id": 201, "topic_name": "Organic Compounds Containing Nitrogen", "chapter": "Organic Compounds Containing Nitrogen", "subject": "Chemistry"}
+{"topic_id": 202, "topic_name": "Probability and Statistics", "chapter": "Probability and Statistics", "subject": "Mathematics"}
+{"topic_id": 203, "topic_name": "Ray Optics and Optical Instruments", "chapter": "Ray Optics and Optical Instruments", "subject": "Physics"}
+{"topic_id": 204, "topic_name": "Thermal Properties of Matter", "chapter": "Thermal Properties of Matter", "subject": "Physics"}
+{"topic_id": 205, "topic_name": "Thermodynamics", "chapter": "Thermodynamics", "subject": "Physics"}
+{"topic_id": 206, "topic_name": "Three Dimensional Geometry", "chapter": "Three Dimensional Geometry", "subject": "Mathematics"}
+{"topic_id": 207, "topic_name": "Vector Algebra", "chapter": "Vector Algebra", "subject": "Mathematics"}
+{"topic_id": 208, "topic_name": "Wave Optics", "chapter": "Wave Optics", "subject": "Physics"}
+{"topic_id": 209, "topic_name": "d- and f-Block Elements", "chapter": "d- and f-Block Elements", "subject": "Chemistry"}

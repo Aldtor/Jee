@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-09-21T04:34:35.802000",
+  "database": "c:\\Users\\dell\\Music\\Jee Web\\JEE_QUESTION_DATABASE_FINAL\\jee_database.sqlite",
+  "final_status": "CONTENT_RECONSTRUCTION_COMPLETE",
+  "gates_passed": 13,
+  "gates_failed": 0,
+  "gates_total": 13,
+  "gates": [
+    {
+      "gate": "QUESTION_PLACEHOLDERS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "OPTION_PLACEHOLDERS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "FABRICATED_ANSWERS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "UNRESOLVED_ANSWER_CONFLICTS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "MISSING_SOURCE_PROVENANCE",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "ORPHAN_OPTIONS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "ORPHAN_ANSWERS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "ORPHAN_IMAGES",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "BROKEN_SOURCE_REFERENCES",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "INVALID_FOREIGN_KEYS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "TOTAL_QUESTIONS",
+      "value": 8658,
+      "expected": "> 0",
+      "status": "PASS"
+    },
+    {
+      "gate": "SUBJECTS_COVERED",
+      "value": 4,
+      "expected": ">= 3",
+      "status": "PASS"
+    },
+    {
+      "gate": "TEMPLATE_SOLUTIONS",
+      "value": 0,
+      "expected": "== 0",
+      "status": "PASS"
+    }
+  ],
+  "metrics": {
+    "total_questions": 8658,
+    "mcq": 6024,
+    "numerical": 2632,
+    "needs_review": 8658,
+    "placeholder_questions": 0,
+    "placeholder_options": 0,
+    "fabricated_answers": 0,
+    "answer_conflicts": 0,
+    "orphan_options": 0,
+    "orphan_answers": 0,
+    "fk_errors": 0,
+    "template_solutions": 0
+  }
+}

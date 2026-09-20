@@ -1,0 +1,69 @@
+{"chapter_id": "CHP_PHY_001", "subject": "Physics", "chapter_name": "Units and Measurements"}
+{"chapter_id": "CHP_PHY_002", "subject": "Physics", "chapter_name": "Kinematics"}
+{"chapter_id": "CHP_PHY_003", "subject": "Physics", "chapter_name": "Laws of Motion"}
+{"chapter_id": "CHP_PHY_004", "subject": "Physics", "chapter_name": "Work, Energy and Power"}
+{"chapter_id": "CHP_PHY_005", "subject": "Physics", "chapter_name": "Rotational Motion"}
+{"chapter_id": "CHP_PHY_006", "subject": "Physics", "chapter_name": "Gravitation"}
+{"chapter_id": "CHP_PHY_007", "subject": "Physics", "chapter_name": "Mechanical Properties of Solids"}
+{"chapter_id": "CHP_PHY_008", "subject": "Physics", "chapter_name": "Mechanical Properties of Fluids"}
+{"chapter_id": "CHP_PHY_009", "subject": "Physics", "chapter_name": "Thermal Physics and Thermodynamics"}
+{"chapter_id": "CHP_PHY_010", "subject": "Physics", "chapter_name": "Oscillations and Waves"}
+{"chapter_id": "CHP_PHY_011", "subject": "Physics", "chapter_name": "Electrostatics"}
+{"chapter_id": "CHP_PHY_012", "subject": "Physics", "chapter_name": "Current Electricity"}
+{"chapter_id": "CHP_PHY_013", "subject": "Physics", "chapter_name": "Magnetic Effects of Current and Magnetism"}
+{"chapter_id": "CHP_PHY_014", "subject": "Physics", "chapter_name": "Electromagnetic Induction and Alternating Current"}
+{"chapter_id": "CHP_PHY_015", "subject": "Physics", "chapter_name": "Electromagnetic Waves"}
+{"chapter_id": "CHP_PHY_016", "subject": "Physics", "chapter_name": "Optics"}
+{"chapter_id": "CHP_PHY_017", "subject": "Physics", "chapter_name": "Modern Physics"}
+{"chapter_id": "CHP_PHY_018", "subject": "Physics", "chapter_name": "Semiconductor Electronics"}
+{"chapter_id": "CHP_CHE_019", "subject": "Chemistry", "chapter_name": "Some Basic Concepts of Chemistry"}
+{"chapter_id": "CHP_CHE_020", "subject": "Chemistry", "chapter_name": "Structure of Atom"}
+{"chapter_id": "CHP_CHE_021", "subject": "Chemistry", "chapter_name": "Chemical Bonding and Molecular Structure"}
+{"chapter_id": "CHP_CHE_022", "subject": "Chemistry", "chapter_name": "States of Matter and Thermodynamics"}
+{"chapter_id": "CHP_CHE_023", "subject": "Chemistry", "chapter_name": "Chemical and Ionic Equilibrium"}
+{"chapter_id": "CHP_CHE_024", "subject": "Chemistry", "chapter_name": "Redox Reactions and Electrochemistry"}
+{"chapter_id": "CHP_CHE_025", "subject": "Chemistry", "chapter_name": "Chemical Kinetics"}
+{"chapter_id": "CHP_CHE_026", "subject": "Chemistry", "chapter_name": "Solutions"}
+{"chapter_id": "CHP_CHE_027", "subject": "Chemistry", "chapter_name": "Classification of Elements and Periodicity"}
+{"chapter_id": "CHP_CHE_028", "subject": "Chemistry", "chapter_name": "p-Block Elements"}
+{"chapter_id": "CHP_CHE_029", "subject": "Chemistry", "chapter_name": "d and f Block Elements"}
+{"chapter_id": "CHP_CHE_030", "subject": "Chemistry", "chapter_name": "Coordination Compounds"}
+{"chapter_id": "CHP_CHE_031", "subject": "Chemistry", "chapter_name": "General Organic Chemistry"}
+{"chapter_id": "CHP_CHE_032", "subject": "Chemistry", "chapter_name": "Hydrocarbons"}
+{"chapter_id": "CHP_CHE_033", "subject": "Chemistry", "chapter_name": "Haloalkanes and Haloarenes"}
+{"chapter_id": "CHP_CHE_034", "subject": "Chemistry", "chapter_name": "Alcohols, Phenols and Ethers"}
+{"chapter_id": "CHP_CHE_035", "subject": "Chemistry", "chapter_name": "Aldehydes, Ketones and Carboxylic Acids"}
+{"chapter_id": "CHP_CHE_036", "subject": "Chemistry", "chapter_name": "Amines and Nitrogen Compounds"}
+{"chapter_id": "CHP_CHE_037", "subject": "Chemistry", "chapter_name": "Biomolecules and Everyday Chemistry"}
+{"chapter_id": "CHP_MAT_038", "subject": "Mathematics", "chapter_name": "Sets, Relations and Functions"}
+{"chapter_id": "CHP_MAT_039", "subject": "Mathematics", "chapter_name": "Complex Numbers and Quadratic Equations"}
+{"chapter_id": "CHP_MAT_040", "subject": "Mathematics", "chapter_name": "Matrices and Determinants"}
+{"chapter_id": "CHP_MAT_041", "subject": "Mathematics", "chapter_name": "Permutations and Combinations"}
+{"chapter_id": "CHP_MAT_042", "subject": "Mathematics", "chapter_name": "Binomial Theorem"}
+{"chapter_id": "CHP_MAT_043", "subject": "Mathematics", "chapter_name": "Sequences and Series"}
+{"chapter_id": "CHP_MAT_044", "subject": "Mathematics", "chapter_name": "Limit, Continuity and Differentiability"}
+{"chapter_id": "CHP_MAT_045", "subject": "Mathematics", "chapter_name": "Application of Derivatives"}
+{"chapter_id": "CHP_MAT_046", "subject": "Mathematics", "chapter_name": "Indefinite and Definite Integration"}
+{"chapter_id": "CHP_MAT_047", "subject": "Mathematics", "chapter_name": "Differential Equations"}
+{"chapter_id": "CHP_MAT_048", "subject": "Mathematics", "chapter_name": "Coordinate Geometry (2D)"}
+{"chapter_id": "CHP_MAT_049", "subject": "Mathematics", "chapter_name": "Vector Algebra and 3D Geometry"}
+{"chapter_id": "CHP_MAT_050", "subject": "Mathematics", "chapter_name": "Trigonometry"}
+{"chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability"}
+{"chapter_id": 52, "chapter_name": "Biomolecules and Polymers", "subject": "Chemistry"}
+{"chapter_id": 53, "chapter_name": "Coordinate Geometry - Circles", "subject": "Mathematics"}
+{"chapter_id": 54, "chapter_name": "Coordinate Geometry - Conic Sections", "subject": "Mathematics"}
+{"chapter_id": 55, "chapter_name": "Coordinate Geometry - Straight Lines", "subject": "Mathematics"}
+{"chapter_id": 56, "chapter_name": "Definite Integrals and Applications", "subject": "Mathematics"}
+{"chapter_id": 57, "chapter_name": "Differential Calculus", "subject": "Mathematics"}
+{"chapter_id": 58, "chapter_name": "Electrochemistry", "subject": "Chemistry"}
+{"chapter_id": 59, "chapter_name": "General Principles and Processes of Isolation of Metals", "subject": "Chemistry"}
+{"chapter_id": 60, "chapter_name": "Kinetic Theory of Gases", "subject": "Physics"}
+{"chapter_id": 61, "chapter_name": "Organic Compounds Containing Nitrogen", "subject": "Chemistry"}
+{"chapter_id": 62, "chapter_name": "Probability and Statistics", "subject": "Mathematics"}
+{"chapter_id": 63, "chapter_name": "Ray Optics and Optical Instruments", "subject": "Physics"}
+{"chapter_id": 64, "chapter_name": "Thermal Properties of Matter", "subject": "Physics"}
+{"chapter_id": 65, "chapter_name": "Thermodynamics", "subject": "Physics"}
+{"chapter_id": 66, "chapter_name": "Three Dimensional Geometry", "subject": "Mathematics"}
+{"chapter_id": 67, "chapter_name": "Vector Algebra", "subject": "Mathematics"}
+{"chapter_id": 68, "chapter_name": "Wave Optics", "subject": "Physics"}
+{"chapter_id": 69, "chapter_name": "d- and f-Block Elements", "subject": "Chemistry"}

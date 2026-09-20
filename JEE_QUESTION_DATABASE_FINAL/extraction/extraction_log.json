@@ -1,0 +1,1722 @@
+{
+  "timestamp": "2026-09-21T04:32:37.184982",
+  "elapsed_seconds": 1771.2110900878906,
+  "papers_processed": 166,
+  "papers_failed": 2,
+  "total_questions": 13068,
+  "total_mcq": 10394,
+  "total_numerical": 2672,
+  "total_with_text": 0,
+  "total_needs_review": 13068,
+  "by_year": {
+    "2020": {
+      "papers": 14,
+      "questions": 600,
+      "with_text": 0
+    },
+    "2021": {
+      "papers": 42,
+      "questions": 3232,
+      "with_text": 0
+    },
+    "2022": {
+      "papers": 62,
+      "questions": 5572,
+      "with_text": 0
+    },
+    "2023": {
+      "papers": 12,
+      "questions": 1080,
+      "with_text": 0
+    },
+    "2024": {
+      "papers": 16,
+      "questions": 1080,
+      "with_text": 0
+    },
+    "2025": {
+      "papers": 11,
+      "questions": 829,
+      "with_text": 0
+    },
+    "2026": {
+      "papers": 9,
+      "questions": 675,
+      "with_text": 0
+    }
+  },
+  "results": [
+    {
+      "source_id": "JM_2020_S1_0108_1",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2020_S1_0108_2",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2020_S1_0109_1",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2020_S1_0109_2",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2020_S2_0902_1",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0902_2",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0903_1",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0903_2",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0904_1",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0904_2",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0905_1",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2020_S2_0905_2",
+      "year": 2020,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2020_S2_0906_1",
+      "year": 2020,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2020_S2_0906_2",
+      "year": 2020,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2021_S1_0224_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0224_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0224_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0224_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0225_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0225_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0225_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0225_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0226_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0226_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0226_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S1_0226_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0316_1",
+      "year": 2021,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2021_S2_0316_1",
+      "year": 2021,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2021_S2_0316_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0316_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0317_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0317_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0317_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0317_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0318_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0318_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0318_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S2_0318_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0722_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0725_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0725_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0727_1",
+      "year": 2021,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2021_S3_0727_1",
+      "year": 2021,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2021_S3_0727_2",
+      "year": 2021,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2021_S3_0727_2",
+      "year": 2021,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2021_S3_0803_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0803_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0804_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S3_0804_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0826_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0826_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0827_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0827_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0831_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0831_2",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2021_S4_0902_1",
+      "year": 2021,
+      "format": "RECORDED_RESPONSE",
+      "questions": 82,
+      "mcq": 70,
+      "numerical": 10,
+      "with_text": 0,
+      "needs_review": 82
+    },
+    {
+      "source_id": "JM_2022_S1_0624_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0624_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0624_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0624_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0625_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0625_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0625_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0625_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0626_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0626_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0626_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0626_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0627_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0628_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0629_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0629_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0629_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0629_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0629_2",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0630_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S1_0630_1",
+      "year": 2022,
+      "format": "JEE_MAIN_QP",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 86,
+      "numerical": 4,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0725_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0726_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 88,
+      "numerical": 2,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0726_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0726_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0726_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0727_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0727_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0727_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0727_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0728_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0728_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 89,
+      "numerical": 1,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0728_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0728_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0729_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 90,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0729_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 89,
+      "numerical": 1,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0729_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0729_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0729_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0729_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0730_1",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 82,
+      "mcq": 80,
+      "numerical": 2,
+      "with_text": 0,
+      "needs_review": 82
+    },
+    {
+      "source_id": "JM_2022_S2_0730_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2022_S2_0730_2",
+      "year": 2022,
+      "format": "CLEAN_TABULAR",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0406_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0406_2",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0408_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0408_2",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0410_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0410_2",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0411_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0411_2",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0412_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0413_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0413_2",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2023_S2_0415_1",
+      "year": 2023,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0127_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0130_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0130_2",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0131_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0131_2",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0201_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S2_0404_1",
+      "year": 2024,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2024_S2_0404_2",
+      "year": 2024,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2024_S2_0405_1",
+      "year": 2024,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2024_S2_0405_2",
+      "year": 2024,
+      "format": "UNKNOWN",
+      "questions": 0,
+      "mcq": 0,
+      "numerical": 0,
+      "with_text": 0,
+      "needs_review": 0
+    },
+    {
+      "source_id": "JM_2024_S2_0406_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S2_0406_2",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S2_0408_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S2_0408_2",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S2_0409_1",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2024_S1_0201_2",
+      "year": 2024,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2025_S1_0129_1",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 90,
+      "mcq": 60,
+      "numerical": 30,
+      "with_text": 0,
+      "needs_review": 90
+    },
+    {
+      "source_id": "JM_2025_S1_0122_2",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 64,
+      "mcq": 52,
+      "numerical": 12,
+      "with_text": 0,
+      "needs_review": 64
+    },
+    {
+      "source_id": "JM_2025_S2_0402_1",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0402_2",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0403_1",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0403_2",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0404_1",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0404_2",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0407_1",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0407_2",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2025_S2_0408_2",
+      "year": 2025,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0402_1",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0402_2",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0404_1",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0404_2",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0405_1",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0405_2",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0406_1",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0406_2",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    },
+    {
+      "source_id": "JM_2026_S2_0408_2",
+      "year": 2026,
+      "format": "RECORDED_RESPONSE",
+      "questions": 75,
+      "mcq": 60,
+      "numerical": 15,
+      "with_text": 0,
+      "needs_review": 75
+    }
+  ],
+  "errors": [
+    {
+      "error": "Stream has ended unexpectedly",
+      "source_id": "JM_2025_S1_0128_1",
+      "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2025/Session-1/Question-Papers/JEE_Main_2025_Session-1_Paper1_2025-01-28_Shift-1_English_Hindi.pdf"
+    },
+    {
+      "error": "Invalid hexadecimal character b'Q' in hex string",
+      "source_id": "JM_2025_S1_0128_2",
+      "source_path": "c:\\Users\\dell\\Music\\Jee Web\\JEE_Main_PYQ_Archive/2025/Session-1/Question-Papers/JEE_Main_2025_Session-1_Paper1_2025-01-28_Shift-2_English_Hindi.pdf"
+    }
+  ]
+}
