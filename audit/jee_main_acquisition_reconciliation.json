@@ -138,29 +138,61 @@
     }
   },
   "section_7_known_gaps": {
-    "gap_count": 2,
-    "gaps": [
+    "non_targetable": [
       {
+        "id": 1,
         "year": 2019,
         "status": "OFFICIAL_QP_NOT_RETRIEVABLE",
-        "reason": "NTA does not expose 2019 JEE Main papers in Downloads archive."
+        "reason": "NTA does not expose 2019 JEE Main papers in Downloads archive.",
+        "in_targetable_denominator": false,
+        "note": "Not included in the 173 targetable-paper denominator."
+      }
+    ],
+    "targetable_gaps": [
+      {
+        "id": 2,
+        "year": 2022,
+        "date": "2022-07-26",
+        "shift": 1,
+        "language": "Malayalam",
+        "status": "NOT_AVAILABLE_ON_NTA_ARCHIVE",
+        "reason": "QP URL null / HTTP 404",
+        "in_targetable_denominator": true
       },
       {
+        "id": 3,
+        "year": 2022,
+        "date": "2022-07-26",
+        "shift": 1,
+        "language": "Malayalam",
+        "status": "NOT_AVAILABLE_ON_NTA_ARCHIVE",
+        "reason": "QP URL null / HTTP 404 (duplicate NTA row)",
+        "in_targetable_denominator": true
+      },
+      {
+        "id": 4,
         "year": 2025,
         "session": "Session-1",
         "date": "2025-01-22",
         "shift": 1,
+        "language": "English_Hindi",
         "status": "AVAILABLE_BUT_DOWNLOAD_FAILED",
-        "reason": "Corrupted PDF on NTA server. pypdf: Could not read Null object. pymupdf: Unexpected EOF."
+        "reason": "Corrupted PDF on NTA server. pypdf: Could not read Null object. pymupdf: Unexpected EOF.",
+        "in_targetable_denominator": true
       }
-    ]
+    ],
+    "summary": "2019 = not targetable / not retrievable. 2 x 2022 + 1 x 2025 = three targetable acquisition gaps."
   },
   "section_8_final_verdict": {
     "all_records_accounted": true,
     "mathematical_balance": "1760 = 630 + 490 + 466 + 170 + 2 + 1 + 1",
     "nta_to_manifest_balance": "1750 + 1 + 9 = 1760",
     "physical_file_balance": "170 QPs + 34 supplementary = 204 PDFs on disk",
-    "acquisition_completeness": "170 / 171 targetable QPs = 99.42%",
+    "targetable": 173,
+    "acquired": 170,
+    "unresolved_targetable": 3,
+    "acquisition_completeness": "170 / 173 targetable QPs = 98.27%",
+    "2019_status": "OFFICIAL_QP_NOT_RETRIEVABLE — NOT INCLUDED IN TARGETABLE CORE DENOMINATOR",
     "status": "ACQUISITION_RECONCILED"
   }
 }

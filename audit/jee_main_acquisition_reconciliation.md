@@ -136,26 +136,56 @@ All 170 manifest-tracked QPs exist on disk. Zero missing files.
 
 ## 6. Known Gaps
 
-| # | Year | Issue | Status | Resolution |
-|---|------|-------|--------|------------|
-| 1 | 2019 | NTA does not expose any JEE Main 2019 papers | OFFICIAL_QP_NOT_RETRIEVABLE | Audited Downloads + NoticeBoardArchive — confirmed absent |
-| 2 | 2025 | Session-1, 2025-01-22, Shift-1 — corrupted PDF on NTA server | AVAILABLE_BUT_DOWNLOAD_FAILED | pypdf: Null object error. pymupdf: Unexpected EOF. Server-side damage. |
+### Non-targetable (excluded from 173-paper denominator)
+
+| # | Year | Issue | Status | Note |
+|---|------|-------|--------|------|
+| 1 | 2019 | NTA does not expose any JEE Main 2019 papers | `OFFICIAL_QP_NOT_RETRIEVABLE` | Not included in targetable core denominator. Audited Downloads + NoticeBoardArchive — confirmed absent. |
+
+### Targetable acquisition gaps (3 of 173)
+
+| # | Year | Date | Shift | Language | Issue | Status |
+|---|------|------|-------|----------|-------|--------|
+| 2 | 2022 | 2022-07-26 | Shift-1 | Malayalam | QP URL null / HTTP 404 | `NOT_AVAILABLE_ON_NTA_ARCHIVE` |
+| 3 | 2022 | 2022-07-26 | Shift-1 | Malayalam | QP URL null / HTTP 404 (duplicate NTA row) | `NOT_AVAILABLE_ON_NTA_ARCHIVE` |
+| 4 | 2025 | 2025-01-22 | Shift-1 | English_Hindi | Official NTA PDF is structurally corrupt/truncated. pypdf: Null object error. pymupdf: Unexpected EOF. | `AVAILABLE_BUT_DOWNLOAD_FAILED` |
+
+**Summary:** 2019 = not targetable / not retrievable. 2 × 2022 + 1 × 2025 = three targetable acquisition gaps.
 
 ---
 
 ## 7. Final Mathematical Summary
 
-`
+```
 NTA Discovery:           1,750 rows
-Supplementary records:   +  10 (1 × 2019 + 9 × 2026)
+Supplementary records:   + 1 (2019 placeholder)
+                         + 9 (2026 local Master-paper provenance records)
                          ─────
 Manifest total:          1,760 ✓
 
-Status breakdown:        630 + 490 + 466 + 170 + 2 + 1 + 1 = 1,760 ✓
-Unique QPs:              170 / 171 targetable = 99.42% completeness
+Status breakdown:
+  630  DUPLICATE_ROW
+  490  PAPER_TYPE_EXCLUDED
+  466  REGIONAL_LANGUAGE_VARIANT
+  170  AVAILABLE_AND_DOWNLOADED
+    2  NOT_AVAILABLE_ON_NTA_ARCHIVE
+    1  OFFICIAL_QP_NOT_RETRIEVABLE
+    1  AVAILABLE_BUT_DOWNLOAD_FAILED
+  ─────
+  630 + 490 + 466 + 170 + 2 + 1 + 1 = 1,760 ✓
+
+Targetable core English Paper-I acquisition:
+  173  targetable
+  170  acquired
+    3  unresolved (2 × 2022 HTTP 404, 1 × 2025 corrupt NTA PDF)
+
+Completeness:            170 / 173 targetable = 98.27%
 Physical files:          170 QPs + 34 supplementary = 204 PDFs on disk ✓
 Missing files:           0
 
+2019:                    OFFICIAL_QP_NOT_RETRIEVABLE
+                         NOT INCLUDED IN TARGETABLE CORE DENOMINATOR
+
 VERDICT: ALL RECORDS MATHEMATICALLY ACCOUNTED
 STATUS:  ACQUISITION_RECONCILED
-`
+```

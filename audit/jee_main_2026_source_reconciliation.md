@@ -40,11 +40,13 @@ This document explains the provenance of these 9 files.
    the 2026 year selection returned **0 rows** — meaning NTA had not yet  
    populated the Previous Years Exam Papers archive for 2026.
 
-2. **Pre-existing local archive**: These 9 files were already present in  
-   JEE_Main_PYQ_Archive/2026/ from earlier download phases. They are  
-   **Master question papers** (Session-2) released by NTA after the exam,  
-   likely obtained from NTA direct download links or official press releases  
-   before the archive was populated.
+2. **Pre-existing local archive**: The nine 2026 Session-2 Master question-paper PDFs  
+   were already present in the repository before the current NTA GetList acquisition run.  
+   Their files pass SHA256 and PDF integrity validation and are classified by the project  
+   as official NTA Master papers based on the archived source/provenance evidence available  
+   to the project. Exact original download URLs were not preserved in the current acquisition  
+   manifest; provenance is based on the pre-existing repository source evidence and  
+   Master-paper classification.
 
 3. **All 9 are Session-2 only**: JEE Main 2026 Session-1 question papers  
    have not been published by NTA at the time of this audit. Only Session-2  
