@@ -41072,7 +41072,7 @@
     "exam_date": "2026-04-02",
     "shift": "1",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-02_Shift-1_Question-Paper.pdf",
@@ -41085,7 +41085,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/202604092096865379.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41096,7 +41098,7 @@
     "exam_date": "2026-04-02",
     "shift": "2",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-02_Shift-2_Question-Paper.pdf",
@@ -41109,7 +41111,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/20260409481957146.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41120,7 +41124,7 @@
     "exam_date": "2026-04-04",
     "shift": "1",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-04_Shift-1_Question-Paper.pdf",
@@ -41133,7 +41137,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/202604091916616339.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41144,7 +41150,7 @@
     "exam_date": "2026-04-04",
     "shift": "2",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-04_Shift-2_Question-Paper.pdf",
@@ -41157,7 +41163,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/20260409432593766.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41168,7 +41176,7 @@
     "exam_date": "2026-04-05",
     "shift": "1",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-05_Shift-1_Question-Paper.pdf",
@@ -41181,7 +41189,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/20260409828731207.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41192,7 +41202,7 @@
     "exam_date": "2026-04-05",
     "shift": "2",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-05_Shift-2_Question-Paper.pdf",
@@ -41205,7 +41215,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/20260409829414602.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41216,7 +41228,7 @@
     "exam_date": "2026-04-06",
     "shift": "1",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-06_Shift-1_Question-Paper.pdf",
@@ -41229,7 +41241,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/202604092007095665.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41240,7 +41254,7 @@
     "exam_date": "2026-04-06",
     "shift": "2",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-06_Shift-2_Question-Paper.pdf",
@@ -41253,7 +41267,9 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/20260409725707538.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   },
   {
     "exam": "JEE Main",
@@ -41264,7 +41280,7 @@
     "exam_date": "2026-04-08",
     "shift": "2",
     "language": "English",
-    "source_page": "https://jeemain.nta.nic.in",
+    "source_page": "https://jeemain.nta.nic.in/",
     "qp_url": "Official NTA JEE Main Session 2 Master Release",
     "ak_url": null,
     "local_path": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-08_Shift-2_Question-Paper.pdf",
@@ -41277,6 +41293,8 @@
       "http_success": true,
       "pdf_signature_valid": true,
       "not_html_error": true
-    }
+    },
+    "source_url_s3waas": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/04/20260409932754345.pdf",
+    "source_provenance": "Official JEE Main portal (jeemain.nta.nic.in) Question Papers dropdown, verified via S3waas CDN SHA256 match"
   }
 ]

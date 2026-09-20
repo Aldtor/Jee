@@ -1,0 +1,131 @@
+{
+  "report": "JEE Main Remaining Acquisition Gaps",
+  "generated": "2026-09-21 00:05:36",
+  "categories": {
+    "A_TARGETABLE_STILL_MISSING": [
+      {
+        "year": 2022,
+        "date": "2022-07-26",
+        "shift": 1,
+        "language": "Malayalam",
+        "paper": "Paper-I",
+        "paper_type": "B.E./B.Tech.",
+        "current_official_url": null,
+        "alternate_urls_checked": [],
+        "source_pages_checked": [
+          "https://nta.ac.in/Downloads",
+          "https://nta.ac.in/NoticeBoardArchive"
+        ],
+        "failure_type": "NULL_QP_URL",
+        "final_status": "NOT_AVAILABLE_ON_NTA_ARCHIVE",
+        "notes": "NTA row exists but QP URL is null. No Malayalam Master QP PDF published for this date/shift."
+      },
+      {
+        "year": 2022,
+        "date": "2022-07-26",
+        "shift": 1,
+        "language": "Malayalam",
+        "paper": "Paper-I",
+        "paper_type": "B.E./B.Tech.",
+        "current_official_url": null,
+        "alternate_urls_checked": [],
+        "source_pages_checked": [
+          "https://nta.ac.in/Downloads"
+        ],
+        "failure_type": "NULL_QP_URL",
+        "final_status": "NOT_AVAILABLE_ON_NTA_ARCHIVE",
+        "notes": "Duplicate NTA row with same null QP URL."
+      }
+    ],
+    "B_NOT_PUBLICLY_RETRIEVABLE": [
+      {
+        "year": 2019,
+        "session": "January + April",
+        "dates": "8-12 Jan 2019, 7-12 Apr 2019",
+        "language": "All",
+        "paper": "Paper-I",
+        "paper_type": "B.E./B.Tech.",
+        "source_pages_checked": [
+          "https://nta.ac.in/Downloads",
+          "https://nta.ac.in/NoticeBoardArchive",
+          "https://jeemain.nta.nic.in/",
+          "https://nta.ac.in/Download/Notice/20190429154957.pdf"
+        ],
+        "failure_type": "NO_PUBLIC_MASTER_QP_PUBLISHED",
+        "final_status": "OFFICIAL_QP_NOT_RETRIEVABLE",
+        "notes": "NTA's first year (2019) used candidate-login-only recorded responses. No Master QP PDFs were ever publicly published. The candidate login portal has been decommissioned."
+      }
+    ],
+    "C_INTERACTIVE_ONLY": [
+      {
+        "year": 2026,
+        "session": "Session-1",
+        "dates": "21-24, 28 Jan 2026",
+        "language": "All",
+        "paper": "Paper-I",
+        "paper_type": "B.E./B.Tech.",
+        "source_pages_checked": [
+          "https://jeemain.nta.nic.in/",
+          "https://jeemain.nta.nic.in/public-notices/",
+          "https://nta.ac.in/Downloads"
+        ],
+        "failure_type": "CANDIDATE_LOGIN_ONLY",
+        "final_status": "OFFICIAL_INTERACTIVE_QP_ONLY",
+        "notes": "NTA notice dated Feb 4, 2026 confirms QPs were uploaded for candidate login during answer key challenge (Feb 4-6, 2026). No public Master QP PDFs published. Session-2 QPs are publicly available.",
+        "official_notice_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/02/202602041670681672.pdf"
+      }
+    ],
+    "E_CORRUPT_OFFICIAL_ASSET": [
+      {
+        "year": 2025,
+        "session": "Session-1",
+        "date": "2025-01-22",
+        "shift": 1,
+        "language": "English_Hindi",
+        "paper": "Paper-I",
+        "paper_type": "B.E./B.Tech.",
+        "current_official_url": "https://nta.ac.in/Download/ExamPaper/Paper_20250715180336.pdf",
+        "alternate_urls_checked": [
+          "Paper_20250715180335.pdf",
+          "Paper_20250715180337.pdf",
+          "Paper_20250715180338.pdf"
+        ],
+        "source_pages_checked": [
+          "https://nta.ac.in/Downloads",
+          "https://jeemain.nta.nic.in/"
+        ],
+        "failure_type": "STRUCTURAL_PDF_CORRUPTION",
+        "final_status": "OFFICIAL_SERVER_CORRUPT_UNRESOLVED",
+        "forensic_details": {
+          "http_status": 200,
+          "content_length": 5201129,
+          "content_type": "application/pdf",
+          "etag": "1a8479af84f5db1:0",
+          "last_modified": "Tue, 15 Jul 2025 12:33:36 GMT",
+          "accept_ranges": "bytes",
+          "sha256": "7d41e8bdfa29f6d135cf474e4e267167ea2b2595710fdc939526ff5272669619",
+          "pdf_header": "Valid (%PDF-1.4)",
+          "has_eof": true,
+          "has_xref": true,
+          "pypdf_error": "Could not read Null object",
+          "pymupdf_pages": 0,
+          "download_attempts": 4,
+          "sha256_consistent": true,
+          "range_request_supported": true
+        },
+        "notes": "File downloads successfully (HTTP 200, valid PDF header, %%EOF present) but internal structure is corrupt. pypdf cannot read it, pymupdf reads 0 pages. All 4 download attempts with different User-Agents return identical SHA256. Range requests work. The corruption is within the PDF's internal object structure, not a network/download issue."
+      }
+    ],
+    "D_THIRD_PARTY_ONLY": [],
+    "F_404_OFFICIAL_ASSET": []
+  },
+  "summary": {
+    "targetable_still_missing": 3,
+    "not_publicly_retrievable": 1,
+    "interactive_only": 1,
+    "corrupt_official": 1,
+    "third_party_only": 0,
+    "http_404": 0,
+    "newly_recovered_in_this_pass": 0
+  }
+}
