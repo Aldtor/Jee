@@ -1,0 +1,50 @@
+[
+  {
+    "exam": "JEE Main",
+    "year": 2019,
+    "session": "Session-Unresolved",
+    "paper": "Paper-I",
+    "paper_type": "B.E./B.Tech.",
+    "exam_date": null,
+    "shift": null,
+    "source_page": "https://nta.ac.in/Downloads",
+    "qp_url": null,
+    "ak_url": "https://nta.ac.in/Download/Notice/20190429154957.pdf",
+    "local_path": null,
+    "download_status": "OFFICIAL_QP_NOT_RETRIEVABLE",
+    "sha256": null,
+    "file_size_bytes": null,
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "failure_reason": "Not published or exposed by NTA in previous years exam papers archive. Notice board contains only press release and final answer key.",
+    "notes": "Audited NTA Downloads, NoticeBoardArchive. No official question paper PDFs exposed on NTA portal.",
+    "verification": {
+      "http_success": false,
+      "pdf_signature_valid": false,
+      "not_html_error": false
+    }
+  },
+  {
+    "exam": "JEE Main",
+    "year": 2025,
+    "session": "Session-1",
+    "paper": "Paper-I",
+    "paper_type": "B.E./B.Tech.",
+    "exam_date": "2025-01-22",
+    "shift": "1",
+    "language": "English_Hindi",
+    "source_page": "https://nta.ac.in/Downloads",
+    "qp_url": "https://nta.ac.in/Download/ExamPaper/Paper_20250715180336.pdf",
+    "ak_url": null,
+    "local_path": null,
+    "download_status": "AVAILABLE_BUT_DOWNLOAD_FAILED",
+    "failure_reason": "Corrupted/truncated PDF on official NTA server (Could not read Null object)",
+    "is_duplicate": false,
+    "duplicate_of": null,
+    "verification": {
+      "http_success": true,
+      "pdf_signature_valid": false,
+      "not_html_error": true
+    }
+  }
+]
