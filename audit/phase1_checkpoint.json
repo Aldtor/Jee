@@ -1,0 +1,106 @@
+{
+  "phase": 1,
+  "title": "Data Consistency & Schema Normalization",
+  "fixes": {
+    "F1_answers_master_regenerated": {
+      "old_count": 1775,
+      "new_count": 2964,
+      "source": "database_import/question_answers_import.jsonl",
+      "backup": "c:\\Users\\dell\\Music\\Jee Web\\backup_before_audit\\phase1_stale_files\\answers_master_stale.jsonl"
+    },
+    "F2_taxonomy_validated": {
+      "status_breakdown": {
+        "OFFICIAL_FINAL_KEY": 642,
+        "MULTI_SOURCE_VERIFIED": 1590,
+        "OFFICIAL_SOURCE": 732
+      },
+      "invalid_statuses_found": 0
+    },
+    "F4_review_consolidation": {
+      "canonical_location": "review/",
+      "duplicates_processed": {
+        "JEE_QUESTION_DATABASE\\review\\answer_conflicts.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\answer_conflicts.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\JEE_MAIN\\review\\answer_conflicts.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\review\\classification_review.jsonl": "IDENTICAL to canonical (200895 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\classification_review.jsonl": "IDENTICAL to canonical (200895 bytes)",
+        "JEE_QUESTION_DATABASE\\JEE_MAIN\\review\\classification_review.jsonl": "SUBSET of canonical (0 vs 200895 bytes)",
+        "JEE_QUESTION_DATABASE\\review\\diagram_review.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\diagram_review.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\JEE_MAIN\\review\\diagram_review.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\review\\duplicate_review.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\duplicate_review.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\review\\extraction_errors.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\extraction_errors.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\JEE_MAIN\\review\\extraction_errors.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\review\\low_confidence_answers.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\low_confidence_answers.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\JEE_MAIN\\review\\low_confidence_answers.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\review\\missing_answers.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\UNIFIED\\review\\missing_answers.jsonl": "IDENTICAL to canonical (0 bytes)",
+        "JEE_QUESTION_DATABASE\\JEE_MAIN\\review\\missing_answers.jsonl": "IDENTICAL to canonical (0 bytes)"
+      }
+    },
+    "F6_JEE_MAIN_options_normalized": {
+      "total": 675,
+      "dict_to_array": 675,
+      "already_array": 0,
+      "null_or_empty": 0
+    },
+    "F6_JEE_ADVANCED_options_normalized": {
+      "total": 2289,
+      "dict_to_array": 0,
+      "already_array": 2289,
+      "null_or_empty": 0
+    },
+    "F6_UNIFIED_options_normalized": {
+      "total": 2964,
+      "dict_to_array": 675,
+      "already_array": 2289,
+      "null_or_empty": 0
+    }
+  },
+  "validations": {
+    "record_counts": {
+      "UNIFIED/questions/questions_master.jsonl": 2964,
+      "UNIFIED/answers/answers_master.jsonl": 2964,
+      "UNIFIED/database_import/questions_import.jsonl": 2964,
+      "UNIFIED/database_import/question_answers_import.jsonl": 2964,
+      "UNIFIED/database_import/question_sources_import.jsonl": 2964,
+      "JEE_MAIN/questions/questions_master.jsonl": 675,
+      "JEE_ADVANCED/questions/questions_master.jsonl": 2289
+    },
+    "cross_validation_passed": true,
+    "review_queues": {
+      "answer_conflicts.jsonl": {
+        "records": 0,
+        "bytes": 0
+      },
+      "classification_review.jsonl": {
+        "records": 839,
+        "bytes": 200895
+      },
+      "diagram_review.jsonl": {
+        "records": 0,
+        "bytes": 0
+      },
+      "duplicate_review.jsonl": {
+        "records": 0,
+        "bytes": 0
+      },
+      "extraction_errors.jsonl": {
+        "records": 0,
+        "bytes": 0
+      },
+      "low_confidence_answers.jsonl": {
+        "records": 0,
+        "bytes": 0
+      },
+      "missing_answers.jsonl": {
+        "records": 0,
+        "bytes": 0
+      }
+    }
+  },
+  "errors": []
+}
