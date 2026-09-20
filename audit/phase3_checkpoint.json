@@ -1,0 +1,14 @@
+{
+  "phase": 3,
+  "title": "Fix Phase 2 Warnings",
+  "fixes": {
+    "chapters_added": 18,
+    "topics_added": 17,
+    "total_chapters": 69,
+    "total_topics": 209,
+    "canonical_chapters_updated": 69,
+    "canonical_topics_updated": 209,
+    "processing_report_updated": true
+  },
+  "status": "COMPLETE"
+}

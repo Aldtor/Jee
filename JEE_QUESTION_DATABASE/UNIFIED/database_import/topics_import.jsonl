@@ -190,3 +190,20 @@
 {"topic_id": "TOP_MAT_0190", "chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability", "topic_name": "Mean, Variance and Standard Deviation"}
 {"topic_id": "TOP_MAT_0191", "chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability", "topic_name": "Conditional Probability and Bayes' Theorem"}
 {"topic_id": "TOP_MAT_0192", "chapter_id": "CHP_MAT_051", "subject": "Mathematics", "chapter_name": "Statistics and Probability", "topic_name": "Binomial Distribution and Random Variables"}
+{"topic_id": 193, "topic_name": "Biomolecules and Polymers", "chapter": "Biomolecules and Polymers", "subject": "Chemistry"}
+{"topic_id": 194, "topic_name": "Coordinate Geometry - Circles", "chapter": "Coordinate Geometry - Circles", "subject": "Mathematics"}
+{"topic_id": 195, "topic_name": "Coordinate Geometry - Conic Sections", "chapter": "Coordinate Geometry - Conic Sections", "subject": "Mathematics"}
+{"topic_id": 196, "topic_name": "Coordinate Geometry - Straight Lines", "chapter": "Coordinate Geometry - Straight Lines", "subject": "Mathematics"}
+{"topic_id": 197, "topic_name": "Definite Integrals and Applications", "chapter": "Definite Integrals and Applications", "subject": "Mathematics"}
+{"topic_id": 198, "topic_name": "Differential Calculus", "chapter": "Differential Calculus", "subject": "Mathematics"}
+{"topic_id": 199, "topic_name": "Electrochemistry", "chapter": "Electrochemistry", "subject": "Chemistry"}
+{"topic_id": 200, "topic_name": "General Principles and Processes of Isolation of Metals", "chapter": "General Principles and Processes of Isolation of Metals", "subject": "Chemistry"}
+{"topic_id": 201, "topic_name": "Organic Compounds Containing Nitrogen", "chapter": "Organic Compounds Containing Nitrogen", "subject": "Chemistry"}
+{"topic_id": 202, "topic_name": "Probability and Statistics", "chapter": "Probability and Statistics", "subject": "Mathematics"}
+{"topic_id": 203, "topic_name": "Ray Optics and Optical Instruments", "chapter": "Ray Optics and Optical Instruments", "subject": "Physics"}
+{"topic_id": 204, "topic_name": "Thermal Properties of Matter", "chapter": "Thermal Properties of Matter", "subject": "Physics"}
+{"topic_id": 205, "topic_name": "Thermodynamics", "chapter": "Thermodynamics", "subject": "Physics"}
+{"topic_id": 206, "topic_name": "Three Dimensional Geometry", "chapter": "Three Dimensional Geometry", "subject": "Mathematics"}
+{"topic_id": 207, "topic_name": "Vector Algebra", "chapter": "Vector Algebra", "subject": "Mathematics"}
+{"topic_id": 208, "topic_name": "Wave Optics", "chapter": "Wave Optics", "subject": "Physics"}
+{"topic_id": 209, "topic_name": "d- and f-Block Elements", "chapter": "d- and f-Block Elements", "subject": "Chemistry"}

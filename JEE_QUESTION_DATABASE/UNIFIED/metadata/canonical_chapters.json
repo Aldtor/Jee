@@ -105,7 +105,20 @@
       "Zener Diode",
       "Logic Gates",
       "Transistors"
-    ]
+    ],
+    "Ray Optics and Optical Instruments": [
+      "Ray Optics and Optical Instruments"
+    ],
+    "Thermal Properties of Matter": [
+      "Thermal Properties of Matter"
+    ],
+    "Thermodynamics": [
+      "Thermodynamics"
+    ],
+    "Wave Optics": [
+      "Wave Optics"
+    ],
+    "Kinetic Theory of Gases": []
   },
   "Chemistry": {
     "Some Basic Concepts of Chemistry": [
@@ -213,6 +226,21 @@
       "Peptide Bonds and Proteins",
       "Nucleic Acids",
       "Polymers and Environmental Chemistry"
+    ],
+    "Biomolecules and Polymers": [
+      "Biomolecules and Polymers"
+    ],
+    "Electrochemistry": [
+      "Electrochemistry"
+    ],
+    "General Principles and Processes of Isolation of Metals": [
+      "General Principles and Processes of Isolation of Metals"
+    ],
+    "Organic Compounds Containing Nitrogen": [
+      "Organic Compounds Containing Nitrogen"
+    ],
+    "d- and f-Block Elements": [
+      "d- and f-Block Elements"
     ]
   },
   "Mathematics": {
@@ -297,6 +325,30 @@
       "Mean, Variance and Standard Deviation",
       "Conditional Probability and Bayes' Theorem",
       "Binomial Distribution and Random Variables"
+    ],
+    "Coordinate Geometry - Circles": [
+      "Coordinate Geometry - Circles"
+    ],
+    "Coordinate Geometry - Conic Sections": [
+      "Coordinate Geometry - Conic Sections"
+    ],
+    "Coordinate Geometry - Straight Lines": [
+      "Coordinate Geometry - Straight Lines"
+    ],
+    "Definite Integrals and Applications": [
+      "Definite Integrals and Applications"
+    ],
+    "Differential Calculus": [
+      "Differential Calculus"
+    ],
+    "Probability and Statistics": [
+      "Probability and Statistics"
+    ],
+    "Three Dimensional Geometry": [
+      "Three Dimensional Geometry"
+    ],
+    "Vector Algebra": [
+      "Vector Algebra"
     ]
   }
 }
