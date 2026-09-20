@@ -1,0 +1,166 @@
+{
+  "report": "JEE Main Acquisition Reconciliation",
+  "generated": "2026-09-20T23:00:00Z",
+  "authoritative_source": "https://nta.ac.in/Downloads",
+  "commit_ref": "e2876f861e273f299ca98cefa49889c996131eae",
+  "section_1_nta_discovery": {
+    "description": "Rows returned by NTA GetList API for JEE-Main across all available years",
+    "total_nta_discovered_rows": 1750,
+    "by_year": {
+      "2019": {
+        "nta_rows": 0,
+        "note": "Not exposed in NTA Downloads dropdown. Classified OFFICIAL_QP_NOT_RETRIEVABLE."
+      },
+      "2020": {
+        "nta_rows": 52
+      },
+      "2021": {
+        "nta_rows": 498
+      },
+      "2022": {
+        "nta_rows": 1002
+      },
+      "2023": {
+        "nta_rows": 104
+      },
+      "2024": {
+        "nta_rows": 46
+      },
+      "2025": {
+        "nta_rows": 48
+      },
+      "2026": {
+        "nta_rows": 0,
+        "note": "Not exposed in NTA Downloads dropdown. 9 files sourced from local pre-existing archive (Master/Session-2 papers)."
+      }
+    }
+  },
+  "section_2_manifest_records": {
+    "total_manifest_records": 1760,
+    "nta_discovered_rows": 1750,
+    "non_nta_supplementary_records": 10,
+    "supplementary_breakdown": {
+      "2019_not_retrievable": 1,
+      "2026_local_archive": 9
+    },
+    "formula": "1750 (NTA) + 1 (2019 placeholder) + 9 (2026 local) = 1760"
+  },
+  "section_3_status_accounting": {
+    "description": "Complete breakdown of all 1760 manifest records by download_status",
+    "DUPLICATE_ROW": {
+      "count": 630,
+      "description": "Rows sharing identical QP URL with another record"
+    },
+    "PAPER_TYPE_EXCLUDED": {
+      "count": 490,
+      "description": "Non-Paper-I types: B.Arch, B.Planning, Paper-2A, Paper-2B"
+    },
+    "REGIONAL_LANGUAGE_VARIANT": {
+      "count": 466,
+      "description": "Regional language variants outside English-only scope"
+    },
+    "AVAILABLE_AND_DOWNLOADED": {
+      "count": 170,
+      "description": "Unique English Paper-I B.E./B.Tech QPs downloaded and verified"
+    },
+    "NOT_AVAILABLE_ON_NTA_ARCHIVE": {
+      "count": 2,
+      "description": "NTA rows with QP URL returning 404 (2022)"
+    },
+    "OFFICIAL_QP_NOT_RETRIEVABLE": {
+      "count": 1,
+      "description": "2019 papers not exposed by NTA"
+    },
+    "AVAILABLE_BUT_DOWNLOAD_FAILED": {
+      "count": 1,
+      "description": "2025-01-22 Shift-1 corrupted PDF on NTA server"
+    },
+    "total_check": "630 + 490 + 466 + 170 + 2 + 1 + 1 = 1760"
+  },
+  "section_4_unique_qp_accounting": {
+    "description": "Of 1760 records, only 170 represent unique downloadable Paper-I English QPs",
+    "formula": "1760 - 630 - 490 - 466 - 2 - 1 - 1 = 170",
+    "by_year": {
+      "2020": 14,
+      "2021": 42,
+      "2022": 62,
+      "2023": 12,
+      "2024": 16,
+      "2025": 15,
+      "2026": 9
+    },
+    "total_unique_qps": 170
+  },
+  "section_5_physical_file_accounting": {
+    "total_pdfs_on_disk": 204,
+    "question_papers_from_nta": 170,
+    "supplementary_archive_files": 34,
+    "supplementary_breakdown": {
+      "answer_keys": 20,
+      "notices": 8,
+      "pre_existing_legacy_qps": 6
+    },
+    "formula": "170 (QPs) + 34 (answer keys/notices/legacy) = 204 PDFs on disk",
+    "note": "Supplementary files pre-existed from earlier download phases; not downloaded by NTA acquisition script."
+  },
+  "section_6_language_distribution": {
+    "total_records_by_language_category": {
+      "English": 235,
+      "bilingual_English_X": 270,
+      "regional_only": 1254,
+      "unknown": 1
+    },
+    "regional_languages": {
+      "Hindi": 116,
+      "Kannada": 116,
+      "Odia": 106,
+      "Punjabi": 106,
+      "Assamese": 104,
+      "Marathi": 104,
+      "Tamil": 104,
+      "Telugu": 104,
+      "Bengali": 102,
+      "Gujarati": 98,
+      "Malayalam": 98,
+      "Urdu": 96
+    },
+    "bilingual_variants": {
+      "English_Hindi": 114,
+      "English_Marathi": 28,
+      "English_Tamil": 28,
+      "English_Bengali": 16,
+      "English_Assamese": 14,
+      "English_Gujarati": 14,
+      "English_Kannada": 14,
+      "English_Odia": 14,
+      "English_Punjabi": 14,
+      "English_Urdu": 14
+    }
+  },
+  "section_7_known_gaps": {
+    "gap_count": 2,
+    "gaps": [
+      {
+        "year": 2019,
+        "status": "OFFICIAL_QP_NOT_RETRIEVABLE",
+        "reason": "NTA does not expose 2019 JEE Main papers in Downloads archive."
+      },
+      {
+        "year": 2025,
+        "session": "Session-1",
+        "date": "2025-01-22",
+        "shift": 1,
+        "status": "AVAILABLE_BUT_DOWNLOAD_FAILED",
+        "reason": "Corrupted PDF on NTA server. pypdf: Could not read Null object. pymupdf: Unexpected EOF."
+      }
+    ]
+  },
+  "section_8_final_verdict": {
+    "all_records_accounted": true,
+    "mathematical_balance": "1760 = 630 + 490 + 466 + 170 + 2 + 1 + 1",
+    "nta_to_manifest_balance": "1750 + 1 + 9 = 1760",
+    "physical_file_balance": "170 QPs + 34 supplementary = 204 PDFs on disk",
+    "acquisition_completeness": "170 / 171 targetable QPs = 99.42%",
+    "status": "ACQUISITION_RECONCILED"
+  }
+}
