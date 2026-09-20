@@ -1,0 +1,47 @@
+{
+  "structural_status": "PASS",
+  "content_verification_status": "CONTENT_REVIEW_REQUIRED",
+  "import_status": "CONTENT_REVIEW_REQUIRED",
+  "total_questions": 2964,
+  "actual_extracted_questions": 1055,
+  "placeholder_questions": 1909,
+  "placeholder_questions_pct": 64.4,
+  "option_extraction_failures": 1896,
+  "official_final_key_answers": 642,
+  "official_source_answers": 732,
+  "multi_source_answers": 1590,
+  "needs_review_answers": 0,
+  "answer_conflicts": 0,
+  "topic_review_items": 839,
+  "solution_failures_total": 540,
+  "solution_placeholder": 540,
+  "solution_empty": 0,
+  "marking_mismatches": 0,
+  "diagram_failures": 276,
+  "jee_main_coverage": {
+    "2019": "AVAILABLE_NOT_PROCESSED",
+    "2020": "PUBLIC_MASTER_PAPER_NOT_AVAILABLE",
+    "2021": "AVAILABLE_NOT_PROCESSED",
+    "2022": "AVAILABLE_NOT_PROCESSED",
+    "2023": "AVAILABLE_NOT_PROCESSED",
+    "2024": "OFFICIAL_KEY_ONLY",
+    "2025": "OFFICIAL_KEY_ONLY",
+    "2026": "AVAILABLE_AND_PROCESSED"
+  },
+  "provenance_issues": 1374,
+  "critical_blockers": [
+    "1909 questions have placeholder text instead of actual content",
+    "1896 MCQ questions have placeholder options",
+    "540 solutions are template filler",
+    "1374 answer provenance records use generic URLs without specific document references",
+    "Only 1/8 JEE Main years have extractable public question papers"
+  ],
+  "files_requiring_review": [
+    "audit/answer_truth_failures.jsonl",
+    "audit/solution_truth_audit.jsonl",
+    "audit/subject_assignment_audit.csv",
+    "audit/content_truth_scan.json",
+    "review/classification_review.jsonl",
+    "review/marking_scheme_review.jsonl"
+  ]
+}
