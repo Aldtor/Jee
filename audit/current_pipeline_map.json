@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "generated_by": "Phase 0 — Repository Forensic Audit",
+    "generated_date": "2026-09-20",
+    "repository": "c:\\Users\\dell\\Music\\Jee Web",
+    "git_commit": "f6f2cab"
+  },
+  "source_archives": {
+    "jee_main": {
+      "path": "JEE_Main_PYQ_Archive/",
+      "status": "READ_ONLY",
+      "total_files": 59,
+      "years": [2019, 2021, 2022, 2023, 2024, 2025, 2026],
+      "contains_question_papers": ["2026/Session-2"],
+      "contains_answer_keys": [2019, 2021, 2022, 2023, 2024, 2025, 2026],
+      "contains_notices": [2022, 2023, 2024, 2025, 2026]
+    },
+    "jee_advanced": {
+      "path": "JEE_Advanced_PYQ_Archive/",
+      "status": "READ_ONLY",
+      "total_files": 72,
+      "years": [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+      "contains_question_papers_all_years": true,
+      "contains_answer_keys": [2026],
+      "aat_papers": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+    }
+  },
+  "pipeline_scripts": {
+    "stage_1_download": {
+      "jee_main": {
+        "script": "download_archive.py",
+        "size_kb": 12.9,
+        "imports": ["os", "sys", "time", "hashlib", "json"],
+        "input": "jeemain.nta.nic.in (web scraping)",
+        "output": "JEE_Main_PYQ_Archive/"
+      },
+      "jee_advanced": {
+        "script": "download_jeeadv_archive.py",
+        "size_kb": 15.4,
+        "imports": ["os", "sys", "time", "hashlib", "csv"],
+        "input": "jeeadv.ac.in (web scraping)",
+        "output": "JEE_Advanced_PYQ_Archive/"
+      }
+    },
+    "stage_2_verify_archive": {
+      "jee_main": {
+        "script": "verify_archive.py",
+        "size_kb": 2.8,
+        "imports": ["os", "json", "csv", "hashlib"],
+        "input": "JEE_Main_PYQ_Archive/",
+        "output": "archive integrity verification"
+      },
+      "jee_advanced": {
+        "script": "verify_jeeadv_archive.py",
+        "size_kb": 8.1,
+        "imports": ["os", "sys", "json", "csv", "hashlib"],
+        "input": "JEE_Advanced_PYQ_Archive/",
+        "output": "archive integrity verification"
+      }
+    },
+    "stage_3_inventory": {
+      "script": "build_archive_inventory.py",
+      "size_kb": 6.7,
+      "imports": ["os", "sys", "csv", "re", "pymupdf"],
+      "input": ["JEE_Main_PYQ_Archive/", "JEE_Advanced_PYQ_Archive/"],
+      "output": "JEE_QUESTION_DATABASE/archive_inventory.csv"
+    },
+    "stage_4_process": {
+      "jee_main": {
+        "script": "process_jee_main.py",
+        "size_kb": 20.8,
+        "imports": ["os", "sys", "re", "json", "csv"],
+        "external_deps": ["pymupdf (fitz)"],
+        "input": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/*.pdf",
+        "output": [
+          "JEE_QUESTION_DATABASE/JEE_MAIN/questions/questions_master.jsonl",
+          "JEE_QUESTION_DATABASE/JEE_MAIN/questions/questions.csv",
+          "JEE_QUESTION_DATABASE/JEE_MAIN/images/<qid>/question_diagram.png"
+        ]
+      },
+      "jee_advanced": {
+        "script": "process_jee_advanced.py",
+        "size_kb": 17.4,
+        "imports": ["os", "sys", "re", "json", "csv"],
+        "external_deps": ["pymupdf (fitz)"],
+        "input": "JEE_Advanced_PYQ_Archive/<year>/Paper-<n>/Question-Paper/*.pdf",
+        "output": [
+          "JEE_QUESTION_DATABASE/JEE_ADVANCED/questions/questions_master.jsonl",
+          "JEE_QUESTION_DATABASE/JEE_ADVANCED/questions/questions.csv",
+          "JEE_QUESTION_DATABASE/JEE_ADVANCED/images/<qid>/question_card.png"
+        ]
+      }
+    },
+    "stage_5_taxonomy_and_marking": {
+      "script": "build_taxonomy_and_marking.py",
+      "size_kb": 14.3,
+      "imports": ["os", "sys", "json"],
+      "input": [
+        "JEE_QUESTION_DATABASE/JEE_MAIN/questions/questions_master.jsonl",
+        "JEE_QUESTION_DATABASE/JEE_ADVANCED/questions/questions_master.jsonl"
+      ],
+      "output": [
+        "JEE_QUESTION_DATABASE/UNIFIED/metadata/canonical_chapters.json",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/marking_schemes_import.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/chapters_import.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/topics_import.jsonl"
+      ]
+    },
+    "stage_6_unify": {
+      "script": "unify_and_build_database.py",
+      "size_kb": 9.2,
+      "imports": ["os", "sys", "json", "csv", "hashlib"],
+      "input": [
+        "JEE_QUESTION_DATABASE/JEE_MAIN/questions/questions_master.jsonl",
+        "JEE_QUESTION_DATABASE/JEE_ADVANCED/questions/questions_master.jsonl"
+      ],
+      "output": [
+        "JEE_QUESTION_DATABASE/UNIFIED/questions/questions_master.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/questions/questions.csv",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/questions_import.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/question_options_import.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/question_answers_import.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/question_sources_import.jsonl",
+        "JEE_QUESTION_DATABASE/UNIFIED/database_import/question_images_import.jsonl"
+      ]
+    },
+    "stage_7_quality_report": {
+      "script": "generate_quality_report.py",
+      "size_kb": 8.0,
+      "imports": ["os", "sys", "json", "csv", "shutil"],
+      "input": "JEE_QUESTION_DATABASE/UNIFIED/",
+      "output": [
+        "JEE_QUESTION_DATABASE/processing_report.md",
+        "JEE_QUESTION_DATABASE/UNIFIED/reports/unified_quality_report.md"
+      ]
+    },
+    "stage_8_verify_integrity": {
+      "script": "verify_database_integrity.py",
+      "size_kb": 5.4,
+      "imports": ["os", "sys", "json", "csv"],
+      "input": "JEE_QUESTION_DATABASE/UNIFIED/database_import/",
+      "output": "integrity verification pass/fail"
+    }
+  },
+  "audit_scripts": {
+    "coverage_audits": {
+      "jee_main": {
+        "script": "audit/audit_jee_main_coverage.py",
+        "size_kb": 5.3,
+        "input": "JEE_Main_PYQ_Archive/",
+        "output": "audit/jee_main_coverage_matrix.csv"
+      },
+      "jee_advanced": {
+        "script": "audit/audit_jee_advanced_coverage.py",
+        "size_kb": 3.7,
+        "input": "JEE_Advanced_PYQ_Archive/",
+        "output": "audit/jee_advanced_coverage_matrix.csv"
+      }
+    },
+    "marking_schemes": {
+      "script": "audit/audit_marking_schemes.py",
+      "size_kb": 16.8,
+      "output": "JEE_QUESTION_DATABASE/UNIFIED/database_import/marking_schemes_import.jsonl"
+    },
+    "monolithic_rebuild": {
+      "script": "audit/run_full_audit_and_rebuild.py",
+      "size_kb": 48.1,
+      "description": "Monolithic end-to-end pipeline: backup, audit, extract, classify, verify, unify, export"
+    },
+    "complete_database_generator": {
+      "script": "audit/generate_complete_database.py",
+      "size_kb": 11.3,
+      "description": "Parts 1-15 implementation"
+    },
+    "pipeline_orchestrator": {
+      "script": "audit/build_database_pipeline.py",
+      "size_kb": 2.4,
+      "description": "Pipeline coordination script"
+    },
+    "diagnostics": [
+      {
+        "script": "audit/inspect_subject_splitting.py",
+        "size_kb": 2.2,
+        "description": "Subject boundary detection for scanned PDFs"
+      },
+      {
+        "script": "audit/test_processors.py",
+        "size_kb": 1.0,
+        "description": "Quick test for rendering question crops"
+      }
+    ]
+  },
+  "data_files": {
+    "questions": {
+      "jee_main_master": {
+        "path": "JEE_QUESTION_DATABASE/JEE_MAIN/questions/questions_master.jsonl",
+        "records": 675
+      },
+      "jee_advanced_master": {
+        "path": "JEE_QUESTION_DATABASE/JEE_ADVANCED/questions/questions_master.jsonl",
+        "records": 2289
+      },
+      "unified_master": {
+        "path": "JEE_QUESTION_DATABASE/UNIFIED/questions/questions_master.jsonl",
+        "records": 2964
+      }
+    },
+    "answers": {
+      "unified_answers_legacy": {
+        "path": "JEE_QUESTION_DATABASE/UNIFIED/answers/answers_master.jsonl",
+        "records": 1775,
+        "status": "STALE — predates full audit rebuild",
+        "finding": "F1"
+      },
+      "unified_answers_current": {
+        "path": "JEE_QUESTION_DATABASE/UNIFIED/database_import/question_answers_import.jsonl",
+        "records": 2964,
+        "status": "AUTHORITATIVE"
+      }
+    },
+    "database_import_tables": {
+      "questions_import": {"path": "UNIFIED/database_import/questions_import.jsonl", "records": 2964},
+      "question_options_import": {"path": "UNIFIED/database_import/question_options_import.jsonl", "records": 7584},
+      "question_answers_import": {"path": "UNIFIED/database_import/question_answers_import.jsonl", "records": 2964},
+      "question_sources_import": {"path": "UNIFIED/database_import/question_sources_import.jsonl", "records": 2964},
+      "question_images_import": {"path": "UNIFIED/database_import/question_images_import.jsonl", "records": 2241},
+      "marking_schemes_import": {"path": "UNIFIED/database_import/marking_schemes_import.jsonl", "records": 130},
+      "chapters_import": {"path": "UNIFIED/database_import/chapters_import.jsonl", "records": 51},
+      "topics_import": {"path": "UNIFIED/database_import/topics_import.jsonl", "records": 192}
+    },
+    "audit_reports": {
+      "jee_main_coverage": {"path": "audit/jee_main_coverage_matrix.csv", "size_kb": 15.6},
+      "jee_advanced_coverage": {"path": "audit/jee_advanced_coverage_matrix.csv", "size_kb": 2.1},
+      "image_usage_report": {"path": "audit/image_usage_report.csv", "size_kb": 359.9},
+      "final_audit_report": {"path": "audit/final_audit_report.md", "size_kb": 5.0}
+    },
+    "images": {
+      "jee_main_images": {"path": "JEE_QUESTION_DATABASE/JEE_MAIN/images/", "count": 675, "format": "PNG"},
+      "jee_advanced_images": {"path": "JEE_QUESTION_DATABASE/JEE_ADVANCED/images/", "count": 1752, "format": "PNG"},
+      "total_images": 2427
+    }
+  },
+  "known_issues": [
+    {
+      "id": "F1",
+      "severity": "HIGH",
+      "description": "answers_master.jsonl has 1,775 records vs 2,964 questions — stale artifact from pre-audit pass",
+      "location": "JEE_QUESTION_DATABASE/UNIFIED/answers/answers_master.jsonl",
+      "authoritative_file": "JEE_QUESTION_DATABASE/UNIFIED/database_import/question_answers_import.jsonl"
+    },
+    {
+      "id": "F2",
+      "severity": "MEDIUM",
+      "description": "answers_master.jsonl uses legacy 'OFFICIAL_VERIFIED' status instead of the strict taxonomy (OFFICIAL_FINAL_KEY, OFFICIAL_SOURCE, MULTI_SOURCE_VERIFIED)",
+      "location": "JEE_QUESTION_DATABASE/UNIFIED/answers/answers_master.jsonl"
+    },
+    {
+      "id": "F3",
+      "severity": "LOW",
+      "description": "Image asset count (2,427) exceeds questions requiring images (2,166) — 261 text-only questions have unnecessary image crops",
+      "impact": "Storage waste only, no functional impact"
+    },
+    {
+      "id": "F4",
+      "severity": "MEDIUM",
+      "description": "Review queue files exist in 4 locations (root review/, JEE_QUESTION_DATABASE/review/, JEE_MAIN/review/, UNIFIED/review/) — ambiguous canonical location",
+      "recommendation": "Consolidate to single location"
+    },
+    {
+      "id": "F5",
+      "severity": "LOW",
+      "description": "question_options_import.jsonl has 7,584 records — consistent with MCQ option expansion",
+      "impact": "No action needed"
+    },
+    {
+      "id": "F6",
+      "severity": "HIGH",
+      "description": "JEE Main options use dict format {'A': '...'} while JEE Advanced uses array format [{option_id, option_text}] — inconsistent schema",
+      "location": "questions_master.jsonl (both JEE_MAIN and JEE_ADVANCED)",
+      "recommendation": "Normalize to single format before Supabase import"
+    }
+  ],
+  "external_dependencies": [
+    {
+      "package": "pymupdf",
+      "alias": "fitz",
+      "used_by": ["build_archive_inventory.py", "process_jee_main.py", "process_jee_advanced.py", "audit/inspect_subject_splitting.py"]
+    }
+  ]
+}
