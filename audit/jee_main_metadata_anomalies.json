@@ -1,0 +1,182 @@
+{
+  "generated_at": "2026-09-21T18:13:47+00:00",
+  "anomalies_found": 4,
+  "fixed": 4,
+  "unresolved": 0,
+  "corrections": [
+    {
+      "old_source_id": "JM_2021_Session-3_2021-07-27_2_Hindi",
+      "new_source_id": "JM_2021_Session-3_2021-07-20_2_Hindi",
+      "manifest_metadata": {
+        "year": 2021,
+        "session": "Session-3",
+        "exam_date": "2021-07-27",
+        "shift": "2",
+        "language": "Hindi",
+        "paper_type": "B.E./B.Tech.",
+        "qp_url": "https://nta.ac.in/Download/ExamPaper/Paper_20211019112845.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-2_Hindi.pdf"
+      },
+      "effective_metadata": {
+        "year": 2021,
+        "session": "Session-3",
+        "exam_date": "2021-07-20",
+        "shift": 2,
+        "language": "Hindi",
+        "paper_type": "B.E./B.Tech.",
+        "source_url": "https://nta.ac.in/Download/ExamPaper/Paper_20211019112845.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-2_Hindi.pdf",
+        "source_sha256": "0ca58610016fd2889f211d18f689048c2ce968d7c81d6e5a15506d946f29bfac"
+      },
+      "evidence": "PDF first-page paper name: B Tech 20072021 Shift 2",
+      "action": "FIXED_IN_DATABASE",
+      "already_applied_before_this_run": true
+    },
+    {
+      "old_source_id": "JM_2021_Session-3_2021-07-27_2",
+      "new_source_id": "JM_2021_Session-3_2021-07-20_2",
+      "manifest_metadata": {
+        "year": 2021,
+        "session": "Session-3",
+        "exam_date": "2021-07-27",
+        "shift": "2",
+        "language": "English",
+        "paper_type": "B.E./B.Tech.",
+        "qp_url": "https://nta.ac.in/Download/ExamPaper/Paper_20211018174240.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-2.pdf"
+      },
+      "effective_metadata": {
+        "year": 2021,
+        "session": "Session-3",
+        "exam_date": "2021-07-20",
+        "shift": 2,
+        "language": "English",
+        "paper_type": "B.E./B.Tech.",
+        "source_url": "https://nta.ac.in/Download/ExamPaper/Paper_20211018174240.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-2.pdf",
+        "source_sha256": "be745dc4bdff51c0e314d60b5dd0c73fd11b17c41540ef3cad3fdf61e81e8b39"
+      },
+      "evidence": "PDF first-page paper name: B Tech 20072021 Shift 2",
+      "action": "FIXED_IN_DATABASE",
+      "already_applied_before_this_run": true
+    },
+    {
+      "old_source_id": "JM_2024_Session-1_2025-02-01_2_English_Hindi",
+      "new_source_id": "JM_2024_Session-1_2024-02-01_2_English_Hindi",
+      "manifest_metadata": {
+        "year": 2024,
+        "session": "Session-1",
+        "exam_date": "2025-02-01",
+        "shift": "2",
+        "language": "English_Hindi",
+        "paper_type": "B.E./B.Tech.",
+        "qp_url": "https://nta.ac.in/Download/ExamPaper/Paper_20250910115723.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2024/Session-1/Question-Papers/JEE_Main_2024_Session-1_Paper1_2025-02-01_Shift-2_English_Hindi.pdf"
+      },
+      "effective_metadata": {
+        "year": 2024,
+        "session": "Session-1",
+        "exam_date": "2024-02-01",
+        "shift": 2,
+        "language": "English_Hindi",
+        "paper_type": "B.E./B.Tech.",
+        "source_url": "https://nta.ac.in/Download/ExamPaper/Paper_20250910115723.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2024/Session-1/Question-Papers/JEE_Main_2024_Session-1_Paper1_2025-02-01_Shift-2_English_Hindi.pdf",
+        "source_sha256": "2303861bf486ce2efc5cbb57a162a5f058de9f674a2cad66689910ab8e4554ac"
+      },
+      "evidence": "PDF first-page paper name: B Tech 1st Feb 2024 Shift 2",
+      "action": "FIXED_IN_DATABASE",
+      "already_applied_before_this_run": true
+    },
+    {
+      "old_source_id": "JM_2025_Session-1_2024-01-29_1_English_Hindi",
+      "new_source_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi",
+      "manifest_metadata": {
+        "year": 2025,
+        "session": "Session-1",
+        "exam_date": "2024-01-29",
+        "shift": "1",
+        "language": "English_Hindi",
+        "paper_type": "B.E./B.Tech.",
+        "qp_url": "https://nta.ac.in/Download/ExamPaper/Paper_20250910115932.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2025/Session-1/Question-Papers/JEE_Main_2025_Session-1_Paper1_2024-01-29_Shift-1_English_Hindi.pdf"
+      },
+      "effective_metadata": {
+        "year": 2024,
+        "session": "Session-1",
+        "exam_date": "2024-01-29",
+        "shift": 1,
+        "language": "English_Hindi",
+        "paper_type": "B.E./B.Tech.",
+        "source_url": "https://nta.ac.in/Download/ExamPaper/Paper_20250910115932.pdf",
+        "local_path": "JEE_Main_PYQ_Archive/2025/Session-1/Question-Papers/JEE_Main_2025_Session-1_Paper1_2024-01-29_Shift-1_English_Hindi.pdf",
+        "source_sha256": "eca0b6440d70656c5272db9123e085f106d837d1688e17c75981e1e9f9da1e9d"
+      },
+      "evidence": "PDF first-page paper name: B Tech 29th Jan 2024 Shift 1; official coverage inventory places 2024-01-29 in the 2024 set",
+      "action": "FIXED_IN_DATABASE",
+      "already_applied_before_this_run": true
+    }
+  ],
+  "filename_or_archive_conflicts_preserved": [
+    {
+      "source_id": "JM_2021_Session-3_2021-07-20_2_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-2_Hindi.pdf",
+      "checks": [
+        {
+          "type": "filename_date_mismatch",
+          "filename_date": "2021-07-27",
+          "database_date": "2021-07-20"
+        }
+      ],
+      "disposition": "PRESERVED_ORIGINAL_PATH_AND_EXPLICITLY_DOCUMENTED"
+    },
+    {
+      "source_id": "JM_2021_Session-3_2021-07-20_2",
+      "source_pdf": "JEE_Main_PYQ_Archive/2021/Session-3/Question-Papers/JEE_Main_2021_Session-3_Paper1_2021-07-27_Shift-2.pdf",
+      "checks": [
+        {
+          "type": "filename_date_mismatch",
+          "filename_date": "2021-07-27",
+          "database_date": "2021-07-20"
+        }
+      ],
+      "disposition": "PRESERVED_ORIGINAL_PATH_AND_EXPLICITLY_DOCUMENTED"
+    },
+    {
+      "source_id": "JM_2024_Session-1_2024-02-01_2_English_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2024/Session-1/Question-Papers/JEE_Main_2024_Session-1_Paper1_2025-02-01_Shift-2_English_Hindi.pdf",
+      "checks": [
+        {
+          "type": "filename_date_mismatch",
+          "filename_date": "2025-02-01",
+          "database_date": "2024-02-01"
+        }
+      ],
+      "disposition": "PRESERVED_ORIGINAL_PATH_AND_EXPLICITLY_DOCUMENTED"
+    },
+    {
+      "source_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2025/Session-1/Question-Papers/JEE_Main_2025_Session-1_Paper1_2024-01-29_Shift-1_English_Hindi.pdf",
+      "checks": [
+        {
+          "type": "filename_year_mismatch",
+          "filename_year": 2025,
+          "database_year": 2024
+        },
+        {
+          "type": "archive_directory_year_mismatch",
+          "directory_year": 2025,
+          "database_year": 2024
+        }
+      ],
+      "disposition": "PRESERVED_ORIGINAL_PATH_AND_EXPLICITLY_DOCUMENTED"
+    }
+  ],
+  "automated_checks": {
+    "source_count": 156,
+    "required_field_failures": 0,
+    "missing_local_pdfs": 0,
+    "sha256_mismatches": 0,
+    "filename_or_archive_conflict_count": 4
+  }
+}

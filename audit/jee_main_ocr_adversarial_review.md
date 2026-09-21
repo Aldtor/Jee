@@ -126,16 +126,16 @@ Sampled **20** questions; required minimum: **20**; result: **PASS**.
 | JM_2024_Session-2_2024-04-04_2_Q001_OCC1 | Unknown | MCQ | [3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 6 | 7 |
 | JM_2024_Session-2_2024-04-09_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-1_2024-02-01_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 9 | 11 |
-| JM_2024_Session-1_2025-02-01_2_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
+| JM_2024_Session-1_2024-02-01_2_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-1_2024-01-27_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-1_2024-01-30_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-1_2024-01-30_2_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-1_2024-01-31_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-1_2024-01-31_2_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
+| JM_2024_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2024_Session-2_2024-04-08_2_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [3, 4] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 5 | 10 |
 | JM_2024_Session-2_2024-04-08_1_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [3, 4] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 12 |
 | JM_2024_Session-2_2024-04-06_2_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [3, 4, 5] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 14 | 16 |
-| JM_2024_Session-2_2024-04-06_1_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [3, 4] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 
 ## 2025
 
@@ -152,7 +152,6 @@ Sampled **20** questions; required minimum: **20**; result: **PASS**.
 | JM_2025_Session-2_2025-04-04_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [1, 2] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2025_Session-2_2025-04-03_2_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [1, 2] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2025_Session-2_2025-04-03_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [1, 2] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
-| JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2025_Session-1_2025-01-23_2_English_Hindi_Q002_OCC1 | Unknown | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 10 |
 | JM_2025_Session-2_2025-04-02_2_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 12 |
 | JM_2025_Session-2_2025-04-08_2_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 5 | 10 |
@@ -163,6 +162,7 @@ Sampled **20** questions; required minimum: **20**; result: **PASS**.
 | JM_2025_Session-2_2025-04-03_2_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [2] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 17 | 18 |
 | JM_2025_Session-2_2025-04-03_1_English_Hindi_Q002_OCC1 | Mathematics | MCQ | [2] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 17 | 18 |
 | JM_2025_Session-2_2025-04-02_1_Q002_OCC1 | Mathematics | MCQ | [2, 3] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 8 | 12 |
+| JM_2025_Session-1_2025-01-23_2_English_Hindi_Q003_OCC1 | Unknown | MCQ | [3, 4] | OCR_REVIEW_REQUIRED | CONTENT_PARTIALLY_VERIFIED | 5 | 10 |
 
 ## 2026
 

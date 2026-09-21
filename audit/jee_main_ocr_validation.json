@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:24:59.237852+00:00",
+  "generated_at": "2026-09-21T18:15:05.513188+00:00",
   "graph": {
     "source_count": 156,
     "occurrence_count": 12792,
@@ -2013,8 +2013,8 @@
           "source_exists": true
         },
         {
-          "occurrence_id": "JM_2024_Session-1_2025-02-01_2_English_Hindi_Q001_OCC1",
-          "source_id": "JM_2024_Session-1_2025-02-01_2_English_Hindi",
+          "occurrence_id": "JM_2024_Session-1_2024-02-01_2_English_Hindi_Q001_OCC1",
+          "source_id": "JM_2024_Session-1_2024-02-01_2_English_Hindi",
           "question_number": 1,
           "subject": "Mathematics",
           "question_type": "MCQ",
@@ -2145,6 +2145,28 @@
           "source_exists": true
         },
         {
+          "occurrence_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1",
+          "source_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi",
+          "question_number": 1,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            2,
+            3
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "If f (x) —x, x, then range of is osxs3 0<xÉl 3' 1- 3' lSx<0 osxs3 X, 0<xs1",
+          "option_count": 8,
+          "asset_count": 10,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1_P2_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1_P3_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1_A.png"
+          ],
+          "source_exists": true
+        },
+        {
           "occurrence_id": "JM_2024_Session-2_2024-04-08_2_English_Hindi_Q002_OCC1",
           "source_id": "JM_2024_Session-2_2024-04-08_2_English_Hindi",
           "question_number": 2,
@@ -2208,28 +2230,6 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-2_2024-04-06_2_English_Hindi_Q002_OCC1_P4_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-2_2024-04-06_2_English_Hindi_Q002_OCC1_P5_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2024_Session-2_2024-04-06_2_English_Hindi_Q002_OCC1_A.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2024_Session-2_2024-04-06_1_English_Hindi_Q002_OCC1",
-          "source_id": "JM_2024_Session-2_2024-04-06_1_English_Hindi",
-          "question_number": 2,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            3,
-            4
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "x +2x—15 'The function f (x) x E is x —4x+9 x +2x—15 x --41*+9",
-          "option_count": 8,
-          "asset_count": 10,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-2_2024-04-06_1_English_Hindi_Q002_OCC1_P3_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-2_2024-04-06_1_English_Hindi_Q002_OCC1_P4_2.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2024_Session-2_2024-04-06_1_English_Hindi_Q002_OCC1_A.png"
           ],
           "source_exists": true
         }
@@ -2435,28 +2435,6 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-03_1_English_Hindi_Q001_OCC1_P1_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-03_1_English_Hindi_Q001_OCC1_P2_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2025_Session-2_2025-04-03_1_English_Hindi_Q001_OCC1_A.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1",
-          "source_id": "JM_2025_Session-1_2024-01-29_1_English_Hindi",
-          "question_number": 1,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            2,
-            3
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "If f (x) —x, x, then range of is osxs3 0<xÉl 3' 1- 3' lSx<0 osxs3 X, 0<xs1",
-          "option_count": 8,
-          "asset_count": 10,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1_P3_2.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q001_OCC1_A.png"
           ],
           "source_exists": true
         },
@@ -2675,6 +2653,28 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_1_Q002_OCC1_P2_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_1_Q002_OCC1_P3_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_1_Q002_OCC1_P3_3.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q003_OCC1",
+          "source_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi",
+          "question_number": 3,
+          "subject": "Unknown",
+          "question_type": "MCQ",
+          "source_pages": [
+            3,
+            4
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "The number of complex numbers z, satisfying IZI —1 and — + z — 1, LS z 4 6 8 10",
+          "option_count": 5,
+          "asset_count": 10,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q003_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q003_OCC1_P4_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q003_OCC1_P4_3.png"
           ],
           "source_exists": true
         }
@@ -3623,15 +3623,16 @@
       }
     },
     "2025": {
-      "source_id": "JM_2025_Session-1_2024-01-29_1_English_Hindi",
-      "source_pdf": "JEE_Main_PYQ_Archive/2025/Session-1/Question-Papers/JEE_Main_2025_Session-1_Paper1_2024-01-29_Shift-1_English_Hindi.pdf",
+      "source_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2025/Session-2/Question-Papers/JEE_Main_2025_Session-2_Paper1_2025-04-02_Shift-2_English_Hindi.pdf",
       "source_status": "VALID_SOURCE_PDF",
-      "question_count": 90,
+      "question_count": 75,
       "question_number_min": 1,
-      "question_number_max": 90,
+      "question_number_max": 75,
       "duplicate_question_numbers": [],
       "missing_question_numbers_between_min_max": [],
       "page_span": [
+        1,
         2,
         3,
         4,
@@ -3697,48 +3698,11 @@
         64,
         65,
         66,
-        67,
-        68,
-        69,
-        70,
-        71,
-        72,
-        73,
-        74,
-        75,
-        76,
-        77,
-        78,
-        79,
-        80,
-        81,
-        82,
-        83,
-        84,
-        85,
-        86,
-        87,
-        88,
-        89,
-        90,
-        91,
-        92,
-        93,
-        94,
-        95,
-        96,
-        97,
-        98,
-        99,
-        100,
-        101,
-        102,
-        103,
-        104
+        67
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 90
+        "CONTENT_PARTIALLY_VERIFIED": 75
       }
     },
     "2026": {

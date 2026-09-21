@@ -1,0 +1,324 @@
+{
+  "generated_at": "2026-09-21T18:13:47+00:00",
+  "phase": "PHASE 5B.1",
+  "final_status": "OCR_REVIEW_RECONCILED",
+  "source_reconciliation": {
+    "manifest_rows_selected": 170,
+    "consolidated_sources": 156,
+    "duplicate_manifest_rows_collapsed": 14,
+    "successful_sources": 152,
+    "corrupt_sources": 3,
+    "partial_sources": 1,
+    "excluded_or_unprocessed_canonical_sources": 0,
+    "exact_sha256_collision_groups": [
+      [
+        "JM_2022_Session-2_2022-07-25_1_Hindi",
+        "JM_2022_Session-2_2022-07-26_1_Hindi"
+      ]
+    ]
+  },
+  "metadata_anomalies": {
+    "found": 4,
+    "fixed": 4,
+    "unresolved": 0,
+    "filename_conflicts_preserved": 4
+  },
+  "ocr_buckets": {
+    "review_required_records": 8787,
+    "bucket_counts_overlapping": {
+      "low_ocr_confidence": 8787,
+      "engine_disagreement": 2547,
+      "equation_heavy": 4298,
+      "chemistry_structure": 4271,
+      "diagram_heavy": 4924,
+      "malformed_options": 163,
+      "suspicious_characters": 53,
+      "incomplete_text": 2698,
+      "bilingual": 6133,
+      "metadata_source_uncertainty": 0,
+      "multi_page": 4919,
+      "genuinely_unresolved": 0
+    },
+    "primary_bucket_counts_exclusive": {
+      "low_ocr_confidence": 14,
+      "engine_disagreement": 2547,
+      "equation_heavy": 2115,
+      "chemistry_structure": 806,
+      "diagram_heavy": 564,
+      "malformed_options": 33,
+      "suspicious_characters": 51,
+      "incomplete_text": 2517,
+      "bilingual": 139,
+      "metadata_source_uncertainty": 0,
+      "multi_page": 1,
+      "genuinely_unresolved": 0
+    },
+    "primary_bucket_examples": {
+      "engine_disagreement": [
+        "JM_2020_Session-2_2020-09-02_1_Q004_OCC1",
+        "JM_2020_Session-2_2020-09-02_1_Q005_OCC1",
+        "JM_2020_Session-2_2020-09-02_1_Q008_OCC1",
+        "JM_2020_Session-2_2020-09-02_1_Q011_OCC1",
+        "JM_2020_Session-2_2020-09-02_1_Q018_OCC1"
+      ],
+      "equation_heavy": [
+        "JM_2020_Session-2_2020-09-05_2_Q001_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q010_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q012_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q016_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q017_OCC1"
+      ],
+      "incomplete_text": [
+        "JM_2020_Session-2_2020-09-05_2_Q002_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q005_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q006_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q011_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q013_OCC1"
+      ],
+      "diagram_heavy": [
+        "JM_2020_Session-2_2020-09-05_2_Q007_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q009_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q034_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q036_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q039_OCC1"
+      ],
+      "malformed_options": [
+        "JM_2020_Session-2_2020-09-05_2_Q027_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q045_OCC1",
+        "JM_2020_Session-1_2020-01-08_1_Q009_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Hindi_Q009_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Hindi_Q041_OCC1"
+      ],
+      "chemistry_structure": [
+        "JM_2020_Session-2_2020-09-05_2_Q042_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q043_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q062_OCC1",
+        "JM_2020_Session-2_2020-09-05_2_Q071_OCC1",
+        "JM_2020_Session-2_2020-09-06_1_Q027_OCC1"
+      ],
+      "low_ocr_confidence": [
+        "JM_2020_Session-2_2020-09-05_2_Q073_OCC1",
+        "JM_2020_Session-2_2020-09-06_1_Q033_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Q001_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Q003_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Q005_OCC1"
+      ],
+      "suspicious_characters": [
+        "JM_2020_Session-2_2020-09-06_1_Q071_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Hindi_Q089_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Q013_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Q016_OCC1",
+        "JM_2024_Session-2_2024-04-05_1_Q048_OCC1"
+      ],
+      "multi_page": [
+        "JM_2020_Session-1_2020-01-09_2_Q017_OCC1"
+      ],
+      "bilingual": [
+        "JM_2021_Session-1_2021-02-25_2_Hindi_Q006_OCC1",
+        "JM_2021_Session-1_2021-02-25_2_Hindi_Q061_OCC1",
+        "JM_2021_Session-1_2021-02-25_2_Hindi_Q075_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Hindi_Q001_OCC1",
+        "JM_2021_Session-2_2021-03-16_1_Hindi_Q005_OCC1"
+      ]
+    },
+    "checkpoint_pass2_evidence_records": 3856,
+    "additional_targeted_reprocessing": 0,
+    "additional_reprocessing_reason": "Phase 5B v5 already retained pass-2 OCR evidence; no independent OCR engine or deterministic source-image consensus was available for safe promotion, so uncertain records remain review-required."
+  },
+  "before_after": {
+    "question_occurrences_before": 12792,
+    "question_occurrences_after": 12792,
+    "ocr_verified_before": 3899,
+    "ocr_verified_after": 3899,
+    "content_verified_before": 0,
+    "content_verified_after": 0,
+    "review_required_before": 8787,
+    "review_required_after": 8787
+  },
+  "automatic_resolution": {
+    "records_reprocessed": 0,
+    "records_promoted_to_verified": 0,
+    "no_false_promotions": true
+  },
+  "bilingual_reconciliation": {
+    "definition": "English_Hindi is counted as an explicitly bilingual PDF; Hindi is a Hindi-only variant and is reported separately.",
+    "source_language_counts": {
+      "English": 79,
+      "Hindi": 39,
+      "English_Hindi": 38
+    },
+    "actual_bilingual_source_pdfs": 38,
+    "actual_bilingual_recovered": 34,
+    "actual_bilingual_unresolved": 4,
+    "hindi_variant_source_pdfs": 39,
+    "hindi_variant_recovered": 37,
+    "hindi_variant_unresolved": 2,
+    "previous_phase5a_unknown_format_records": 13,
+    "previous_unknown_explanation": "The previous Phase 5A count of 13 was UNKNOWN format classification, not a count of bilingual-language PDFs; it is not comparable to the Phase 5B language label count."
+  },
+  "placeholder_validation": {
+    "question_placeholders": 0,
+    "option_placeholders": 0,
+    "hits": [],
+    "regression": {
+      "Na": false,
+      "Na+": false,
+      "NaCl": false,
+      "NaOH": false,
+      "N/A": true,
+      "N.A.": true,
+      "Option A": true,
+      "TODO": true
+    },
+    "pass": true
+  },
+  "option_validation": {
+    "mcq_occurrences_checked": 8837,
+    "abcd_complete": 8315,
+    "missing_abcd": 522,
+    "missing_with_graphical_evidence": 522,
+    "visual_option_occurrences_retained": 522,
+    "duplicate_option_label_occurrences": 0,
+    "pass": true
+  },
+  "full_paper_validation": {
+    "representatives": [
+      {
+        "year": 2020,
+        "source_id": "JM_2020_Session-2_2020-09-02_1",
+        "question_count": 75,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Physics",
+          "Chemistry",
+          "Mathematics"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      },
+      {
+        "year": 2021,
+        "source_id": "JM_2021_Session-1_2021-02-24_1",
+        "question_count": 90,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Physics",
+          "Chemistry",
+          "Mathematics"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      },
+      {
+        "year": 2022,
+        "source_id": "JM_2022_Session-2_2022-07-30_2",
+        "question_count": 90,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Physics",
+          "Chemistry",
+          "Mathematics"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      },
+      {
+        "year": 2023,
+        "source_id": "JM_2023_Session-2_2023-04-10_1_English_Hindi",
+        "question_count": 90,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      },
+      {
+        "year": 2024,
+        "source_id": "JM_2024_Session-2_2024-04-08_2_English_Hindi",
+        "question_count": 90,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      },
+      {
+        "year": 2025,
+        "source_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi",
+        "question_count": 75,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      },
+      {
+        "year": 2026,
+        "source_id": "JM_2026_Session-2_2026-04-02_1",
+        "question_count": 75,
+        "question_sequence_pass": true,
+        "subject_order_present": true,
+        "subject_runs": [
+          "Mathematics",
+          "Physics",
+          "Chemistry"
+        ],
+        "all_source_pages_present": true,
+        "metadata_present": true,
+        "source_status": "VALID_SOURCE_PDF"
+      }
+    ],
+    "pass": true
+  },
+  "partial_source_handling": [
+    "JM_2025_Session-1_2025-01-22_2_English_Hindi"
+  ],
+  "corrupt_source_handling": [
+    "JM_2025_Session-1_2025-01-28_2_English_Hindi",
+    "JM_2025_Session-1_2025-01-28_1_English_Hindi",
+    "JM_2025_Session-1_2025-01-23_1_English_Hindi"
+  ],
+  "sqlite_counts": {
+    "sources": 156,
+    "questions": 12688,
+    "question_occurrences": 12792,
+    "options": 53441,
+    "answers": 5624,
+    "images": 75010
+  },
+  "database_validation": {
+    "foreign_key_errors": 0,
+    "orphan_questions": 0,
+    "orphan_options": 0,
+    "orphan_answers": 0,
+    "orphan_images": 0,
+    "invalid_source_references": 0,
+    "unique_occurrence_ids": 1,
+    "missing_source_pages": 0
+  },
+  "duplicate_occurrence_ids": 0,
+  "duplicate_image_ids": 0,
+  "provenance_errors": 0,
+  "elapsed_seconds": 31.57
+}
