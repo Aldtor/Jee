@@ -1,0 +1,20 @@
+{
+  "phase": "PHASE 5B.2",
+  "basis": "Manual source-image comparison of the prepared contact sheets. Approval requires the existing OCR candidate to preserve the complete question text and all visible symbols, numbers, units, and options or source-backed graphical content.",
+  "approved_occurrence_ids": [
+    "JM_2021_Session-2_2021-03-16_2_Hindi_Q001_OCC1",
+    "JM_2021_Session-2_2021-03-18_1_Hindi_Q015_OCC1",
+    "JM_2021_Session-2_2021-03-18_1_Hindi_Q016_OCC1",
+    "JM_2021_Session-2_2021-03-17_1_Hindi_Q018_OCC1",
+    "JM_2021_Session-2_2021-03-17_1_Hindi_Q062_OCC1",
+    "JM_2023_Session-2_2023-04-10_2_English_Hindi_Q005_OCC1",
+    "JM_2024_Session-1_2024-01-31_2_English_Hindi_Q062_OCC1",
+    "JM_2024_Session-1_2024-02-01_1_English_Hindi_Q009_OCC1",
+    "JM_2025_Session-2_2025-04-08_2_English_Hindi_Q052_OCC1",
+    "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q008_OCC1",
+    "JM_2025_Session-2_2025-04-07_1_English_Hindi_Q027_OCC1",
+    "JM_2026_Session-2_2026-04-04_1_Q045_OCC1",
+    "JM_2026_Session-2_2026-04-04_1_Q010_OCC1"
+  ],
+  "year_note": "The prepared 30-record adversarial sample was reviewed for every year. Records with OCR typos, dropped equations/charges/units, truncated text, or incomplete option/list content were intentionally retained for further review, so the requested per-year promotion minimum is not claimed where the candidate did not pass visual comparison."
+}

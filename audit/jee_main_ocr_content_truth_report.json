@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T17:21:58+00:00",
-  "phase": "PHASE 5B",
+  "generated_at": "2026-09-21T19:27:43+00:00",
+  "phase": "PHASE 5B.2",
   "final_status": "OCR_CONTENT_REVIEW_REQUIRED",
   "papers_processed": 156,
   "manifest_rows_selected": 170,
@@ -13,7 +13,7 @@
   "questions_with_options": 7120,
   "questions_with_images": 11199,
   "questions_ocr_verified": 3899,
-  "questions_needs_review": 8787,
+  "questions_needs_review": 8774,
   "bilingual_papers_total": 77,
   "bilingual_papers_recovered": 71,
   "bilingual_papers_unresolved": 6,
@@ -46,5 +46,11 @@
     "missing_source_pages": 0
   },
   "elapsed_seconds": 18.46,
-  "report_basis": "consolidated JSONL outputs; OCR checkpoints were already complete"
+  "report_basis": "Phase 5B.2 source-image verification over the existing Phase 5B OCR candidate text; no OCR rebuild",
+  "questions_content_verified": 13,
+  "visual_verification": {
+    "records_reviewed": 210,
+    "records_promoted": 13,
+    "records_retained_for_review": 8774
+  }
 }

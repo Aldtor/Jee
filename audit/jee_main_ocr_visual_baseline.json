@@ -1,0 +1,10 @@
+{
+  "phase": "PRE-PHASE 5B.2",
+  "source": "JEE Main OCR Phase 5B.1 production state at commit 04f3ff0",
+  "question_count": 12688,
+  "question_needs_review": 8787,
+  "content_verified": 0,
+  "ocr_medium_confidence": 3899,
+  "occurrence_count": 12792,
+  "note": "Baseline captured before targeted visual verification. Counts are question-level for review/content status and occurrence-level where explicitly stated."
+}

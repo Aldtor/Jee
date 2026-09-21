@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:15:05.513188+00:00",
+  "generated_at": "2026-09-21T19:28:46.532436+00:00",
   "graph": {
     "source_count": 156,
     "occurrence_count": 12792,
@@ -760,28 +760,6 @@
           "source_exists": true
         },
         {
-          "occurrence_id": "JM_2021_Session-2_2021-03-16_2_Hindi_Q001_OCC1",
-          "source_id": "JM_2021_Session-2_2021-03-16_2_Hindi",
-          "question_number": 1,
-          "subject": "Physics",
-          "question_type": "MCQ",
-          "source_pages": [
-            1,
-            2
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "Two identical antennas mounted on identical towers are separated from each other by a distance of 45",
-          "option_count": 17,
-          "asset_count": 18,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_2_Hindi_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-2_2021-03-16_2_Hindi_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-2_2021-03-16_2_Hindi_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
           "occurrence_id": "JM_2021_Session-2_2021-03-17_1_Hindi_Q001_OCC1",
           "source_id": "JM_2021_Session-2_2021-03-17_1_Hindi",
           "question_number": 1,
@@ -911,6 +889,28 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_1_Q002_OCC1_P3_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-26_1_Q002_OCC1_A.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-26_1_Q002_OCC1_B.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2021_Session-1_2021-02-25_1_Q002_OCC1",
+          "source_id": "JM_2021_Session-1_2021-02-25_1",
+          "question_number": 2,
+          "subject": "Physics",
+          "question_type": "MCQ",
+          "source_pages": [
+            2,
+            3
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "Match List I with List II List I (a) h (Planck's constant) (b) E (kinetic energy) (c) V (electric po",
+          "option_count": 4,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_1_Q002_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-25_1_Q002_OCC1_A.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-25_1_Q002_OCC1_B.png"
           ],
           "source_exists": true
         }
@@ -3073,27 +3073,6 @@
           "source_exists": true
         },
         {
-          "occurrence_id": "JM_2026_Session-2_2026-04-04_1_Q010_OCC1",
-          "source_id": "JM_2026_Session-2_2026-04-04_1",
-          "question_number": 10,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            4
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "Suppose that the mean and median of the non-negative numbers 21, 8, 17, a, 51, 103, b, 13, 67, (a > ",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_1_Q010_OCC1_P4_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-04_1_Q010_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-04_1_Q010_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
           "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q010_OCC1",
           "source_id": "JM_2026_Session-2_2026-04-06_1",
           "question_number": 10,
@@ -3111,6 +3090,28 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q010_OCC1_P4_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_1_Q010_OCC1_A.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_1_Q010_OCC1_B.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2026_Session-2_2026-04-04_2_Q011_OCC1",
+          "source_id": "JM_2026_Session-2_2026-04-04_2",
+          "question_number": 11,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            4,
+            5
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "2 2 Let H : I be a hyperbola such that the distance between its foci is 6 2 b2 and the distance betw",
+          "option_count": 1,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q011_OCC1_P4_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q011_OCC1_P5_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q011_OCC1_P5_3.png"
           ],
           "source_exists": true
         }
@@ -3702,7 +3703,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 75
+        "CONTENT_PARTIALLY_VERIFIED": 74,
+        "CONTENT_VERIFIED": 1
       }
     },
     "2026": {
