@@ -14,5 +14,12 @@ ehthumbs.db
 *.swp
 *.swo
 
+# Phase 5B generated binary/intermediate artifacts are retained locally and
+# indexed by JEE_MAIN/images.jsonl; the textual database and audit reports are
+# versioned instead of pushing ~2 GB of derived PNG crops.
+JEE_QUESTION_DATABASE_FINAL/assets/
+JEE_QUESTION_DATABASE_FINAL/ocr_checkpoints/
+JEE_QUESTION_DATABASE_FINAL/jee_database.sqlite.phase5a.bak
+
 # Temporary scratch logs
 *.log
