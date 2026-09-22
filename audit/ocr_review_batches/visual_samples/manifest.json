@@ -1,0 +1,916 @@
+{
+  "2020": [
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-04_1_Q038_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-04_1_Q038_OCC1_P63_1.png"
+    },
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-02_1_Q011_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-02_1_Q011_OCC1_P20_1.png"
+    },
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-03_2_Q011_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-03_2_Q011_OCC1_P14_1.png"
+    },
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-06_1_Q033_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-06_1_Q033_OCC1_P44_1.png"
+    },
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-05_1_Q031_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-05_1_Q031_OCC1_P39_1.png"
+    },
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-05_2_Q042_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-05_2_Q042_OCC1_P52_1.png"
+    },
+    {
+      "occurrence_id": "JM_2020_Session-2_2020-09-06_2_Q034_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2020_Session-2_2020-09-06_2_Q034_OCC1_P43_1.png"
+    }
+  ],
+  "2021": [
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q006_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q006_OCC1_P10_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_1_Hindi_Q039_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_1_Hindi_Q039_OCC1_P45_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q007_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q007_OCC1_P11_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_1_Hindi_Q002_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_1_Hindi_Q002_OCC1_P3_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-16_1_Q001_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_1_Q001_OCC1_P2_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q008_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q008_OCC1_P13_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q034_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q034_OCC1_P43_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q017_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q017_OCC1_P24_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Q045_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Q045_OCC1_P30_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-16_1_Q050_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_1_Q050_OCC1_P31_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-26_1_Hindi_Q061_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_1_Hindi_Q061_OCC1_P71_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-25_1_Hindi_Q040_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_1_Hindi_Q040_OCC1_P48_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q018_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q018_OCC1_P25_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Q073_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Q073_OCC1_P47_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-18_1_Q071_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-18_1_Q071_OCC1_P38_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-16_2_Hindi_Q020_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_2_Hindi_Q020_OCC1_P20_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-25_2_Hindi_Q034_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_2_Hindi_Q034_OCC1_P40_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-24_2_Hindi_Q020_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-24_2_Hindi_Q020_OCC1_P28_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-25_2_Hindi_Q063_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_2_Hindi_Q063_OCC1_P72_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-3_2021-07-25_2_Q004_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-3_2021-07-25_2_Q004_OCC1_P4_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-17_2_Hindi_Q013_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-17_2_Hindi_Q013_OCC1_P15_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-25_2_Hindi_Q038_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_2_Hindi_Q038_OCC1_P44_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-25_2_Hindi_Q018_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_2_Hindi_Q018_OCC1_P22_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-26_1_Q038_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_1_Q038_OCC1_P24_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-3_2021-08-03_2_Q015_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-3_2021-08-03_2_Q015_OCC1_P12_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-18_1_Hindi_Q071_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-18_1_Hindi_Q071_OCC1_P74_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-25_2_Q034_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_2_Q034_OCC1_P21_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-1_2021-02-26_1_Hindi_Q007_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_1_Hindi_Q007_OCC1_P10_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-2_2021-03-17_1_Hindi_Q064_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-17_1_Hindi_Q064_OCC1_P65_1.png"
+    },
+    {
+      "occurrence_id": "JM_2021_Session-4_2021-08-26_1_Q011_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-4_2021-08-26_1_Q011_OCC1_P8_1.png"
+    }
+  ],
+  "2022": [
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_1_Q017_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_1_Q017_OCC1_P8_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_1_Q040_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_1_Q040_OCC1_P17_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_1_Q031_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_1_Q031_OCC1_P13_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_1_Q066_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_1_Q066_OCC1_P30_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_2_Q015_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_2_Q015_OCC1_P6_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-29_2_Q009_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-29_2_Q009_OCC1_P4_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-26_1_Q061_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-26_1_Q061_OCC1_P25_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_2_Q018_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_2_Q018_OCC1_P7_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-30_2_Q001_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_2_Q001_OCC1_P1_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-26_2_Q073_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-26_2_Q073_OCC1_P25_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-25_2_Q034_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-25_2_Q034_OCC1_P11_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-26_2_Q033_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-26_2_Q033_OCC1_P11_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Hindi_Q066_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Hindi_Q066_OCC1_P31_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_1_Q034_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_1_Q034_OCC1_P11_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-28_1_Q066_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-28_1_Q066_OCC1_P28_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Hindi_Q015_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Hindi_Q015_OCC1_P8_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-29_1_Q066_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-29_1_Q066_OCC1_P28_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Hindi_Q032_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Hindi_Q032_OCC1_P14_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Hindi_Q037_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Hindi_Q037_OCC1_P17_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Hindi_Q038_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Hindi_Q038_OCC1_P17_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Q016_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Q016_OCC1_P9_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Q031_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Q031_OCC1_P14_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-28_1_Q001_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-28_1_Q001_OCC1_P1_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-29_1_Hindi_Q017_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-29_1_Hindi_Q017_OCC1_P8_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-29_2_Q010_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-29_2_Q010_OCC1_P4_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-30_2_Q002_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_2_Q002_OCC1_P1_1.png"
+    },
+    {
+      "occurrence_id": "JM_2022_Session-2_2022-07-30_2_Q003_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_2_Q003_OCC1_P1_1.png"
+    }
+  ],
+  "2023": [
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-08_2_English_Hindi_Q042_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_2_English_Hindi_Q042_OCC1_P47_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q064_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q064_OCC1_P76_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q020_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q020_OCC1_P23_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q037_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q037_OCC1_P42_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-08_2_English_Hindi_Q049_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_2_English_Hindi_Q049_OCC1_P55_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q067_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q067_OCC1_P79_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q031_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q031_OCC1_P34_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_2_English_Hindi_Q018_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_2_English_Hindi_Q018_OCC1_P23_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-10_1_English_Hindi_Q045_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-10_1_English_Hindi_Q045_OCC1_P57_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q068_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q068_OCC1_P80_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q040_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q040_OCC1_P45_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_2_English_Hindi_Q039_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_2_English_Hindi_Q039_OCC1_P48_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-10_1_English_Hindi_Q048_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-10_1_English_Hindi_Q048_OCC1_P60_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q070_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q070_OCC1_P82_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q042_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q042_OCC1_P48_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-08_1_English_Hindi_Q044_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q044_OCC1_P54_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-10_2_English_Hindi_Q038_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-10_2_English_Hindi_Q038_OCC1_P44_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q071_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q071_OCC1_P83_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q043_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q043_OCC1_P51_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-08_2_English_Hindi_Q039_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_2_English_Hindi_Q039_OCC1_P44_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-11_1_English_Hindi_Q038_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-11_1_English_Hindi_Q038_OCC1_P45_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q072_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q072_OCC1_P85_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q049_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q049_OCC1_P58_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-10_1_English_Hindi_Q040_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-10_1_English_Hindi_Q040_OCC1_P50_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-11_1_English_Hindi_Q048_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-11_1_English_Hindi_Q048_OCC1_P58_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_2_English_Hindi_Q020_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_2_English_Hindi_Q020_OCC1_P26_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_1_English_Hindi_Q050_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_1_English_Hindi_Q050_OCC1_P59_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-10_1_English_Hindi_Q042_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-10_1_English_Hindi_Q042_OCC1_P52_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-13_1_English_Hindi_Q038_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-13_1_English_Hindi_Q038_OCC1_P46_1.png"
+    },
+    {
+      "occurrence_id": "JM_2023_Session-2_2023-04-06_2_English_Hindi_Q062_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-06_2_English_Hindi_Q062_OCC1_P77_1.png"
+    }
+  ],
+  "2024": [
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q031_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q031_OCC1_P39_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q064_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q064_OCC1_P81_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q036_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q036_OCC1_P45_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q006_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q006_OCC1_P9_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-2_2024-04-04_2_Q069_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-2_2024-04-04_2_Q069_OCC1_P82_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_1_English_Hindi_Q007_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_1_English_Hindi_Q007_OCC1_P10_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q065_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q065_OCC1_P82_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q042_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q042_OCC1_P53_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q066_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q066_OCC1_P84_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-2_2024-04-04_2_Q070_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-2_2024-04-04_2_Q070_OCC1_P83_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_1_English_Hindi_Q046_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_1_English_Hindi_Q046_OCC1_P62_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q067_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q067_OCC1_P85_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q046_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q046_OCC1_P58_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi_Q034_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q034_OCC1_P38_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q048_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q048_OCC1_P61_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi_Q048_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q048_OCC1_P56_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_2_English_Hindi_Q006_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_2_English_Hindi_Q006_OCC1_P8_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q070_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q070_OCC1_P89_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi_Q039_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q039_OCC1_P45_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_1_English_Hindi_Q014_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_1_English_Hindi_Q014_OCC1_P19_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_2_English_Hindi_Q045_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_2_English_Hindi_Q045_OCC1_P53_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-27_1_English_Hindi_Q072_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-27_1_English_Hindi_Q072_OCC1_P92_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_1_English_Hindi_Q042_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_1_English_Hindi_Q042_OCC1_P56_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_1_English_Hindi_Q044_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_1_English_Hindi_Q044_OCC1_P59_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_2_English_Hindi_Q050_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_2_English_Hindi_Q050_OCC1_P59_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi_Q069_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q069_OCC1_P79_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_2_English_Hindi_Q009_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_2_English_Hindi_Q009_OCC1_P11_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-30_2_English_Hindi_Q004_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-30_2_English_Hindi_Q004_OCC1_P6_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-31_1_English_Hindi_Q041_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2024_Session-1_2024-01-31_1_English_Hindi_Q041_OCC1_P50_1.png"
+    },
+    {
+      "occurrence_id": "JM_2024_Session-1_2024-01-29_1_English_Hindi_Q071_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2024-01-29_1_English_Hindi_Q071_OCC1_P81_1.png"
+    }
+  ],
+  "2025": [
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q040_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q040_OCC1_P34_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q032_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q032_OCC1_P27_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q042_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q042_OCC1_P35_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q030_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q030_OCC1_P25_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q055_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q055_OCC1_P47_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_1_Q070_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_1_Q070_OCC1_P61_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q044_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q044_OCC1_P37_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q058_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q058_OCC1_P51_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q067_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q067_OCC1_P62_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q037_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q037_OCC1_P30_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q036_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q036_OCC1_P29_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_1_Q003_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_1_Q003_OCC1_P3_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-1_2025-01-23_2_English_Hindi_Q069_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-1_2025-01-23_2_English_Hindi_Q069_OCC1_P65_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q038_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q038_OCC1_P31_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q041_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q041_OCC1_P33_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_1_Q008_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_1_Q008_OCC1_P6_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q012_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q012_OCC1_P10_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q055_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q055_OCC1_P47_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q043_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q043_OCC1_P35_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q004_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q004_OCC1_P4_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q028_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q028_OCC1_P22_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q058_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q058_OCC1_P51_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q044_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q044_OCC1_P36_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q017_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q017_OCC1_P14_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q030_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q030_OCC1_P24_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q059_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q059_OCC1_P52_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-03_1_English_Hindi_Q036_OCC1",
+      "bucket": "diagram_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-03_1_English_Hindi_Q036_OCC1_P28_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-03_1_English_Hindi_Q005_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-03_1_English_Hindi_Q005_OCC1_P4_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-03_1_English_Hindi_Q009_OCC1",
+      "bucket": "bilingual",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-03_1_English_Hindi_Q009_OCC1_P6_1.png"
+    },
+    {
+      "occurrence_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi_Q062_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2025_Session-2_2025-04-02_2_English_Hindi_Q062_OCC1_P54_1.png"
+    }
+  ],
+  "2026": [
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-02_2_Q058_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-02_2_Q058_OCC1_P23_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-02_2_Q063_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-02_2_Q063_OCC1_P25_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-02_1_Q019_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-02_1_Q019_OCC1_P8_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-02_2_Q059_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-02_2_Q059_OCC1_P23_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-02_2_Q066_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-02_2_Q066_OCC1_P26_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-02_2_Q043_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-02_2_Q043_OCC1_P17_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-04_2_Q033_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q033_OCC1_P12_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-04_1_Q016_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_1_Q016_OCC1_P6_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-04_1_Q007_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_1_Q007_OCC1_P3_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-04_2_Q060_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q060_OCC1_P23_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-04_2_Q059_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q059_OCC1_P23_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-04_2_Q032_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q032_OCC1_P12_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-05_1_Q058_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_1_Q058_OCC1_P22_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-05_1_Q053_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_1_Q053_OCC1_P20_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-05_1_Q016_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_1_Q016_OCC1_P6_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q055_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q055_OCC1_P20_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-05_2_Q012_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_2_Q012_OCC1_P5_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q032_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q032_OCC1_P12_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-08_2_Q066_OCC1",
+      "bucket": "chemistry_structure",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-08_2_Q066_OCC1_P27_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-05_2_Q055_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_2_Q055_OCC1_P22_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_2_Q037_OCC1",
+      "bucket": "low_ocr_confidence",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_2_Q037_OCC1_P15_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q030_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q030_OCC1_P11_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q034_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q034_OCC1_P13_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q058_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q058_OCC1_P21_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_2_Q008_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_2_Q008_OCC1_P4_1.png"
+    },
+    {
+      "occurrence_id": "JM_2026_Session-2_2026-04-06_2_Q040_OCC1",
+      "bucket": "equation_heavy",
+      "image_path": "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_2_Q040_OCC1_P16_1.png"
+    }
+  ]
+}

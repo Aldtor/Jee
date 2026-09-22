@@ -1,0 +1,1429 @@
+{
+  "generated_at": "2026-09-22T13:30:55+00:00",
+  "phase": "PHASE 5B.3",
+  "final_status": "OCR_CONTENT_REVIEW_RESOLUTION_COMPLETE",
+  "initial_review_required": 8774,
+  "records_processed": 8774,
+  "records_promoted": 557,
+  "records_retained": 8217,
+  "final_review_required": 8217,
+  "final_content_verified": 570,
+  "ocr_engine_disagreements": 5882,
+  "equation_cases": 4296,
+  "chemistry_cases": 4269,
+  "diagram_cases": 4924,
+  "bilingual_cases": 6122,
+  "graphical_options": 0,
+  "placeholders": {
+    "question_placeholders": 0,
+    "option_placeholders": 0,
+    "regression": {
+      "Na": false,
+      "Na+": false,
+      "NaCl": false,
+      "NaOH": false,
+      "N/A": true,
+      "N.A.": true
+    },
+    "pass": true
+  },
+  "critical_ocr_errors": 0,
+  "provenance_errors": 0,
+  "metadata_errors": 0,
+  "source_image_failures": 0,
+  "database_integrity": {
+    "foreign_key_errors": 0,
+    "orphan_questions": 0,
+    "orphan_options": 0,
+    "orphan_answers": 0,
+    "orphan_images": 0,
+    "invalid_source_references": 0,
+    "unique_occurrence_ids": 1,
+    "missing_source_pages": 0,
+    "integrity_error_total": 0
+  },
+  "promotions_by_year": {
+    "2020": 7,
+    "2021": 92,
+    "2022": 27,
+    "2023": 156,
+    "2024": 128,
+    "2025": 121,
+    "2026": 26
+  },
+  "promotions_by_subject": {
+    "Chemistry": 220,
+    "Mathematics": 79,
+    "Physics": 234,
+    "Unknown": 24
+  },
+  "full_paper_validation": {
+    "2020": {
+      "source_id": "JM_2020_Session-2_2020-09-02_1",
+      "source_pdf": "JEE_Main_PYQ_Archive/2020/Session-2/Question-Papers/JEE_Main_2020_Session-2_Paper1_2020-09-02_Shift-1.pdf",
+      "question_count": 75,
+      "expected_question_count": 75,
+      "question_number_min": 1,
+      "question_number_max": 75,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    },
+    "2021": {
+      "source_id": "JM_2021_Session-1_2021-02-24_1",
+      "source_pdf": "JEE_Main_PYQ_Archive/2021/Session-1/Question-Papers/JEE_Main_2021_Session-1_Paper1_2021-02-24_Shift-1.pdf",
+      "question_count": 90,
+      "expected_question_count": 90,
+      "question_number_min": 1,
+      "question_number_max": 90,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    },
+    "2022": {
+      "source_id": "JM_2022_Session-2_2022-07-30_2",
+      "source_pdf": "JEE_Main_PYQ_Archive/2022/Session-2/Question-Papers/JEE_Main_2022_Session-2_Paper1_2022-07-30_Shift-2.pdf",
+      "question_count": 90,
+      "expected_question_count": 90,
+      "question_number_min": 1,
+      "question_number_max": 90,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    },
+    "2023": {
+      "source_id": "JM_2023_Session-2_2023-04-10_1_English_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2023/Session-2/Question-Papers/JEE_Main_2023_Session-2_Paper1_2023-04-10_Shift-1_English_Hindi.pdf",
+      "question_count": 90,
+      "expected_question_count": 90,
+      "question_number_min": 1,
+      "question_number_max": 90,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    },
+    "2024": {
+      "source_id": "JM_2024_Session-2_2024-04-08_2_English_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2024/Session-2/Question-Papers/JEE_Main_2024_Session-2_Paper1_2024-04-08_Shift-2_English_Hindi.pdf",
+      "question_count": 90,
+      "expected_question_count": 90,
+      "question_number_min": 1,
+      "question_number_max": 90,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    },
+    "2025": {
+      "source_id": "JM_2025_Session-2_2025-04-02_2_English_Hindi",
+      "source_pdf": "JEE_Main_PYQ_Archive/2025/Session-2/Question-Papers/JEE_Main_2025_Session-2_Paper1_2025-04-02_Shift-2_English_Hindi.pdf",
+      "question_count": 75,
+      "expected_question_count": 75,
+      "question_number_min": 1,
+      "question_number_max": 75,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    },
+    "2026": {
+      "source_id": "JM_2026_Session-2_2026-04-02_1",
+      "source_pdf": "JEE_Main_PYQ_Archive/2026/Session-2/Question-Papers/JEE_Main_2026_Session-2_2026-04-02_Shift-1_Question-Paper.pdf",
+      "question_count": 75,
+      "expected_question_count": 75,
+      "question_number_min": 1,
+      "question_number_max": 75,
+      "duplicate_question_numbers": [],
+      "missing_question_numbers": [],
+      "subject_order_pass": true,
+      "options_pass": true,
+      "images_pass": true,
+      "metadata_pass": true,
+      "page_mapping_pass": true,
+      "pass": true
+    }
+  },
+  "batch_summaries": [
+    {
+      "batch_id": "batch_0001",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 100,
+      "bucket": {
+        "malformed_options": 100
+      },
+      "timestamp": "2026-09-21T20:13:55+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0001_records.jsonl",
+      "elapsed_seconds": 81.91
+    },
+    {
+      "batch_id": "batch_0002",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "malformed_options": 63,
+        "suspicious_characters": 37
+      },
+      "timestamp": "2026-09-22T05:09:10+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0002_records.jsonl",
+      "elapsed_seconds": 125.74
+    },
+    {
+      "batch_id": "batch_0003",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:10:48+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0003_records.jsonl",
+      "elapsed_seconds": 223.55
+    },
+    {
+      "batch_id": "batch_0004",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:11:53+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0004_records.jsonl",
+      "elapsed_seconds": 288.37
+    },
+    {
+      "batch_id": "batch_0005",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:13:13+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0005_records.jsonl",
+      "elapsed_seconds": 368.48
+    },
+    {
+      "batch_id": "batch_0006",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:14:30+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0006_records.jsonl",
+      "elapsed_seconds": 446.14
+    },
+    {
+      "batch_id": "batch_0007",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:16:01+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0007_records.jsonl",
+      "elapsed_seconds": 536.46
+    },
+    {
+      "batch_id": "batch_0008",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:17:17+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0008_records.jsonl",
+      "elapsed_seconds": 612.41
+    },
+    {
+      "batch_id": "batch_0009",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 100
+      },
+      "timestamp": "2026-09-22T05:18:11+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0009_records.jsonl",
+      "elapsed_seconds": 666.51
+    },
+    {
+      "batch_id": "batch_0010",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "suspicious_characters": 34,
+        "incomplete_text": 66
+      },
+      "timestamp": "2026-09-22T05:18:54+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0010_records.jsonl",
+      "elapsed_seconds": 709.48
+    },
+    {
+      "batch_id": "batch_0011",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:19:24+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0011_records.jsonl",
+      "elapsed_seconds": 740.06
+    },
+    {
+      "batch_id": "batch_0012",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:19:31+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0012_records.jsonl",
+      "elapsed_seconds": 746.65
+    },
+    {
+      "batch_id": "batch_0013",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:19:42+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0013_records.jsonl",
+      "elapsed_seconds": 757.79
+    },
+    {
+      "batch_id": "batch_0014",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:19:46+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0014_records.jsonl",
+      "elapsed_seconds": 761.73
+    },
+    {
+      "batch_id": "batch_0015",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:19:50+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0015_records.jsonl",
+      "elapsed_seconds": 765.69
+    },
+    {
+      "batch_id": "batch_0016",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:19:54+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0016_records.jsonl",
+      "elapsed_seconds": 770.27
+    },
+    {
+      "batch_id": "batch_0017",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:20:01+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0017_records.jsonl",
+      "elapsed_seconds": 777.13
+    },
+    {
+      "batch_id": "batch_0018",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:20:09+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0018_records.jsonl",
+      "elapsed_seconds": 784.48
+    },
+    {
+      "batch_id": "batch_0019",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:20:13+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0019_records.jsonl",
+      "elapsed_seconds": 789.05
+    },
+    {
+      "batch_id": "batch_0020",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:20:19+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0020_records.jsonl",
+      "elapsed_seconds": 794.41
+    },
+    {
+      "batch_id": "batch_0021",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:20:24+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0021_records.jsonl",
+      "elapsed_seconds": 799.79
+    },
+    {
+      "batch_id": "batch_0022",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T05:20:28+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0022_records.jsonl",
+      "elapsed_seconds": 803.85
+    },
+    {
+      "batch_id": "batch_0023",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 100,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-21T20:15:38+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0023_records.jsonl",
+      "elapsed_seconds": 12.34
+    },
+    {
+      "batch_id": "batch_0024",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 100,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-21T20:16:02+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0024_records.jsonl",
+      "elapsed_seconds": 36.24
+    },
+    {
+      "batch_id": "batch_0025",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 100,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-21T20:16:23+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0025_records.jsonl",
+      "elapsed_seconds": 57.37
+    },
+    {
+      "batch_id": "batch_0026",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 100,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-21T20:16:33+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0026_records.jsonl",
+      "elapsed_seconds": 67.96
+    },
+    {
+      "batch_id": "batch_0027",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 54,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-21T20:17:43+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0027_records.jsonl",
+      "elapsed_seconds": 137.78
+    },
+    {
+      "batch_id": "batch_0028",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 38,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-21T20:20:32+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0028_records.jsonl",
+      "elapsed_seconds": 306.43
+    },
+    {
+      "batch_id": "batch_0029",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T13:28:40+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0029_records.jsonl",
+      "elapsed_seconds": 49.8
+    },
+    {
+      "batch_id": "batch_0030",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:12:42+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0030_records.jsonl",
+      "elapsed_seconds": 50.64
+    },
+    {
+      "batch_id": "batch_0031",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:13:43+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0031_records.jsonl",
+      "elapsed_seconds": 111.09
+    },
+    {
+      "batch_id": "batch_0032",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:14:49+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0032_records.jsonl",
+      "elapsed_seconds": 177.01
+    },
+    {
+      "batch_id": "batch_0033",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:15:34+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0033_records.jsonl",
+      "elapsed_seconds": 222.47
+    },
+    {
+      "batch_id": "batch_0034",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:16:41+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0034_records.jsonl",
+      "elapsed_seconds": 289.62
+    },
+    {
+      "batch_id": "batch_0035",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:17:28+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0035_records.jsonl",
+      "elapsed_seconds": 336.53
+    },
+    {
+      "batch_id": "batch_0036",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 100
+      },
+      "timestamp": "2026-09-22T06:18:17+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0036_records.jsonl",
+      "elapsed_seconds": 385.0
+    },
+    {
+      "batch_id": "batch_0037",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "incomplete_text": 31,
+        "equation_heavy": 69
+      },
+      "timestamp": "2026-09-22T06:20:08+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0037_records.jsonl",
+      "elapsed_seconds": 496.5
+    },
+    {
+      "batch_id": "batch_0038",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 1,
+      "records_retained": 99,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:22:05+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0038_records.jsonl",
+      "elapsed_seconds": 613.33
+    },
+    {
+      "batch_id": "batch_0039",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 1,
+      "records_retained": 99,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:23:36+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0039_records.jsonl",
+      "elapsed_seconds": 704.52
+    },
+    {
+      "batch_id": "batch_0040",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 3,
+      "records_retained": 97,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:24:49+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0040_records.jsonl",
+      "elapsed_seconds": 777.16
+    },
+    {
+      "batch_id": "batch_0041",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 1,
+      "records_retained": 99,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:26:21+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0041_records.jsonl",
+      "elapsed_seconds": 869.37
+    },
+    {
+      "batch_id": "batch_0042",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 2,
+      "records_retained": 98,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:27:53+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0042_records.jsonl",
+      "elapsed_seconds": 961.17
+    },
+    {
+      "batch_id": "batch_0043",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 8,
+      "records_retained": 92,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T13:30:03+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0043_records.jsonl",
+      "elapsed_seconds": 63.86
+    },
+    {
+      "batch_id": "batch_0044",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 5,
+      "records_retained": 95,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:40:02+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0044_records.jsonl",
+      "elapsed_seconds": 110.66
+    },
+    {
+      "batch_id": "batch_0045",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 100,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-21T20:19:01+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0045_records.jsonl",
+      "elapsed_seconds": 215.71
+    },
+    {
+      "batch_id": "batch_0046",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:42:16+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0046_records.jsonl",
+      "elapsed_seconds": 118.38
+    },
+    {
+      "batch_id": "batch_0047",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:43:28+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0047_records.jsonl",
+      "elapsed_seconds": 189.73
+    },
+    {
+      "batch_id": "batch_0048",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 0,
+      "records_retained": 100,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:44:53+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0048_records.jsonl",
+      "elapsed_seconds": 274.94
+    },
+    {
+      "batch_id": "batch_0049",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 5,
+      "records_retained": 95,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:46:08+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0049_records.jsonl",
+      "elapsed_seconds": 349.95
+    },
+    {
+      "batch_id": "batch_0050",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 9,
+      "records_retained": 91,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:47:11+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0050_records.jsonl",
+      "elapsed_seconds": 413.59
+    },
+    {
+      "batch_id": "batch_0051",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 4,
+      "records_retained": 96,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:48:30+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0051_records.jsonl",
+      "elapsed_seconds": 491.88
+    },
+    {
+      "batch_id": "batch_0052",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 3,
+      "records_retained": 97,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:50:00+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0052_records.jsonl",
+      "elapsed_seconds": 581.9
+    },
+    {
+      "batch_id": "batch_0053",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 3,
+      "records_retained": 97,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:51:16+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0053_records.jsonl",
+      "elapsed_seconds": 657.89
+    },
+    {
+      "batch_id": "batch_0054",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 7,
+      "records_retained": 93,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:52:20+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0054_records.jsonl",
+      "elapsed_seconds": 721.93
+    },
+    {
+      "batch_id": "batch_0055",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 3,
+      "records_retained": 97,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T06:53:18+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0055_records.jsonl",
+      "elapsed_seconds": 779.79
+    },
+    {
+      "batch_id": "batch_0056",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 6,
+      "records_retained": 94,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T08:19:50+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0056_records.jsonl",
+      "elapsed_seconds": 140.99
+    },
+    {
+      "batch_id": "batch_0057",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 4,
+      "records_retained": 96,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T08:23:37+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0057_records.jsonl",
+      "elapsed_seconds": 368.25
+    },
+    {
+      "batch_id": "batch_0058",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 4,
+      "records_retained": 96,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T08:28:39+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0058_records.jsonl",
+      "elapsed_seconds": 670.35
+    },
+    {
+      "batch_id": "batch_0059",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 3,
+      "records_retained": 97,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T08:33:28+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0059_records.jsonl",
+      "elapsed_seconds": 959.37
+    },
+    {
+      "batch_id": "batch_0060",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 2,
+      "records_retained": 98,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T08:38:46+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0060_records.jsonl",
+      "elapsed_seconds": 1277.27
+    },
+    {
+      "batch_id": "batch_0061",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 4,
+      "records_retained": 96,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:00:43+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0061_records.jsonl",
+      "elapsed_seconds": 79.19
+    },
+    {
+      "batch_id": "batch_0062",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 1,
+      "records_retained": 99,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:01:50+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0062_records.jsonl",
+      "elapsed_seconds": 145.77
+    },
+    {
+      "batch_id": "batch_0063",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 4,
+      "records_retained": 96,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:02:56+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0063_records.jsonl",
+      "elapsed_seconds": 211.91
+    },
+    {
+      "batch_id": "batch_0064",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 4,
+      "records_retained": 96,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:03:58+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0064_records.jsonl",
+      "elapsed_seconds": 273.47
+    },
+    {
+      "batch_id": "batch_0065",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 5,
+      "records_retained": 95,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:05:29+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0065_records.jsonl",
+      "elapsed_seconds": 364.86
+    },
+    {
+      "batch_id": "batch_0066",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 10,
+      "records_retained": 90,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:07:25+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0066_records.jsonl",
+      "elapsed_seconds": 481.03
+    },
+    {
+      "batch_id": "batch_0067",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 10,
+      "records_retained": 90,
+      "records_failed": 22,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-21T20:18:18+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0067_records.jsonl",
+      "elapsed_seconds": 172.0
+    },
+    {
+      "batch_id": "batch_0068",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 9,
+      "records_retained": 91,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:08:57+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0068_records.jsonl",
+      "elapsed_seconds": 71.95
+    },
+    {
+      "batch_id": "batch_0069",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 10,
+      "records_retained": 90,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 100
+      },
+      "timestamp": "2026-09-22T11:10:12+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0069_records.jsonl",
+      "elapsed_seconds": 147.14
+    },
+    {
+      "batch_id": "batch_0070",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 12,
+      "records_retained": 88,
+      "records_failed": 0,
+      "bucket": {
+        "equation_heavy": 33,
+        "chemistry_structure": 67
+      },
+      "timestamp": "2026-09-22T11:11:28+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0070_records.jsonl",
+      "elapsed_seconds": 223.15
+    },
+    {
+      "batch_id": "batch_0071",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 19,
+      "records_retained": 81,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T11:12:16+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0071_records.jsonl",
+      "elapsed_seconds": 271.56
+    },
+    {
+      "batch_id": "batch_0072",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 24,
+      "records_retained": 76,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T11:13:34+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0072_records.jsonl",
+      "elapsed_seconds": 349.03
+    },
+    {
+      "batch_id": "batch_0073",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 26,
+      "records_retained": 74,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T11:14:45+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0073_records.jsonl",
+      "elapsed_seconds": 420.39
+    },
+    {
+      "batch_id": "batch_0074",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 25,
+      "records_retained": 75,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T12:21:28+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0074_records.jsonl",
+      "elapsed_seconds": 103.91
+    },
+    {
+      "batch_id": "batch_0075",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 26,
+      "records_retained": 74,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T12:22:39+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0075_records.jsonl",
+      "elapsed_seconds": 174.72
+    },
+    {
+      "batch_id": "batch_0076",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 20,
+      "records_retained": 80,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T12:23:48+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0076_records.jsonl",
+      "elapsed_seconds": 244.01
+    },
+    {
+      "batch_id": "batch_0077",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 12,
+      "records_retained": 88,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T12:25:42+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0077_records.jsonl",
+      "elapsed_seconds": 358.24
+    },
+    {
+      "batch_id": "batch_0078",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 15,
+      "records_retained": 85,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T12:27:44+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0078_records.jsonl",
+      "elapsed_seconds": 479.84
+    },
+    {
+      "batch_id": "batch_0079",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 31,
+      "records_retained": 69,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 100
+      },
+      "timestamp": "2026-09-22T12:30:01+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0079_records.jsonl",
+      "elapsed_seconds": 617.17
+    },
+    {
+      "batch_id": "batch_0080",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 19,
+      "records_retained": 81,
+      "records_failed": 0,
+      "bucket": {
+        "chemistry_structure": 35,
+        "diagram_heavy": 65
+      },
+      "timestamp": "2026-09-22T12:32:35+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0080_records.jsonl",
+      "elapsed_seconds": 770.88
+    },
+    {
+      "batch_id": "batch_0081",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 23,
+      "records_retained": 77,
+      "records_failed": 0,
+      "bucket": {
+        "diagram_heavy": 100
+      },
+      "timestamp": "2026-09-22T13:03:04+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0081_records.jsonl",
+      "elapsed_seconds": 85.08
+    },
+    {
+      "batch_id": "batch_0082",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 19,
+      "records_retained": 81,
+      "records_failed": 0,
+      "bucket": {
+        "diagram_heavy": 100
+      },
+      "timestamp": "2026-09-22T13:04:12+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0082_records.jsonl",
+      "elapsed_seconds": 153.42
+    },
+    {
+      "batch_id": "batch_0083",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 21,
+      "records_retained": 79,
+      "records_failed": 0,
+      "bucket": {
+        "diagram_heavy": 100
+      },
+      "timestamp": "2026-09-22T13:05:10+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0083_records.jsonl",
+      "elapsed_seconds": 210.83
+    },
+    {
+      "batch_id": "batch_0084",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 12,
+      "records_retained": 88,
+      "records_failed": 0,
+      "bucket": {
+        "diagram_heavy": 100
+      },
+      "timestamp": "2026-09-22T13:06:07+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0084_records.jsonl",
+      "elapsed_seconds": 268.04
+    },
+    {
+      "batch_id": "batch_0085",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 21,
+      "records_retained": 79,
+      "records_failed": 0,
+      "bucket": {
+        "diagram_heavy": 100
+      },
+      "timestamp": "2026-09-22T13:07:12+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0085_records.jsonl",
+      "elapsed_seconds": 333.68
+    },
+    {
+      "batch_id": "batch_0086",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 23,
+      "records_retained": 77,
+      "records_failed": 0,
+      "bucket": {
+        "diagram_heavy": 61,
+        "bilingual": 39
+      },
+      "timestamp": "2026-09-22T13:08:57+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0086_records.jsonl",
+      "elapsed_seconds": 437.89
+    },
+    {
+      "batch_id": "batch_0087",
+      "status": "COMPLETED",
+      "records_processed": 100,
+      "records_promoted": 57,
+      "records_retained": 43,
+      "records_failed": 0,
+      "bucket": {
+        "bilingual": 82,
+        "low_ocr_confidence": 18
+      },
+      "timestamp": "2026-09-22T13:10:16+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0087_records.jsonl",
+      "elapsed_seconds": 517.66
+    },
+    {
+      "batch_id": "batch_0088",
+      "status": "COMPLETED",
+      "records_processed": 74,
+      "records_promoted": 21,
+      "records_retained": 53,
+      "records_failed": 0,
+      "bucket": {
+        "low_ocr_confidence": 74
+      },
+      "timestamp": "2026-09-22T13:11:29+00:00",
+      "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0088_records.jsonl",
+      "elapsed_seconds": 590.7
+    }
+  ],
+  "scope_boundary": [
+    "Phase 5C not started",
+    "solutions not generated",
+    "taxonomy not performed",
+    "Supabase not imported",
+    "frontend not built",
+    "student analytics unchanged"
+  ],
+  "no_ocr_rebuild": true,
+  "ocr_engines": [
+    "existing OCR candidate",
+    "WINDOWS_MEDIA_OCR raw RGB",
+    "WINDOWS_MEDIA_OCR grayscale autocontrast"
+  ]
+}

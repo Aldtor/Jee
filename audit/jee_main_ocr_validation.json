@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:28:46.532436+00:00",
+  "generated_at": "2026-09-22T13:32:01.459454+00:00",
   "graph": {
     "source_count": 156,
     "occurrence_count": 12792,
@@ -676,90 +676,6 @@
           "source_exists": true
         },
         {
-          "occurrence_id": "JM_2021_Session-2_2021-03-16_1_Q001_OCC1",
-          "source_id": "JM_2021_Session-2_2021-03-16_1",
-          "question_number": 1,
-          "subject": "Unknown",
-          "question_type": "MCQ",
-          "source_pages": [
-            2
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "For an electromagnetic wave travelling in free space, the relation between average energy densities ",
-          "option_count": 9,
-          "asset_count": 10,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_1_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-2_2021-03-16_1_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-2_2021-03-16_1_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2021_Session-3_2021-07-25_1_Q001_OCC1",
-          "source_id": "JM_2021_Session-3_2021-07-25_1",
-          "question_number": 1,
-          "subject": "Physics",
-          "question_type": "MCQ",
-          "source_pages": [
-            2
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "The half-life of 198Au is 3 days. If atomic weight of 198Au is 198 g/mol then the activity of 2 mg o",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-3_2021-07-25_1_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-3_2021-07-25_1_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-3_2021-07-25_1_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2021_Session-3_2021-07-25_2_Q001_OCC1",
-          "source_id": "JM_2021_Session-3_2021-07-25_2",
-          "question_number": 1,
-          "subject": "Physics",
-          "question_type": "MCQ",
-          "source_pages": [
-            2
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "The force is given in terms of üme t and displacement x by the equation Bx+C sin Dt AD The dimension",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-3_2021-07-25_2_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-3_2021-07-25_2_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-3_2021-07-25_2_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2021_Session-4_2021-08-31_2_Q001_OCC1",
-          "source_id": "JM_2021_Session-4_2021-08-31_2",
-          "question_number": 1,
-          "subject": "Physics",
-          "question_type": "MCQ",
-          "source_pages": [
-            2
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "If velocity [V] time [T] and force [F] are chosen as the base quantities, the dimensions of the mass",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-4_2021-08-31_2_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-4_2021-08-31_2_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-4_2021-08-31_2_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
           "occurrence_id": "JM_2021_Session-2_2021-03-17_1_Hindi_Q001_OCC1",
           "source_id": "JM_2021_Session-2_2021-03-17_1_Hindi",
           "question_number": 1,
@@ -913,6 +829,93 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-25_1_Q002_OCC1_B.png"
           ],
           "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2021_Session-1_2021-02-25_2_Hindi_Q002_OCC1",
+          "source_id": "JM_2021_Session-1_2021-02-25_2_Hindi",
+          "question_number": 2,
+          "subject": "Physics",
+          "question_type": "MCQ",
+          "source_pages": [
+            3,
+            4
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "A stone is dropped from the top of a building. VVhen it crosses a point 5 m below the top, another s",
+          "option_count": 9,
+          "asset_count": 10,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_2_Hindi_Q002_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-25_2_Hindi_Q002_OCC1_A.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-25_2_Hindi_Q002_OCC1_B.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2021_Session-2_2021-03-16_1_Hindi_Q002_OCC1",
+          "source_id": "JM_2021_Session-2_2021-03-16_1_Hindi",
+          "question_number": 2,
+          "subject": "Unknown",
+          "question_type": "MCQ",
+          "source_pages": [
+            3
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "3RT 88RT 28 44",
+          "option_count": 4,
+          "asset_count": 8,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_1_Hindi_Q002_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_1_Hindi_Q002_OCC1_P3_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-2_2021-03-16_1_Hindi_Q002_OCC1_P3_3.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2021_Session-1_2021-02-26_2_Hindi_Q002_OCC1",
+          "source_id": "JM_2021_Session-1_2021-02-26_2_Hindi",
+          "question_number": 2,
+          "subject": "Physics",
+          "question_type": "MCQ",
+          "source_pages": [
+            3,
+            4
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "Given below are two statemnts one is labeled as Assertion A and the other is labeled as Reason R. As",
+          "option_count": 7,
+          "asset_count": 10,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_2_Hindi_Q002_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_2_Hindi_Q002_OCC1_P4_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-26_2_Hindi_Q002_OCC1_P4_3.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2021_Session-1_2021-02-25_1_Hindi_Q002_OCC1",
+          "source_id": "JM_2021_Session-1_2021-02-25_1_Hindi",
+          "question_number": 2,
+          "subject": "Physics",
+          "question_type": "MCQ",
+          "source_pages": [
+            3,
+            4
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "Match List I with List II List I (a) h (Planck's constant) (b) E (kinetic energy) (c) V (electric po",
+          "option_count": 8,
+          "asset_count": 10,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_1_Hindi_Q002_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2021_Session-1_2021-02-25_1_Hindi_Q002_OCC1_P4_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2021_Session-1_2021-02-25_1_Hindi_Q002_OCC1_A.png"
+          ],
+          "source_exists": true
         }
       ]
     },
@@ -921,27 +924,6 @@
       "required_minimum": 20,
       "pass": true,
       "sample": [
-        {
-          "occurrence_id": "JM_2022_Session-2_2022-07-30_2_Q001_OCC1",
-          "source_id": "JM_2022_Session-2_2022-07-30_2",
-          "question_number": 1,
-          "subject": "Physics",
-          "question_type": "MCQ",
-          "source_pages": [
-            1
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "If current (I) kinetic energy (K) and charge (Q) are taken as the fundamental quantities, The dimens",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_2_Q001_OCC1_P1_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_2_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_2_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
         {
           "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Q001_OCC1",
           "source_id": "JM_2022_Session-2_2022-07-27_2",
@@ -960,27 +942,6 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-27_2_Q001_OCC1_P1_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-27_2_Q001_OCC1_A.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-27_2_Q001_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2022_Session-2_2022-07-28_1_Q001_OCC1",
-          "source_id": "JM_2022_Session-2_2022-07-28_1",
-          "question_number": 1,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            1
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "Let the solution curve of the differential equation xdy= x + y + y dx, x > 0, intersect the line x =",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-28_1_Q001_OCC1_P1_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-28_1_Q001_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-28_1_Q001_OCC1_B.png"
           ],
           "source_exists": true
         },
@@ -1237,27 +1198,6 @@
           "source_exists": true
         },
         {
-          "occurrence_id": "JM_2022_Session-2_2022-07-30_2_Q002_OCC1",
-          "source_id": "JM_2022_Session-2_2022-07-30_2",
-          "question_number": 2,
-          "subject": "Physics",
-          "question_type": "MCQ",
-          "source_pages": [
-            1
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "Two tmcks A and B are approachmg each other on a straight path with the velocities of 16 mis and 20 ",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_2_Q002_OCC1_P1_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_2_Q002_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_2_Q002_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
           "occurrence_id": "JM_2022_Session-2_2022-07-27_2_Q002_OCC1",
           "source_id": "JM_2022_Session-2_2022-07-27_2",
           "question_number": 2,
@@ -1339,6 +1279,70 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-26_2_Q002_OCC1_P1_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-26_2_Q002_OCC1_A.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-26_2_Q002_OCC1_B.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2022_Session-2_2022-07-30_2_Hindi_Q002_OCC1",
+          "source_id": "JM_2022_Session-2_2022-07-30_2_Hindi",
+          "question_number": 2,
+          "subject": "Physics",
+          "question_type": "MCQ",
+          "source_pages": [
+            1
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "B 16 20 4m/s2",
+          "option_count": 4,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_2_Hindi_Q002_OCC1_P1_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_2_Hindi_Q002_OCC1_A.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_2_Hindi_Q002_OCC1_B.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2022_Session-2_2022-07-30_1_Hindi_Q002_OCC1",
+          "source_id": "JM_2022_Session-2_2022-07-30_1_Hindi",
+          "question_number": 2,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            1,
+            2
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "f(x) —ctlxl + Ißx —yl t, a, B, fiFT ftgaii, f(x) fiqfiz t,",
+          "option_count": 4,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-30_1_Hindi_Q002_OCC1_P2_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_1_Hindi_Q002_OCC1_A.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-30_1_Hindi_Q002_OCC1_B.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2022_Session-2_2022-07-29_2_Hindi_Q002_OCC1",
+          "source_id": "JM_2022_Session-2_2022-07-29_2_Hindi",
+          "question_number": 2,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            1
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "1",
+          "option_count": 4,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2022_Session-2_2022-07-29_2_Hindi_Q002_OCC1_P1_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-29_2_Hindi_Q002_OCC1_A.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2022_Session-2_2022-07-29_2_Hindi_Q002_OCC1_B.png"
           ],
           "source_exists": true
         }
@@ -1500,28 +1504,6 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-13_2_English_Hindi_Q001_OCC1_P2_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-13_2_English_Hindi_Q001_OCC1_P3_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2023_Session-2_2023-04-13_2_English_Hindi_Q001_OCC1_A.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2023_Session-2_2023-04-08_1_English_Hindi_Q001_OCC1",
-          "source_id": "JM_2023_Session-2_2023-04-08_1_English_Hindi",
-          "question_number": 1,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            2,
-            3
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "Let the number of elements in sets and B be five and two respectively. Then the number of subsets of",
-          "option_count": 8,
-          "asset_count": 10,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q001_OCC1_P2_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q001_OCC1_P3_2.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q001_OCC1_A.png"
           ],
           "source_exists": true
         },
@@ -1786,6 +1768,28 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q002_OCC1_P3_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q002_OCC1_P4_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_1_English_Hindi_Q002_OCC1_P4_3.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2023_Session-2_2023-04-08_2_English_Hindi_Q002_OCC1",
+          "source_id": "JM_2023_Session-2_2023-04-08_2_English_Hindi",
+          "question_number": 2,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            3,
+            4
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "1+2isin0 Let 2m): is purely imaginmy I isin0 . Then the sum of the elements in A is 1+2isin0 I isin0",
+          "option_count": 8,
+          "asset_count": 10,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_2_English_Hindi_Q002_OCC1_P3_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2023_Session-2_2023-04-08_2_English_Hindi_Q002_OCC1_P4_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2023_Session-2_2023-04-08_2_English_Hindi_Q002_OCC1_A.png"
           ],
           "source_exists": true
         }
@@ -2944,27 +2948,6 @@
           "source_exists": true
         },
         {
-          "occurrence_id": "JM_2026_Session-2_2026-04-04_1_Q007_OCC1",
-          "source_id": "JM_2026_Session-2_2026-04-04_1",
-          "question_number": 7,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            3
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "10 The first tenn of an A.PT of 30 non-negative terms is Ifthe sum of this A.P. is 3 the cube of its",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_1_Q007_OCC1_P3_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-04_1_Q007_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-04_1_Q007_OCC1_B.png"
-          ],
-          "source_exists": true
-        },
-        {
           "occurrence_id": "JM_2026_Session-2_2026-04-05_1_Q008_OCC1",
           "source_id": "JM_2026_Session-2_2026-04-05_1",
           "question_number": 8,
@@ -3005,27 +2988,6 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q008_OCC1_P3_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q008_OCC1_P4_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_1_Q008_OCC1_A.png"
-          ],
-          "source_exists": true
-        },
-        {
-          "occurrence_id": "JM_2026_Session-2_2026-04-06_2_Q008_OCC1",
-          "source_id": "JM_2026_Session-2_2026-04-06_2",
-          "question_number": 8,
-          "subject": "Mathematics",
-          "question_type": "MCQ",
-          "source_pages": [
-            4
-          ],
-          "ocr_status": "OCR_REVIEW_REQUIRED",
-          "content_status": "CONTENT_PARTIALLY_VERIFIED",
-          "question_text": "Let the mean and the variance of seven observations 2, 4, u, 8, B, 12, 14, < ß, be 8 and 16 respecti",
-          "option_count": 4,
-          "asset_count": 5,
-          "asset_paths": [
-            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_2_Q008_OCC1_P4_1.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_2_Q008_OCC1_A.png",
-            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_2_Q008_OCC1_B.png"
           ],
           "source_exists": true
         },
@@ -3112,6 +3074,50 @@
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q011_OCC1_P4_1.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q011_OCC1_P5_2.png",
             "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-04_2_Q011_OCC1_P5_3.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2026_Session-2_2026-04-05_1_Q011_OCC1",
+          "source_id": "JM_2026_Session-2_2026-04-05_1",
+          "question_number": 11,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            4,
+            5
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "In an equilateral triangle PQR, let the veltex P be at (3, 5) and the side QR be along the line x + ",
+          "option_count": 2,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_1_Q011_OCC1_P4_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_1_Q011_OCC1_P5_2.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-05_1_Q011_OCC1_P5_3.png"
+          ],
+          "source_exists": true
+        },
+        {
+          "occurrence_id": "JM_2026_Session-2_2026-04-06_1_Q011_OCC1",
+          "source_id": "JM_2026_Session-2_2026-04-06_1",
+          "question_number": 11,
+          "subject": "Mathematics",
+          "question_type": "MCQ",
+          "source_pages": [
+            4,
+            5
+          ],
+          "ocr_status": "OCR_REVIEW_REQUIRED",
+          "content_status": "CONTENT_PARTIALLY_VERIFIED",
+          "question_text": "2 Ifthe eccentricity e of the hyperbola passing through (6,4Nfi) , satisfies 15(e + 1) — 34e, then t",
+          "option_count": 4,
+          "asset_count": 5,
+          "asset_paths": [
+            "JEE_QUESTION_DATABASE_FINAL/assets/questions/phase5b_v5_question_JM_2026_Session-2_2026-04-06_1_Q011_OCC1_P4_1.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_1_Q011_OCC1_A.png",
+            "JEE_QUESTION_DATABASE_FINAL/assets/options/phase5b_v5_option_JM_2026_Session-2_2026-04-06_1_Q011_OCC1_B.png"
           ],
           "source_exists": true
         }
@@ -3245,7 +3251,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 75
+        "CONTENT_PARTIALLY_VERIFIED": 74,
+        "CONTENT_VERIFIED": 1
       }
     },
     "2021": {
@@ -3360,7 +3367,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 90
+        "CONTENT_VERIFIED": 3,
+        "CONTENT_PARTIALLY_VERIFIED": 87
       }
     },
     "2023": {
@@ -3488,7 +3496,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 90
+        "CONTENT_PARTIALLY_VERIFIED": 80,
+        "CONTENT_VERIFIED": 10
       }
     },
     "2024": {
@@ -3620,7 +3629,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 90
+        "CONTENT_PARTIALLY_VERIFIED": 83,
+        "CONTENT_VERIFIED": 7
       }
     },
     "2025": {
@@ -3703,8 +3713,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 74,
-        "CONTENT_VERIFIED": 1
+        "CONTENT_PARTIALLY_VERIFIED": 58,
+        "CONTENT_VERIFIED": 17
       }
     },
     "2026": {
@@ -3750,7 +3760,8 @@
       ],
       "sequence_pass": true,
       "question_status_counts": {
-        "CONTENT_PARTIALLY_VERIFIED": 75
+        "CONTENT_PARTIALLY_VERIFIED": 74,
+        "CONTENT_VERIFIED": 1
       }
     }
   }

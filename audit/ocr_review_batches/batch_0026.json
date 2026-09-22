@@ -1,0 +1,14 @@
+{
+  "batch_id": "batch_0026",
+  "status": "COMPLETED",
+  "records_processed": 100,
+  "records_promoted": 0,
+  "records_retained": 100,
+  "records_failed": 100,
+  "bucket": {
+    "incomplete_text": 100
+  },
+  "timestamp": "2026-09-21T20:16:33+00:00",
+  "record_file": "C:\\Users\\dell\\Music\\Jee Web\\audit\\ocr_review_batches\\batch_0026_records.jsonl",
+  "elapsed_seconds": 67.96
+}
